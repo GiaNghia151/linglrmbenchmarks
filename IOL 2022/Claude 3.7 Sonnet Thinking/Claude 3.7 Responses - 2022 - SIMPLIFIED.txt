@@ -1,0 +1,144 @@
+Great. Good job on the first one! Please FORGET the last LLM answer and FULLY FOCUS on the next one. Here is the next LLM answers for you to grade. Once again, do not change the LLM answers, simply grade them according to model answers and our rubric.
+
+### Problem 1 Solutions
+
+(a) Other translation: I give them to you_{pl}.
+
+(b) Translations into English:
+10. — He gives him to us" or "He gives them to us.
+11. — You_{pl} give me to him.
+12. — They give us to you_{sg}.
+
+(c) Translations into Ubykh:
+13. — ŝʷəsənatʷan.
+14. — asŝʷtʷan.
+15. — šʼatʷan.
+16. — wəwšʼtʷan.
+17. — ašʼəntʷan.
+
+### Problem 2 Solutions
+
+(a) Correspondences:
+1. — 1-C.
+2. — 2-Z.
+3. — 3-I.
+4. — 4-S.
+5. — 5-M.
+6. — 6-Q.
+7. — 7-H.
+8. — 8-G.
+9. — 9-N.
+10. — 10-T.
+11. — 11-L.
+12. — 12-D.
+13. — 13-V.
+14. — 14-R.
+15. — 15-K.
+16. — 16-J.
+17. — 17-B.
+18. — 18-A.
+19. — 19-E.
+20. — 20-F.
+21. — 21-X.
+22. — 22-O.
+23. — 23-P.
+24. — 24-W.
+25. — 25-Y.
+26. — 26-U.
+
+(b) Translations into English:
+27. — They are laid down" or "They lie, are lying down" (This one has two possible translations).
+28. — He tears them in two.
+29. — He peels it.
+
+(c) Translations into Alabama:
+30. — inchaffli.
+31. — incháfka.
+32. — ɬombi.
+33. — atanni.
+
+(d) atanni — can also be translated as "it is next to something" or "he puts it next to something" since the Alabama language often uses the same form for both stative and active meanings of positional verbs.
+
+### Problem 3 Solutions
+
+(a) Translations into English:
+17. — I ask if it is your_{sg} grandfather whom you_{sg} call.
+18. — I will not work in Upington.
+19. — The woman is afraid of my dog.
+20. — It is you whom I will call.
+21. — Who do you_{pl} see?
+22. — Who do I like?
+
+(b) Translations into Nǀuuki:
+23. — ɡǀi xaŋki ǁu si ǃʔai a ǁãu.
+24. — ɡǀa xae ŋ ǂhun ǃaukea.
+25. — kiɟa xae u si ǂqheeke.
+26. — na kacuuʔi ŋ ɡǀi ǃuu xae a ǂʔii.
+27. — cuu xae si ǀqhõʕo ŋ ǃhaeke.
+28. — u ŋǀii ɡǀi.
+
+### Problem 4 Solutions
+
+(a) Mapping:
+
+A = 5
+B = 7
+C = 13
+D = 6
+E = 17
+F = 4
+G = 8
+H = 11
+I = 15
+J = 16
+K = 10
+L = 11
+M = 14
+N = 20
+O = 9
+P = 19
+Q = 12
+R = 22
+S = 21
+T = 23
+U = 24
+V = 18
+W = 15
+X = 3
+(Non-speakers: Man 3, Man 10 (N))
+
+(b) Fill in the blanks:
+
+(i) nhupa (spouse)
+(ii) nhuthi (sibling)
+(iii) wardu (child/son/daughter)
+(iv) nhupa (spouse)
+(v) apityi (parent)
+(vi) nhupa (spouse)
+(vii) lhuka (child/offspring)
+(viii) kadnhini (nephew/niece or cousin)
+(ix) wardu (child/son/daughter)
+
+### Problem 5 Solutions
+
+(a) la⁵⁵.
+
+(b) Fill in the blanks:
+1. — liʔ²⁴.
+2. — tanʔ⁴².
+3. — pha⁵⁵.
+4. — ikaʔ.
+5. — kaʔ²⁴.
+6. — təpa.
+7. — pa³³.
+8. — mɨtày.
+9. — taiʔ⁴².
+10. — tàlam.
+11. — lanʔ⁴².
+12. — lipùh.
+13. — phu⁵⁵.
+14. — pilòn.
+15. — laːn¹¹.
+16. — la³³.
+17. — phu⁵⁵.
+18. — ta³³.

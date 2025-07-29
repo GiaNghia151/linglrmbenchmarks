@@ -1,0 +1,382 @@
+Problem 1:
+    Part a:
+        moeto waroewo:
+            Classification: Type 1
+            LLM Answer: 120
+            Real Answer: 480
+            Grade: 0
+        ijema joka rati:
+            Classification: Type 1
+            LLM Answer: 80 (This has the same value as mepina daemita moeto)
+            Real Answer: 39
+            Grade: 0
+        moeto wido ma benomi ka wi:
+            Classification: Type 1
+            LLM Answer: 343 (This has the same value as moeto idibi ma widoma mepija ka benomi)
+            Real Answer: 186
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: 1: Cannot be determined from the given data.
+            Real Answer: ena
+            Grade: 0
+        2:
+            Classification: Type 2
+            LLM Answer: 19: ije joka rati
+            Real Answer: ijema rati or ije mepina
+            Grade: 0
+        3:
+            Classification: Type 2
+            LLM Answer: 26: joka rati ma wija ka ije
+            Real Answer: benomima mepina
+            Grade: 0
+        4:
+            Classification: Type 2
+            LLM Answer: 104: (mepija ka ije) daemita moeto (or (wija joka rati ka ije) daemita moeto)
+            Real Answer: wima mepija daemita moeto
+            Grade: 1
+        5:
+            Classification: Type 2
+            LLM Answer: 292: moeto ije ma mepija ka ije ka wido ka benomi
+            Real Answer: moeto wi ma wijama rati beo ka idibi
+            Grade: 1
+
+Problem 2:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: H
+            Real Answer: I
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: D
+            Real Answer: G
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: F
+            Real Answer: H
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: A
+            Real Answer: C
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: E
+            Real Answer: J
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: C
+            Real Answer: D
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: G
+            Real Answer: E
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: B
+            Real Answer: B
+            Grade: 1
+        9:
+            Classification: Type 1
+            LLM Answer: I
+            Real Answer: A
+            Grade: 0
+        10:
+            Classification: Type 1
+            LLM Answer: J
+            Real Answer: F
+            Grade: 0
+    Part b:
+        11:
+            Classification: Type 1
+            LLM Answer: K
+            Real Answer: O
+            Grade: 0
+        12:
+            Classification: Type 1
+            LLM Answer: L
+            Real Answer: P
+            Grade: 0
+        13:
+            Classification: Type 1
+            LLM Answer: M
+            Real Answer: M
+            Grade: 1
+        14:
+            Classification: Type 1
+            LLM Answer: N
+            Real Answer: N
+            Grade: 1
+        15:
+            Classification: Type 1
+            LLM Answer: O
+            Real Answer: S
+            Grade: 0
+        16:
+            Classification: Type 1
+            LLM Answer: P
+            Real Answer: K
+            Grade: 0
+        17:
+            Classification: Type 1
+            LLM Answer: R
+            Real Answer: R
+            Grade: 1
+        18:
+            Classification: Type 1
+            LLM Answer: Q
+            Real Answer: L
+            Grade: 0
+        19:
+            Classification: Type 1
+            LLM Answer: N
+            Real Answer: Q
+            Grade: 0
+    Part c:
+        20:
+            Classification: Type 2
+            LLM Answer: field of corn (or corn plant)
+            Real Answer: blade of grass
+            Grade: 0
+        21:
+            Classification: Type 2
+            LLM Answer: item, piece, unit
+            Real Answer: sweet (adj.)
+            Grade: 0
+        22:
+            Classification: Type 2
+            LLM Answer: long egg-shaped item (or string of eggs)
+            Real Answer: tree
+            Grade: 0
+        23:
+            Classification: Type 2
+            LLM Answer: salt (This word has the same translation as S. salt)
+            Real Answer: blood
+            Grade: 0
+        24:
+            Classification: Type 2
+            LLM Answer: sweet leaves
+            Real Answer: bread
+            Grade: 0
+        25:
+            Classification: Type 2
+            LLM Answer: tea leaves
+            Real Answer: leaves
+            Grade: 0
+    Part d:
+        26:
+            Classification: Type 2
+            LLM Answer: ma:k’yawe
+            Real Answer: k’ose
+            Grade: 0
+        27:
+            Classification: Type 2
+            LLM Answer: homawe
+            Real Answer: homanne
+            Grade: 1
+        28:
+            Classification: Type 2
+            LLM Answer: ma chikwa (if generic meat); ma:chikwa chikwa (if piece of chicken meat)
+            Real Answer: shi’le
+            Grade: 0
+        29:
+            Classification: Type 2
+            LLM Answer: k’yawe
+            Real Answer: k’yawe
+            Grade: 2
+        30:
+            Classification: Type 2
+            LLM Answer: be
+            Real Answer: miwe
+            Grade: 0
+        31:
+            Classification: Type 2
+            LLM Answer: ma’le
+            Real Answer: beya:we
+            Grade: 0
+    Part e:
+        Ma’k’yayanne:
+            Classification: Type 2
+            LLM Answer: Place of Salty Waters (or Salt Springs).
+            Real Answer: salt lake.
+            Grade: 1
+
+Problem 3:
+    Part a:
+        14:
+            Classification: Type 2
+            LLM Answer: "Which woman will look after that old man and this man?" / "How many women will look after that old man and this man?" (This sentence has two possible translations. Give them both.)
+            Real Answer: How many women will this old man look after?
+            Grade: 0
+        15:
+            Classification: Type 2
+            LLM Answer: "These two women will eat."
+            Real Answer: These women will eat two things.
+            Grade: 0
+        16:
+            Classification: Type 2
+            LLM Answer: "Which child arrived?"
+            Real Answer: Which child arrived?
+            Grade: 2
+        17:
+            Classification: Type 2
+            LLM Answer: "How many men will see the wild children?"
+            Real Answer: How many men will see the wild children? / How many men will the wild children see?
+            Grade: 2
+        18:
+            Classification: Type 2
+            LLM Answer: "Those women saw one canoe."
+            Real Answer: Those women saw one canoe.
+            Grade: 2
+    Part b:
+        19:
+            Classification: Type 2
+            LLM Answer: Navila waga legisesi nunumwaya minasiwena?
+            Real Answer: Kevila waga legisesi nunumwaya minasiwena?
+            Grade: 1
+        20:
+            Classification: Type 2
+            LLM Answer: Biyamatasi gwadi tokabitam mtona tauwau dimdim minasina tetala.
+            Real Answer: Biyamatasi gwadi magudina gudikabitam tevasi dimdim mtosina.
+            Grade: 0
+        21:
+            Classification: Type 2
+            LLM Answer: Navila gugwadi bikamkwamsi bunukwa minasina?
+            Real Answer: Gudivila gugwadi bikamkwamsi bunukwa minasina?
+            Grade: 1
+        22:
+            Classification: Type 2
+            LLM Answer: Amtona vivila levasi yena dakuna makesiwena?
+            Real Answer: Aminana vivila lebani yena minasiwena namanabweta?
+            Grade: 0
+        23:
+            Classification: Type 2
+            LLM Answer: Legisesi tau namwaya magudiwena nayu ka’ukwa gudigasisi.
+            Real Answer: Legisesi tomwaya mtowena nayu ka’ukwa nagasisi.
+            Grade: 0
+
+Problem 4:
+    Part a:
+        Exception and corrected form:
+            Classification: Type 3
+            LLM Answer: Exception: wẽ́nẽ́ -> tṹwẽtіnẽ; Expected form: tẽ́wẽ́tẽ́nẽ́ (following pattern of CVCV words like wẽr̀ũ̀ -> tũ̀wẽt̀ũ̀rũ̀, where tV prefix and tV infix copy the vowel quality of the syllable they attach to/precede).
+            Real Answer: tі ̃ḿі ̃t́і ̃ńі ̃́ is the exception, and the corrected form should be tṹmі ̃t́і ̃ńі ̃́.
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: tʊ́rʊ́tʊ́tʊ̂
+            Real Answer: tʊ́rʊ́tʊ́tʊ̀
+            Grade: 1
+        2:
+            Classification: Type 2
+            LLM Answer: tɛ́rɛ́tʊ̃́wʊ̃́ (or tɪ́rɛ́tʊ̃́wʊ̃́ depending on prefix vowel choice for ɛ)
+            Real Answer: tɪr̀ɛt̀ʊ̃́wʊ̃́
+            Grade: 1
+        3:
+            Classification: Type 2
+            LLM Answer: túbіtókó (following bіśі ́ -> túbіt́іśі ́ for prefix)
+            Real Answer: túbіt́úkó
+            Grade: 1
+        4:
+            Classification: Type 2
+            LLM Answer: ɲ́tɪ̃́yẽ́ tɪ́rɪtã̀yã̀ (ɲ́yẽ́ as monosyllabic CV like ńdá, rɪỳã̀ as CVCV)
+            Real Answer: ńtĩýẽ́ tɪr̀ɪt̀ɪ ̃ỳã̀
+            Grade: 0
+        5:
+            Classification: Type 2
+            LLM Answer: tɛ́bɛ́tʊ̃́kʷʊ̃́
+            Real Answer: tʊ́bɛt́ʊ̃́kʷʊ̃́
+            Grade: 1
+        6:
+            Classification: Type 2
+            LLM Answer: tírìtõ̀yõ̀tõ̀rõ̀ (adjusting tone on ri based on observed patterns)
+            Real Answer: tіŕіt́ĩỳõ̀tũ̀rõ̀
+            Grade: 0
+        7:
+            Classification: Type 2
+            LLM Answer: tɔ́hʷɔtàgâ
+            Real Answer: tʊh̀ʷɔt̀ʊ́gà
+            Grade: 0
+
+Problem 5:
+    Part a:
+        aharapyryk:
+            Classification: Type 2
+            LLM Answer: he hugged you_{pl}
+            Real Answer: I hugged you
+            Grade: 0
+        mymyboro:
+            Classification: Type 2
+            LLM Answer: I will bite us / he will bite us
+            Real Answer: He will bite us
+            Grade: 1
+        uru:
+            Classification: Type 2
+            LLM Answer: slept (or generic "sleep")
+            Real Answer: I slept
+            Grade: 0
+        tsiksiwynaha:
+            Classification: Type 2
+            LLM Answer: we will cut it up
+            Real Answer: We cut them up (past)
+            Grade: 0
+        ikwak:
+            Classification: Type 2
+            LLM Answer: I hunted
+            Real Answer: I hunted
+            Grade: 2
+        ziksi:
+            Classification: Type 2
+            LLM Answer: he left
+            Real Answer: He left
+            Grade: 2
+    Part b:
+        We will fall:
+            Classification: Type 2
+            LLM Answer: tsiknanaha
+            Real Answer: tsimynarahanaha
+            Grade: 0
+        I bathed:
+            Classification: Type 2
+            LLM Answer: nimoro
+            Real Answer: ikmoro
+            Grade: 1
+        You_{sg} bit us:
+            Classification: Type 2
+            LLM Answer: tsikmymyboro
+            Real Answer: tsikmyboro
+            Grade: 1
+        I will wait for them / he will wait for them:
+            Classification: Type 2
+            LLM Answer: pisipery
+            Real Answer: mysipery
+            Grade: 1
+        I will hug you_{pl} / he will hug you_{pl}:
+            Classification: Type 2
+            LLM Answer: paharapyryk
+            Real Answer: pahaharapyryk
+            Grade: 1
+        You_{sg} will leave:
+            Classification: Type 2
+            LLM Answer: tsipiksi
+            Real Answer: tsipiksi
+            Grade: 2
+        I killed it:
+            Classification: Type 2
+            LLM Answer: ikbeze
+            Real Answer: ibeze
+            Grade: 1
+
+Type 1: 4/22 (18.18%)
+Type 2: 30/96 (31.25%)
+Type 3: 0/2 (0.00%)
+Total Score: 34/120 (28.33%)

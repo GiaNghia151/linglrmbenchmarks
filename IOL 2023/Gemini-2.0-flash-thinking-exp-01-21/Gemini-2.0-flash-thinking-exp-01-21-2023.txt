@@ -1,0 +1,156 @@
+﻿My solution is as follows:
+
+Problem 1
+
+(a)
+15. ɨnnetka
+16. ɨŋkɨrɨ
+17. ɨmp'uhru
+18. ɨnher'o
+
+(b)
+39. her'oŋ I smoothed out (it)
+40. ɨniʂpaʔ I am leaving
+41. aplaʔ it opens
+42. ʂur'uʔ it was chosen
+43. ɨmbiriŋ I saw (it)
+44. ʂawʂa I plant (it)
+45. k'anaʔ it was trapped
+46. p'ɨhna I leap
+47. hɨk'aʔ it is being sewn, woven
+48. ɨnipal'aʔ I was bathed
+
+Problem 2
+
+(a)
+uwa xinhikaru sytu
+The woman remembered my fish.
+
+txipary nhinhikary
+Your banana is my fish.
+
+kyky aikute pysykary ywamukary
+To her, the man's bone house.
+
+(b)
+The sentence uwa umynary kanawa ximakymukary is grammatically incorrect because it is missing a verb to express the action of giving or bringing the canoe and banana to the fish. A grammatically correct equivalent is:
+
+uwa umynary kanawa ximakymukary kyky
+
+This translates to:
+She gave your banana canoe to the fish.
+
+(c)
+You_{sg} found the house.
+pitakywĩtxi aikute
+aikute pitakywĩtxi
+
+I brought your_{sg} canoe to the girl.
+nỹwa umykanawa hãtakurumukary
+umykanawa hãtakurumukary nỹwa
+
+He brought your_{sg} water to me.
+ywa umyãtary nutamukary
+umyãtary nutamukary ywa
+
+The man drank the girl’s blood.
+kyky hãtakuru mynaru sytu
+hãtakuru mynaru sytu kyky
+
+I remembered the eye.
+nhiximakyte uky
+uky nhiximakyte
+
+You_{sg} ate my banana.
+pita nhikary napukary
+napukary pita nhikary
+
+Problem 3
+
+(a)
+e-ɣuyanah
+You_{pl} shuddered.
+
+ba-ihwin
+You_{pl} cried.
+
+nambum-kisaɣah
+Oh, I spat on him!
+
+bat-ɣadawn
+Aw, you_{sg} left.
+
+ubamum-kolewn
+Aw, you_{sg} spat on you_{pl} in vain.
+
+(b)
+He floated to the surface.
+a-tamanab
+
+Aw, you_{sg} returned.
+ubat-dahetok
+
+Oh, I silenced him!
+nambam-hoɣab
+
+He really chased us away.
+ube-otab
+
+You_{pl} really spat on us in vain.
+ebum-kesehab
+
+Problem 4
+
+(a)
+ē-wāpamikoyēk
+as you_{pl} see you_{sg}
+
+ninakinikonān
+I stop you_{pl}
+
+kikakwēcimāwāw
+you_{pl} ask him
+
+kiwīcihitināwāw
+you_{pl} help you_{sg}
+
+(b)
+if we ask them
+makakwēcimānānak
+
+they challenge you_{pl}
+kimawinēskomikwak
+
+they help me
+kiwīcihimikwak
+
+you_{sg} see them
+kiwāpamāwāk
+
+I stop you_{pl}
+ninakinikonān
+
+Problem 5
+
+(a)
+kampwɔhii shuunni na kɛ
+1100
+
+ŋkuu na baataanre
+50
+
+(b)
+15
+taanre na kaŋkuro
+
+109
+shuunni na baaricyɛɛre
+
+152
+shuunni na ŋkuu na ŋkwuu
+
+403
+ɲɛɛɲɛ taanre na ŋkwuu na niŋkin
+
+1534
+kampwɔhii na kaŋkuro shuunni na beɲjaaga na taanre na ɲɛɛɲɛ taare

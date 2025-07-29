@@ -1,0 +1,117 @@
+Here is the LLM answer reformatted to conform to the model answers:
+
+Problem 1 Solutions
+
+(a) Numerals in digits:
+
+	•	moeto waroewo — 78
+	•	ijema joka rati — 55
+	•	moeto wido ma benomi ka wi — 38
+	•	One of these numerals has the same value as one of the numerals above: ijema joka rati
+
+(b) Write out in Ekari:
+
+	1.	ije wija, ka wi
+	2.	19: ije rati
+	3.	26: benomima jaka wija
+	4.	104: mepina daemita moeto joka rati wija wija
+	5.	292: moeto idibi ma widoma mepija ka benomi ije jaka wija
+	•	One of these numbers can be expressed in two ways: 1 (ije wija and ka wi)
+
+Problem 2 Solutions
+
+(a) Correct correspondences:
+
+	1.	1-A
+	2.	2-B
+	3.	3-F
+	4.	4-H
+	5.	5-E
+	6.	6-C
+	7.	7-G
+	8.	8-D
+	9.	9-I
+	10.	10-J
+
+(b) Correct correspondences:
+
+	11.	11-K
+	12.	12-L
+	13.	13-M
+	14.	14-N
+	15.	15-O
+	16.	16-P
+	17.	17-Q
+	18.	18-R
+	19.	19-S
+
+(c) Translations into English:
+
+	20.	be’le — ?
+	21.	chikwa — chicken
+	22.	datdanne — meat
+	23.	ade — salt
+	24.	mulo:we — chocolate
+	25.	hawe — water
+	•	Word with same translation: 21. chikwa datdanne = chicken meat
+
+(d) Translations into Zuni:
+
+	26.	salty — ma:k’yawe
+	27.	juniper leaf — homa
+	28.	piece of meat — datda:we
+	29.	water — hawe
+	30.	corn, maize — beyanne
+	31.	fields of grass — ma’le
+
+(e) Ma’k’yayanne — A sacred salt water spring/source.
+
+Problem 3 Solutions
+
+(a) Translations into English:
+
+	14.	Navila vivila biyamata tomwaya mtona? — How many women will look after this man? / How many women will look after these men?
+	15.	Bikamkwamsi kweyu vivila minasina. — This clever woman will eat these fish.
+	16.	Amagudina gwadi lekota? — Which child is this?
+	17.	Tevila tauwau bigisesi gugwadi gudigasisi? — How many men did those children see?
+	18.	Legisesi ketala waga vivila minasiwena. — This clever woman saw these canoes.
+	•	Sentence with two possible translations: 14. Navila vivila biyamata tomwaya mtona?
+
+(b) Translations into Kilivila:
+
+	19.	How many canoes did those old women see? — Navila namwaya leyamatasi minana legisesi?
+	20.	These four white men will look after this clever child. — Lekota tetala dimdim tauwau biyamata lekota kwetala gwadi.
+	21.	How many children will eat these pigs? — Navila gugwadi bikamkwamsi minasina bunukwa?
+	22.	Which woman caught those beautiful fish? — Amtona vivila bibanisi dakuna minana yena?
+	23.	Two wild dogs saw that old man. — Teyu nagasisi ka’ukwa legisesi bigisi make tau.
+
+Problem 4 Solutions
+
+(a) Exception and corrected form:
+
+	•	Exception word: òtṹtṹ; Regular form if determined by same rules: ɔ́tʊ́tṹ (speculative)
+
+(b) Agbirigba forms:
+
+	•	Acknowledged that without a definitively identified rule, accurate forms cannot be provided with certainty from the given data.
+
+Problem 5 Solutions
+
+(a) Translations into English:
+
+	•	aharapyryk — I hug me
+	•	mymyboro — I will bite bathe (very tentative)
+	•	uru — he sleeps
+	•	tsiksiwynaha — we left (tentative)
+	•	ikwak — I hunt
+	•	ziksi — he left
+
+(b) Translations into Rikbaktsa:
+
+	•	we will fall — tsipunanaha
+	•	I bathed — nimoro
+	•	you_{sg} bit us — tsiborumy
+	•	I will wait for them / he will wait for them — pahasibory
+	•	I will hug you_{pl} / he will hug you_{pl} — pikarapyrykpery
+	•	you_{sg} will leave — tsimyksi
+	•	I killed it — ikbeze

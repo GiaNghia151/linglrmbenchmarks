@@ -1,0 +1,267 @@
+﻿Problem 1: Guazacapán Xinka
+
+(a) Fill in the gaps in rows 15–18:
+15. netkay' -> ɨnnetak'a
+16. kɨrɨy' -> ɨŋɡɨr'ɨ
+17. p'uhruy' -> ɨmp'uhur'u
+18. her'oy -> ɨnher'o
+
+(b) Fill in the gaps in rows 39–48:
+39. her'oŋ - I smoothed (it) out
+40. ɨniʂpaʔ - I left
+41. aplaʔ - it was opened
+42. ʂur'uʔ - it chose (it)
+43. pirin' - I saw (it)
+44. ɨnʂawʂaʔ - I plant (it)
+45. k'aaniʔ - it was trapped
+46. ɨmp'ɨhnaʔ - I leap
+47. ahɨk'aʔ - it is being sewn, woven
+48. ɨniplaaʔ - I was bathed
+
+Linguistic Rules for Guazacapán Xinka:
+
+    Form 1 to Form 2 Transformation:
+
+        Prefix ɨN-: N assimilates place of articulation to the following consonant (m before labials, ŋ before velars, n elsewhere).
+
+        Initial Consonant Voicing: Non-ejective stops (p, t, k) become voiced (b, d, ɡ) after the nasal prefix. Other consonants (ejectives, fricatives, nasals, etc.) are not affected.
+
+        Stem Modification: The final -(V)y' of Form 1 is removed. The core stem is modified.
+
+            Epenthesis: A vowel is often inserted into consonant clusters or to fit a morphological template. This vowel is frequently a (e.g., apl- -> apal-; tund- -> dunat-), or it can harmonize with a preceding stem vowel (e.g., ɬɨkn- -> ɬɨkɨn-; yuɬm- -> yuɬum-).
+
+            Consonant alternation: ʂ may change to ʦ in some roots (e.g., kiʂ- -> giʦ-; ʂakʂ- -> ʂakaʦ-).
+
+        Suffixation: The vowel that immediately preceded -y' in Form 1 becomes the final vowel of Form 2, typically following a glottal stop ' which is realized on the preceding consonant (e.g., piriy' -> ɨmbir'i).
+
+    Other Verb Forms (Table 2 morphology):
+
+        Stems: Verbs generally use a "Form 1-like stem" (Form 1 root minus the final y') or a "Form 2-like stem" (Form 2 root, without its prefix and final vowel inflection).
+
+        "I Xed (it)" (active past/perfective): Form 1-like stem + suffix (-ŋ after stem vowels a, o, u; -n' after stem vowels i, e, ɨ). No prefix.
+
+        "I was Xed" (past passive): ɨN- prefix + Form 1-like stem + Vowel Lengthening (e.g., i->ii, e/o->ee/oo, thematic a->aa) + -ʔ suffix.
+
+        "I am being Xed" (present passive) / "I X" (intransitive present/past): ɨN- prefix + Form 1-like stem (or a variant) + -ʔ suffix. Vowel lengthening is generally absent in present passives. Some intransitives might show vowel length.
+
+        "it was Xed" (past passive) / "it Xed" (intransitive past): Form 1-like stem + -ʔ suffix. Some stems exhibit vowel lengthening in this form (e.g., root e/o->ee/oo, root a->aa).
+
+        "it is being Xed" (present passive) / "it Xes" (intransitive present): a- prefix + Form 1-like stem + -ʔ suffix.
+
+Problem 2: Apurinã
+
+(a) Translate into English:
+17. uwa xinhikaru sytu - The woman remembered her.
+18. txipary nhinhikary - I ate the banana.
+19. kyky aikute pysykary ywamukary - You (sg) gave the house to the man. (with "the man" clarifying "to him")
+
+(b) This sentence is grammatically incorrect. Explain why, and provide its grammatically correct equivalent and its English translation:
+20. uwa umynary kanawa ximakymukary
+* Reason for incorrectness: Redundant subject marking. The independent subject pronoun uwa (she) co-occurs with the 3rd person singular subject prefix u- on the verb umynary. Typically, one or the other is used.
+* Grammatically correct equivalent (either):
+* uwa mynary kanawa ximakymukary
+* umynary kanawa ximakymukary
+* English translation: She brought the canoe to the fish.
+
+(c) Translate into Apurinã in two ways (demonstrating word order flexibility):
+21. You_{sg} found the house.
+* 1. pita aikute piapukary
+* 2. pita piapukary aikute
+22. I brought your_{sg} canoe to the girl.
+* 1. nuta nmynary pisykaru hãtakurumukary
+* 2. nuta pisykaru nmynary hãtakurumukary
+23. He brought your_{sg} water to me.
+* 1. ywa mynary piãtary nutamukary
+* 2. umynary piãtary nutamukary
+24. The man drank the girl’s blood.
+* 1. kyky ĩpurãã hãtakuru herẽka
+* 2. hãtakuru herẽka ĩpurãã kyky
+25. I remembered the eye.
+* 1. nuta nxinhikary uky
+* 2. uky nxinhikary nuta
+26. You_{sg} ate my banana.
+* 1. pita pinhikary ntxipary
+* 2. ntxipary pinhikary pita
+
+Linguistic Rules for Apurinã:
+
+    Word Order: Relatively free (SOV, SVO, OSV, etc., are attested). Dative arguments (-mukary) often follow the verb or direct object.
+
+    Subject Marking:
+
+        Independent Pronouns: nuta (I), pita (you sg), ywa (he/she).
+
+        Verb Prefixes: n(h)-/ny- (I), pi-/py- (you sg), u-/y-/i- (he/she/it; allomorphs may be verb-specific or indicate noun class).
+
+        If an overt NP or subject pronoun (like ywa) is present, the verb may lack a subject prefix. If the subject is pronominal and not overtly stated, a verb prefix is common. Co-occurrence of an independent subject pronoun and its corresponding subject prefix on the verb is often ungrammatical or redundant.
+
+    Possession:
+
+        Noun-Noun: Possessor Noun + Possessed Noun (e.g., sytu apy "woman’s bone").
+
+        Possessive Prefixes on Nouns: n(h)-/ny- (my), pi-/py- (your sg), u-/y-/i- (his/her/its, similar to verb subject prefixes).
+
+    Noun Morphology: Some nouns take suffixes like -te or -txi (function not fully determined, possibly definiteness or noun class).
+
+    Case Marking: The suffix -mukary indicates dative ("to") or allative ("towards").
+
+    Verb Stems: Can show minor variations for tense/aspect or transitivity (e.g., mynaru/mynary/mynanu "bring").
+
+Problem 3: Coastal Marind
+
+(a) Translate into English:
+18. e-ɣuyanah - You_{pl} shuddered.
+19. ba-ihwin - You_{pl} really cried.
+20. nambum-kisaɣah - Oh, I [VERB-kis]ed in vain.
+21. bat-ɣadawn - Aw, he/she left you_{sg} behind.
+22. ubamum-kolewn - Oh, you_{sg} [VERB-kol]ed him in vain.
+
+(b) Translate into Coastal Marind:
+23. He floated to the surface. - a-tamanab
+24. Aw, you_{sg} returned. - ubat-dahetok
+25. Oh, I silenced him! - nambam-hoɣeb
+26. He really chased us away. - abe-otnawn
+27. You_{pl} really spat on us in vain. - ebeum-kesnawn
+
+Linguistic Rules for Coastal Marind:
+
+    Verb Structure: Verbs are bipartite: PrefixComplex - VerbRoot+Suffix.
+
+    Prefix Complex: Composed of SubjectMarker (+MoodMarker1)(+MoodMarker2).
+
+        Subject Markers (Transitive Paradigm):
+
+            1sg: n- (e.g., nakum-, nambat-)
+
+            2sg: o- (allomorph u- before /b/ initial mood markers) (e.g., ob-, ubate-)
+
+            3sg: a- (or Ø- if followed by a mood marker like um-) (e.g., a-isanab, um-kulaɣawn)
+
+            1pl: nak(e)- or nam(be)- (allomorphy with mood markers) (e.g., nake-, nambe-)
+
+            2pl: e- or i- (allomorphy with mood markers) (e.g., e-keseh, ibatum-)
+
+        Mood/Aspect/Evidential Markers (can combine):
+
+            -(m)bat-: 'Aw' (evidential/affective).
+
+            -(m)bam-: 'Oh!' (emphatic/surprise).
+
+            -be-: 'really' (intensifier).
+
+            -(k)um-: 'in vain' (frustrative).
+
+    Object Suffixes (on Verb Root):
+
+        1sgO (me): -nab
+
+        2sgO (you sg): -awn
+
+        3sgO (him/her/it): -eh, -eb, -ewn (allomorphs depending on verb root/tense).
+
+        1plO (us): -nawn
+
+        2plO (you pl): -ab
+
+    Intransitive Verbs (items 14-17):
+
+        Subject marking appears distinct or fused with mood markers.
+
+            1sgS: e.g., bam-ɣuyanah (Oh, I shuddered!) where bam- likely -(m)bam- (Oh!) + 1sgS.
+
+            2sgS: e.g., a-ɣuyaɣah (You_{sg} shuddered.).
+
+            1plS: e.g., bate-tamanab (Aw, we floated.) where bate- likely -(m)bat- (Aw) + 1plS.
+
+            2plS: e.g., ba-tamab (You_{pl} really floated.) where ba- likely -be- (really) + 2plS.
+
+        Suffixes like -ɣah, -nah, -ab mark tense/aspect or intransitive verb classes.
+
+Problem 4: Plains Cree
+
+(a) Translate into English:
+22. ē-wāpamikoyēk - as he/they see(s) you_{pl}
+23. ninakinikonān - he stops us
+24. kikakwēcimāwāw - you_{pl} ask him
+25. kiwīcihitināwāw - I help you_{pl}
+
+(b) Translate into Plains Cree:
+26. if we ask them - kakwēcimāhtāwi (or kakwēcimānāhkāwi)
+27. they challenge you_{pl} - kimawinēskomikowāwak
+28. they help me - niwīcihikwak
+29. you_{sg} see them - kiwāpamāwak
+30. I stop you_{pl} - kinakitināwāw
+
+Linguistic Rules for Plains Cree:
+
+    Verb Structure (Transitive Animate - TA): Generally PersonPrefix - VerbStem - PersonSuffixes.
+
+    Personal Prefixes (Independent Order):
+
+        ni-: 1st person involvement (I, we exclusive).
+
+        ki-: 2nd person involvement (you sg, you pl).
+
+        Ø- (no prefix): 3rd person actor if not further specified by suffixes (or if contextually clear).
+
+    Person Suffixes (Independent Order): Complex portmanteau suffixes mark person/number of both subject and object, and transitivity direction (direct/inverse).
+
+        Direct (e.g., 1st/2nd person acting on 3rd): -āw (sg actor -> 3sg obj), -āwak (sg actor -> 3pl obj), -ānān (1pl actor -> 3sg obj), -ānānak (1pl actor -> 3pl obj), -āwāw (2pl actor -> 3sg obj), -āwāwak (2pl actor -> 3pl obj).
+
+        Inverse (e.g., 3rd person acting on 1st/2nd): -ik (3sg actor -> sg obj), -ikwak (3pl actor -> sg obj), -ikonān (3sg actor -> 1pl obj), -ikonānak (3pl actor -> 1pl obj), -ikowāw (3sg actor -> 2pl obj).
+
+        Local (1st/2nd person acting on 1st/2nd): -in (2sg actor -> 1sg obj), -ināwāw (2pl actor -> 1sg obj), -itin (1sg actor -> 2sg obj), -itinān (1pl actor -> 2sg/pl obj, or 2sg/pl actor -> 1pl obj - ambiguous form), ki-...-itināwāw (1sg actor -> 2pl obj).
+
+    Subordinate ("Conjunct") Forms: Used in dependent clauses.
+
+        Participle/Temporal (ē- prefix "as/when"): ē- replaces ni-/ki-. Verb stem is often the same as independent, but suffixes differ (e.g., -ak for 1sgS/3sgO; -ayēk for 2plS/3sgO; -ikoyēk for 3S/2plO). The number of a 3rd person actor may be underspecified.
+
+        Conditional ("if"): Typically no ni-/ki- prefix. The verb stem itself might undergo changes (vowel ablaut or prefix drop). Suffixes are specific to the conjunct conditional mood (e.g., -aci, -ako, -yāhkwāwi). Often ends with a particle like -āwi, -k(o), or -ci.
+
+Problem 5: Supyire Numerals
+
+(a) Write in digits:
+
+    kampwɔhii shuunni na kɛ - 810
+
+    ŋkuu na baataanre - 88
+
+(b) Write out in the Supyire language:
+
+    15 - kɛ na kaŋkuro
+
+    109 - ŋkwuu na beɲjaaga na baaricyɛɛre
+
+    152 - ŋkwuu na beetaanre na kɛ na shuunni
+
+    403 - kampwoo na taanre
+
+    1534 - kampwoo taanre na ŋkwuu sicyɛɛre na kɛ na sicyɛɛre
+
+Linguistic Rules for Supyire Numerals:
+
+    Basic Units (1-5):
+
+        niŋkin (1), shuunni (2), taanre (3), sicyɛɛre / ricyɛɛre / kɛ (4 - allomorphs/contextual uses), kaŋkuro (5).
+
+    Units 6-9: Formed with prefix baa- + unit (1-4):
+
+        baani (6 = 5+1), baashuunni (7 = 5+2), baataanre (8 = 5+3), baaricyɛɛre (9 = 5+4).
+
+    Tens: kɛ (10).
+
+    Higher Units:
+
+        beɲjaaga (20). This can be multiplied by units 1-4 using prefix bee- on the multiplier:
+
+            beeshuunni (40 = 202), beetaanre (60 = 203). ( be(ɲjaaga)niŋkin = 20).
+
+        ŋkwuu (or ŋkuu) (80). Can be multiplied by units 1-4 (e.g., ŋkwuu taanre = 80*3 = 240).
+
+        kampwoo (or kampwɔhii) (400). Can be multiplied by units 1-4 (e.g., kampwɔhii shuunni = 400*2 = 800).
+
+    Structure: Numbers are formed by stringing together these units, generally from largest to smallest value. The particle na ("and") connects different blocks of units.
+
+        If a quantity for a large unit like beɲjaaga, ŋkwuu, or kampwoo is 1, the multiplier word niŋkin may be omitted if the context is clear (e.g., beɲjaaga alone means 20).
+
+        The words for 2, 3, 4 (shuunni, taanre, sicyɛɛre/kɛ) are used as quantity multipliers for ŋkwuu and kampwoo.

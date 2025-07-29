@@ -1,0 +1,134 @@
+﻿Problem 1 Solutions: 
+
+(a) Numerals in Digits:  
+
+    moeto waroewo    
+        130  (moeto=100 + waroewo=30).  
+        waroewo  is derived from waroewoma  (30) minus the suffix -ma , which may indicate a decrement of 10 (30 → 20? Not consistent, but based on examples, assume waroewo = 30 ).
+         
+
+    ijema joka rati    
+        38  (ije=30 + joka=2 + rati=6).  
+        This matches the value of waroewoma joka rati  (38), so this is the duplicate.
+         
+
+    moeto wido ma ije ka wi    
+        129  (moeto=100 + wido=29).  
+        This is the same as the given example moeto wija ma ije ka wido , so this is the duplicate.
+         
+     
+
+(b) Numerals in Ekari:  
+
+    1 : wi  (since wija = 2 , so wi  likely means 1).  
+    19 : benomima mepija  (benomima=10 + mepija=9).  
+    26 : waroewo rati  (waroewo=20 + rati=6).  
+    104 : moeto beo  (moeto=100 + beo=4).  
+        beo  likely represents 4 (from idibima rati beo = 55 : 50 + 5 = 55, so beo  may mean 0 or a modifier; here, assume beo = 4  for consistency).
+         
+    292 : moeto idibi ma widoma mepija ka benomi  (same as the given example for 343, but adjusted for 292).  
+        Alternative : moeto idibi beo benomima  (assuming idibi = 200 , beo = subtract 50 , but this is speculative).  
+        The problem states one number can be expressed two ways. 19  could also be enama mepija  (enama=10 + mepija=9), but enama  is 10 (from enama rati beo = 11 ). Thus, 19  has two forms: benomima mepija  and enama mepija .
+         
+     
+
+Problem 2 Solutions (Zuni Translations): 
+
+(a) Correspondences:    
+
+    mo:chikwa datda:we  → A. chicken meat  (link datda:we  to "meat").  
+    haya:we  → B. tea (drink)  (tea is a drink).  
+    doko:ko mo’le  → C. sugar  (sugar is granular; mo’le  may relate to "grain").  
+    ma:chikwa  → D. loaf of bread  (bread is baked ma ).  
+    mu:chikwa  → E. beads  (beads are strung like mu ).  
+    mulonne ≈ mu’le  → K. granule/grain  (matches mo’le  in sugar).  
+    mowe  → G. piles of leaves  (leaves pile up).  
+    ha:k’yawe  → H. chicken egg  (egg from a chicken).  
+    doko:ko shiwe  → I. peach trees  (shiwe  = fruit?).  
+    mo:chikwa mulo:chikwa  → J. chocolate bar  (double chikwa  for "bar").
+     
+
+(b) Additional Correspondences: 
+11. ade muwe  → K. granule/grain  (repeats mo’le/mulonne ).
+12. beyanne  → L. ear of corn  (corn has ears).
+13. homa:we  → M. juniper leaves .
+14. ma:k’yawe  → N. salt water .
+15. ma:k’ose  → O. blood clots .
+16. ma’le  → P. field of grass .
+17. homa:we  → M. juniper leaves  (duplicate of 13).
+18. mi’le  → R. juniper branch .
+19. ade k’yawe  → S. salt .   
+
+(c) Translations: 
+20. be’le  → fields of grass  (from ma’le  → mi’le ? Possibly P ).
+21. chikwa  → beads  (from mu:chikwa ).
+22. datdanne  → chicken meat  (from datda:we ).
+23. ade  → granule/grain  (from ade muwe ).
+24. mulo:we  → blood clots  (from ma:k’ose ?).
+25. hawe  → tea  (from haya:we ).   
+
+(d) Translations: 
+26. salty  → ade k’yawe  (salt + water?).
+27. juniper leaf  → homa:we .
+28. piece of meat  → mo:chikwa .
+29. water  → ma:k’yawe  (salt water minus salt?).
+30. corn, maize  → beyanne .
+31. fields of grass  → ma’le .   
+
+(e) Ma’k’yayanne : salt water  (combines ma:k’yawe  and yann ? Likely N ). 
+Problem 3 Solutions (Kilivila): 
+
+(a) Translations: 
+14. Navila vivila biyamata tomwaya mtona?  → How many old women will look after this man? 
+15. Bikamkwamsi kweyu vivila minasina.  → Those white men will catch these fish. 
+16. Amagudina gwadi lekota?  → Which child arrived? 
+17. Tevila tauwau bigisesi gugwadi gudigasisi?  → How many wild dogs saw that clever child? 
+18. Legisesi ketala waga vivila minasiwena.  → The old women saw those canoes.    
+
+(b) Translations: 
+19. How many canoes did those old women see?  → Navila lekamwaya makesiwena? 
+20. These four white men will look after this clever child.  → Biyamata tau dimdim nunumwaya mtona bigisesi .
+21. How many children will eat these pigs?  → Navila tau lekamkwamsi? 
+22. Which woman caught those beautiful fish?  → Amagudina gwadi lekamkwamsi? 
+23. Two wild dogs saw that old man.  → Tauwau nagasisi lekotasi . 
+Problem 4 Solutions (Agbirigba): 
+
+(a) Exceptional Word : àtʊ́wà (to break) .   
+
+    The rule is inserting t  + vowel between syllables. àtʊ́wà  breaks this pattern (no vowel after t ).  
+    Correct form: àtɪ́wà .
+     
+
+(b) Agbirigba Forms:    
+
+    rʊ́tʊ̂  → tɪŕʊ̂tʊ̂   
+    rɛẁʊ̃́  → tɪrɛ̃̂wʊ̃̀   
+    bіḱó  → tɪbіtḱó   
+    ɲ́yẽ́ rɪỳã̀  → tɪɲ́yẽ̃́ tɪrɪỳã̀   
+    bɛḱʷʊ̃́  → tɪbɛtḱʷʊ̃̀   
+    rіýõ̀rõ̀  → tɪríýõ̀rõ̀   
+    hʷɔg̀â  → tɪhʷɔg̀â 
+     
+
+Problem 5 Solutions (Rikbaktsa): 
+
+(a) Translations:    
+
+    aharapyryk  → You_{sg} hugged me .  
+    mymyboro  → I bathed  (from nimoro  = he bathed).  
+    uru  → He slept  (from zuru ).  
+    tsiksiwynaha  → We left  (from tsiksi  = you left).  
+    ikwak  → You_{sg} hunted  (from mywak  = I hunt).  
+    ziksi  → We left  (duplicate of tsiksiwynaha ).
+     
+
+(b) Translations:    
+
+    we will fall  → iknaraha .  
+    I bathed  → mymyboro .  
+    you_{sg} bit us  → tsibeze .  
+    I will wait for them  → tsimyerapy .  
+    I will hug you_{pl}  → tsipikharapy .  
+    you_{sg} will leave  → tsiksi .  
+    I killed it  → tsibeze .
+     

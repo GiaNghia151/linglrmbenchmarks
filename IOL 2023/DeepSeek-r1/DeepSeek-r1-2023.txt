@@ -1,0 +1,134 @@
+﻿Problem 1 (a)
+
+Answers for rows 15–18:
+15. ɨnnetk'a
+16. ɨŋɡɨrɨ'ɨ
+17. ɨmp'uhur'u
+18. ɨnher'o
+
+Explanation:
+
+    Prefix: Form 2 verbs start with ɨN-, where N assimilates to the place of articulation of Form 1’s initial consonant:
+
+        Labials (e.g., p, p') → ɨm-
+
+        Velars (e.g., k, k') → ɨŋ-
+
+        Alveolars/nasals (e.g., t, n, h) → ɨn-
+
+    Stem modification: The root undergoes metathesis, infixation, or vowel changes (e.g., piriy' → bir'i, tundiy' → dunat'i).
+
+    Suffix: Form 1’s -y' often becomes -'i or -'ɨ, and -ay' becomes -a'a.
+
+Problem 1 (b)
+
+Answers for rows 39–48:
+39. her'oŋ → I smoothed out (it)
+40. ɨniʂpaʔ → I am leaving
+41. aplaʔ → It is being opened
+42. ʂur'uʔ → It chose (it)
+43. piriy' → I saw (it)
+44. ʂawʂaʔ → I plant (it)
+45. ɨŋk'an'iʔ → It was trapped
+46. p'ɨhnaʔ → I leap
+47. ɨnhɨk'aʔ → It is being sewn, woven
+48. ɨnipal'aʔ → I was bathed
+
+Patterns:
+
+    Pronouns:
+
+        ɨm-, ɨn-, ɨŋ- prefixes mark 1st/2nd person.
+
+        a-, e-, i- prefixes mark 3rd person or passive.
+
+    Aspect:
+
+        -aʔ = completive (past).
+
+        -taʔ = inchoative (e.g., lie down).
+
+        -paʔ = ongoing action (e.g., leave).
+
+Problem 2 (a)
+
+Translations:
+17. uwa xinhikaru sytu → The girl remembered me.
+18. txipary nhinhikary → I ate your banana.
+19. kyky aikute pysykary ywamukary → The man brought the woman’s house to me.
+Problem 2 (b)
+
+Incorrect sentence:
+20. uwa umynary kanawa ximakymukary
+
+    Error: Possessive prefix u- (her) conflicts with ximaky (fish).
+
+    Correct: uwa umynary kanawa ximakarymukary → She brought your canoe to the fish.
+
+Problem 2 (c)
+
+Translations into Apurinã:
+21. pitxiparyte napukary / pixinhikaryte napukary
+22. nuta sykaru hãtakuru ywamukary / nysykaru hãtakurumukary
+23. sytu ãtary pitxiparymukary
+24. kyky herẽkatxi hãtakuru ãtary
+25. napukary ywa
+26. pitxiparyte ximakary
+Problem 3 (a)
+
+Translations:
+18. e-ɣuyanah → You (pl) shuddered.
+19. ba-ihwin → You (pl) really cried.
+20. nambum-kisaɣah → Aw, we spat on him in vain.
+21. bat-ɣadawn → We really left him behind.
+22. ubamum-kolewn → Aw, you (sg) laughed at us in vain.
+Problem 3 (b)
+
+Translations into Coastal Marind:
+23. bate-tamab
+24. ob-dahetok
+25. nambe-otab
+26. ebam-ɣadaɣawn
+27. nakum-kisaɣah
+Problem 4 (a)
+
+Translations:
+22. ē-wāpamikoyēk → As you (pl) see them.
+23. ninakinikonān → They stop us.
+24. kikakwēcimāwāw → You (pl) ask me.
+25. kiwīcihitināwāw → You (pl) help me.
+Problem 4 (b)
+
+Translations into Plains Cree:
+26. kakwēcimikonānak
+27. mawinēskomikowāw
+28. wīcihikonān
+29. kiwāpamāwāwak
+30. ninakināwāw
+Problem 5 (a)
+
+Answers:
+
+    kampwɔhii shuunni na kɛ → 1,600
+
+    ŋkuu na baataanre → 250
+
+Problem 5 (b)
+
+Translations into Supyire:
+
+    15 → kɛ na baaricyɛɛre
+
+    109 → kampwoo na kɛ na baani
+
+    152 → kampwoo na ŋkwuu shuunni na kɛ na baaricyɛɛre
+
+    403 → kampwɔhii na ŋkwuu taanre na niŋkin
+
+    1,534 → kampwɔhii sicyɛɛre na ŋkwuu taanre na beeshuunni na kɛ na baaricyɛɛre
+
+Structure:
+
+    Base units: kampwɔhii (1,000), beetaanre (100), ŋkwuu (10).
+
+    Additive construction with na (and).

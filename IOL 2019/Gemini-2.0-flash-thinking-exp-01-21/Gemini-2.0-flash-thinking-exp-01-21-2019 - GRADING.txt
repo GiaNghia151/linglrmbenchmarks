@@ -1,0 +1,562 @@
+Problem 1:
+    Part a:
+        12:
+            Classification: Type 2
+            LLM Answer: He takes the bread and eats it.
+            Real Answer: Om benu aneen. — She took the bread and ate it.
+            Grade: 0
+        13:
+            Classification: Type 2
+            LLM Answer: We went away and we will go away.
+            Real Answer: Munuuna wunuub. — She comes and we go away.
+            Grade: 0
+        14:
+            Classification: Type 2
+            LLM Answer: You(sg) will sing and you(sg) will hear.
+            Real Answer: Wingkiiwa wengamburuun. — They sing and she hears.
+            Grade: 0
+        15:
+            Classification: Type 2
+            LLM Answer: They will hear the dog and they will get up.
+            Real Answer: Anon ye weng wengamberenib yeedaraniib. — They will hear the dog and will get up.
+            Grade: 2
+        16:
+            Classification: Type 2
+            LLM Answer: I saw the fish and they saw the man.
+            Real Answer: Oon wedmaniina karub wedmaneeb. — I will see the fish and you(sg) will see the man.
+            Grade: 0
+        17:
+            Classification: Type 2
+            LLM Answer: She saw the water and drinks it.
+            Real Answer: Ok wedmeena aniin. — He sees the water and I drink it.
+            Grade: 0
+    Part b:
+        18:
+            Classification: Type 2
+            LLM Answer: Wenenub miniib.
+            Real Answer: Wananuuwa mananiib.
+            Grade: 0
+        19:
+            Classification: Type 2
+            LLM Answer: Baan awon karuwa bene oon.
+            Real Answer: Awon biina oon been.
+            Grade: 0
+        20:
+            Classification: Type 2
+            LLM Answer: Wedmoona oka karuwa ambib weng anon.
+            Real Answer: Oka ambiwa wedmene anon ye weng wengamboroon.
+            Grade: 0
+        21:
+            Classification: Type 2
+            LLM Answer: Wingkeewa om aneewa.
+            Real Answer: Om aneneb wingkeeb.
+            Grade: 0
+
+Problem 2:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: A
+            Real Answer: G
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: B
+            Real Answer: M
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: C
+            Real Answer: D
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: D
+            Real Answer: A
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: E
+            Real Answer: H
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: F
+            Real Answer: K
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: G
+            Real Answer: N
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: H
+            Real Answer: I
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: I
+            Real Answer: F
+            Grade: 0
+        10:
+            Classification: Type 1
+            LLM Answer: J
+            Real Answer: C
+            Grade: 0
+        11:
+            Classification: Type 1
+            LLM Answer: K
+            Real Answer: L
+            Grade: 0
+        12:
+            Classification: Type 1
+            LLM Answer: L
+            Real Answer: P
+            Grade: 0
+        13:
+            Classification: Type 1
+            LLM Answer: M
+            Real Answer: O
+            Grade: 0
+        14:
+            Classification: Type 1
+            LLM Answer: N
+            Real Answer: E
+            Grade: 0
+        15:
+            Classification: Type 1
+            LLM Answer: O
+            Real Answer: J
+            Grade: 0
+        16:
+            Classification: Type 1
+            LLM Answer: P
+            Real Answer: B
+            Grade: 0
+        17:
+            Classification: Type 1
+            LLM Answer: Q
+            Real Answer: R
+            Grade: 0
+        18:
+            Classification: Type 1
+            LLM Answer: R
+            Real Answer: Q
+            Grade: 0
+    Part b:
+        19:
+            Classification: Type 1
+            LLM Answer: T
+            Real Answer: V
+            Grade: 0
+        20:
+            Classification: Type 1
+            LLM Answer: U
+            Real Answer: W
+            Grade: 0
+        21:
+            Classification: Type 1
+            LLM Answer: V
+            Real Answer: X
+            Grade: 0
+        22:
+            Classification: Type 1
+            LLM Answer: X
+            Real Answer: T
+            Grade: 0
+        23:
+            Classification: Type 1
+            LLM Answer: W
+            Real Answer: U
+            Grade: 0
+        24:
+            Classification: Type 1
+            LLM Answer: S
+            Real Answer: Y
+            Grade: 0
+        25:
+            Classification: Type 1
+            LLM Answer: Y
+            Real Answer: S
+            Grade: 0
+    Part c:
+        26:
+            Classification: Type 1
+            LLM Answer: red
+            Real Answer: grass
+            Grade: 0
+        27:
+            Classification: Type 2
+            LLM Answer: orange dog
+            Real Answer: lerʼergerh rohkuen — black ball
+            Grade: 0
+        28:
+            Classification: Type 2
+            LLM Answer: black berry
+            Real Answer: perkeryerʼery chʼeeshah — red dog
+            Grade: 0
+        29:
+            Classification: Type 2
+            LLM Answer: yellow berry
+            Real Answer: pyerrpʼtʼery chʼeeshah — reddish-brown dog
+            Grade: 0
+    Part d:
+        30:
+            Classification: Type 2
+            LLM Answer: sʼoktoy noʼoy
+            Real Answer: luuehlson’ puuek
+            Grade: 0
+        31:
+            Classification: Type 2
+            LLM Answer: luuehl pyaapʼ
+            Real Answer: muenchey no’oy
+            Grade: 0
+        32:
+            Classification: Type 2
+            LLM Answer: skoyon tepoo
+            Real Answer: tegee’n rohkuen
+            Grade: 0
+        33:
+            Classification: Type 2
+            LLM Answer: ʼwerʼerrgerch slekwoh
+            Real Answer: lo’ogar’ tepoo
+            Grade: 0
+
+Problem 3:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: A
+            Real Answer: E
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: Z
+            Real Answer: CC
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: G
+            Real Answer: G
+            Grade: 1
+        4:
+            Classification: Type 1
+            LLM Answer: Y
+            Real Answer: Y
+            Grade: 1
+        5:
+            Classification: Type 1
+            LLM Answer: D
+            Real Answer: D
+            Grade: 1
+        6:
+            Classification: Type 1
+            LLM Answer: V
+            Real Answer: CC
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: K
+            Real Answer: K
+            Grade: 1
+        8:
+            Classification: Type 1
+            LLM Answer: F
+            Real Answer: S
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: C
+            Real Answer: V
+            Grade: 0
+        10:
+            Classification: Type 1
+            LLM Answer: N
+            Real Answer: L
+            Grade: 0
+        11:
+            Classification: Type 1
+            LLM Answer: T
+            Real Answer: I
+            Grade: 0
+        12:
+            Classification: Type 1
+            LLM Answer: L
+            Real Answer: Z
+            Grade: 0
+        13:
+            Classification: Type 1
+            LLM Answer: Q
+            Real Answer: P
+            Grade: 0
+        14:
+            Classification: Type 1
+            LLM Answer: M
+            Real Answer: DD
+            Grade: 0
+        15:
+            Classification: Type 1
+            LLM Answer: E
+            Real Answer: O
+            Grade: 0
+        16:
+            Classification: Type 1
+            LLM Answer: H
+            Real Answer: M
+            Grade: 0
+        17:
+            Classification: Type 1
+            LLM Answer: J
+            Real Answer: B
+            Grade: 0
+        18:
+            Classification: Type 1
+            LLM Answer: O
+            Real Answer: F
+            Grade: 0
+        19:
+            Classification: Type 1
+            LLM Answer: X
+            Real Answer: X
+            Grade: 1
+        20:
+            Classification: Type 1
+            LLM Answer: B
+            Real Answer: C
+            Grade: 0
+        21:
+            Classification: Type 1
+            LLM Answer: CC
+            Real Answer: BB
+            Grade: 0
+        22:
+            Classification: Type 1
+            LLM Answer: (missing)
+            Real Answer: V
+            Grade: 0
+        23:
+            Classification: Type 1
+            LLM Answer: R
+            Real Answer: AA
+            Grade: 0
+        24:
+            Classification: Type 1
+            LLM Answer: BB
+            Real Answer: J
+            Grade: 0
+        25:
+            Classification: Type 1
+            LLM Answer: W
+            Real Answer: T
+            Grade: 0
+        26:
+            Classification: Type 1
+            LLM Answer: P
+            Real Answer: Q
+            Grade: 0
+        27:
+            Classification: Type 1
+            LLM Answer: I
+            Real Answer: H
+            Grade: 0
+        28:
+            Classification: Type 1
+            LLM Answer: AA
+            Real Answer: T
+            Grade: 0
+        29:
+            Classification: Type 1
+            LLM Answer: DD
+            Real Answer: U
+            Grade: 0
+        30:
+            Classification: Type 1
+            LLM Answer: (missing)
+            Real Answer: W
+            Grade: 0
+        31:
+            Classification: Type 1
+            LLM Answer: S
+            Real Answer: R
+            Grade: 0
+        32:
+            Classification: Type 1
+            LLM Answer: (missing)
+            Real Answer: A
+            Grade: 0
+        33:
+            Classification: Type 1
+            LLM Answer: (missing)
+            Real Answer: F
+            Grade: 0
+        34:
+            Classification: Type 1
+            LLM Answer: (missing)
+            Real Answer: N
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: Z. %L
+            Real Answer: 6nHrDX = ʾhlmn’ — Ahreman ‘the evil spirit’.
+            Grade: 0
+    Part c:
+        EE:
+            Classification: Type 1
+            LLM Answer: nnsbnAb | blbwt'
+            Real Answer: nnsbnAb | bʾnbšn' | bāmbišn | queen
+            Grade: 0
+        FF:
+            Classification: Type 1
+            LLM Answer: LDXc | LCDr'
+            Real Answer: LDXc | chʾl | čahār | four
+            Grade: 0
+        GG:
+            Classification: Type 1
+            LLM Answer: rt | dwt'
+            Real Answer: rt | tl | tar | over, through, across
+            Grade: 0
+        HH:
+            Classification: Type 1
+            LLM Answer: n%DX | dwt'
+            Real Answer: n%DX | hʾk' | xāk | earth, dust
+            Grade: 0
+        II:
+            Classification: Type 1
+            LLM Answer: nnnA | mwd
+            Real Answer: nnnA | hwn' | xōn | blood
+            Grade: 0
+        JJ:
+            Classification: Type 1
+            LLM Answer: nknA | gdk'
+            Real Answer: nknA | hwk' | hūg | pig
+            Grade: 0
+    Part d:
+        KK:
+            Classification: Type 1
+            LLM Answer: DKRA — DfLRA
+            Real Answer: DKRA — ankI
+            Grade: 0
+        LL:
+            Classification: Type 1
+            LLM Answer: dlwnd — ntlWnD
+            Real Answer: dlwnd — druwand
+            Grade: 0
+        MM:
+            Classification: Type 1
+            LLM Answer: stwl — stWl
+            Real Answer: stwl — stōr
+            Grade: 0
+        NN:
+            Classification: Type 1
+            LLM Answer: cmbl — cnbRl
+            Real Answer: cmbl — čambar
+            Grade: 0
+
+Problem 4:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: ɛtaleŋa — North: ɛtalɛtaleŋa, Coast: ɛtaleleŋa
+            Real Answer: ɛtaleŋa — North: ɛtaŋleŋa, Coast: ɛtaleleŋa
+            Grade: 1
+        2:
+            Classification: Type 2
+            LLM Answer: jaga — North: jajaga, Coast: jajaga
+            Real Answer: jaga — North: jagjaga, Coast: jajaga
+            Grade: 1
+        3:
+            Classification: Type 2
+            LLM Answer: gasírana — North: gasírgasírana, Coast: gasísírana
+            Real Answer: gasírana — North: garsírana, Coast: gasirasírana
+            Grade: 0
+        4:
+            Classification: Type 2
+            LLM Answer: daramota — North: daramdaramota, Coast: daramomota
+            Real Answer: daramota — North: daratmota, Coast: daramotamota
+            Grade: 0
+        5:
+            Classification: Type 2
+            LLM Answer: pɔwna — North: pɔwpɔwna, Coast: pɔwnawna
+            Real Answer: pɔwna — North: pɔwpɔwna, Coast: pɔwpɔwna
+            Grade: 1
+        6:
+            Classification: Type 2
+            LLM Answer: ɛrtɔpa — North: ɛrtɔɛrtɔpa, Coast: ɛrtɔtɔpa
+            Real Answer: ɛrtɔpa — North: ɛrtɔptɔpa, Coast: ɛrtɔpatɔpa
+            Grade: 0
+        7:
+            Classification: Type 2
+            LLM Answer: dabuka — North: dabudabuka, Coast: dabubuka
+            Real Answer: dabuka — North: dakbuka, Coast: dabubuka
+            Grade: 1
+        8:
+            Classification: Type 2
+            LLM Answer: ŋuŋim — North: ŋuŋŋuŋim, Coast: ŋuŋiŋim
+            Real Answer: ŋuŋim — North: ŋuŋuŋim, Coast: ŋuŋuŋim
+            Grade: 0
+        9:
+            Classification: Type 2
+            LLM Answer: igɔ́ŋ — North: igɔ́igɔ́ŋ, Coast: igɔ́gɔ́ŋ
+            Real Answer: igɔ́ŋ — North: iŋgɔ́ŋ, Coast: igɔ́ŋgɔŋ
+            Grade: 0
+
+Problem 5:
+    Part a:
+        16:
+            Classification: Type 2
+            LLM Answer: Bvusɔw is the day after tomorrow.
+            Real Answer: bvúsɔ̀w nǔ fɔ̀ shě ntfǔː. — Bvusɔw is the day after tomorrow.
+            Grade: 2
+        17:
+            Classification: Type 2
+            LLM Answer: On Bvusɔw, I will steal the yam just now.
+            Real Answer: me nú ŋgéː nyɛ́n kèŋkfǔ lé ɛ̀bɛ̀n. — Today, I will see the yam.
+            Grade: 0
+        18:
+            Classification: Type 2
+            LLM Answer: On Bvumbon, he heard it today.
+            Real Answer: wvù tɔ̀ nɔ̂ː yɛ᷅n bèsèn ě bvúmbòn. — On Bvumbon, he saw us.
+            Grade: 1
+        19:
+            Classification: Type 2
+            LLM Answer: Today, the woman will guard the market on Bvuzhi.
+            Real Answer: bèsèn nǔ bóy tɔ́ fɔ̀wǎy bvúzhı ᷇ː de᷆n. — On Bvuzhiden, we will come to the market.
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 1
+            LLM Answer: Bvutfu, Bvumbon, Bvusɔw, Bvuzhi, Bvuŋka, Bvukema, Bvuŋkaden.
+            Real Answer: Bvutfu, Bvuŋka, Bvuzhi, Bvukema, Bvuŋkaden, Bvuzhiden, Bvusɔw, Bvumbon.
+            Grade: 0
+    Part c:
+        20:
+            Classification: Type 2
+            LLM Answer: me nú nfí dìɛ̀msɛ̌n bvúsɔ̀w.
+            Real Answer: me ncí nɔ̂ː nfı ᷅ dìɛ̀msɛ̌n bvúsɔ̀w.
+            Grade: 1
+        21:
+            Classification: Type 2
+            LLM Answer: cɔ̌ŋ tɔ̀ kèŋkfǔ yúː lé.
+            Real Answer: cɔ̌ŋ nɔ̂ː cɔ᷅ŋ kèŋkfǔ.
+            Grade: 0
+        22:
+            Classification: Type 2
+            LLM Answer: me nú nyɛ́n ŋwà bvûŋka᷆ːde᷆n.
+            Real Answer: me nú nyúː nyów mutù bvûŋka᷆ːde᷆n.
+            Grade: 1
+        23:
+            Classification: Type 2
+            LLM Answer: bèsèn kwɔ᷆ːn bóy nɔ̂ː dìɛ̀msɛ̌n.
+            Real Answer: kwɔ᷆ːn nǔ géː yó dìɛ̀msɛ̌n ɛ̀bɛ̀n.
+            Grade: 0
+        24:
+            Classification: Type 2
+            LLM Answer: bèsèn dìɛ̀msɛ̌n nɔ̂ː wɔ̀.
+            Real Answer: dìɛ̀msɛ̌n bɛ̂ː yɛ᷅n wɔ̀ lě ɛ̀bɛ̀n.
+            Grade: 0
+
+Type 1: 4/70 (5.71%)
+Type 2: 11/72 (15.28%)
+Total Score: 15/142

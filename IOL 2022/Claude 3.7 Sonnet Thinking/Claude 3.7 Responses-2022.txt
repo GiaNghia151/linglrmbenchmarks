@@ -1,0 +1,266 @@
+﻿Problem 1: Ubykh Verb Conjugation Analysis
+I'll analyze the structure of the Ubykh verb "to give" based on the provided examples.
+Analysis of the Verb Structure
+After examining the examples, it's clear that the Ubykh verb for "to give" follows a consistent pattern:
+
+The verb form encodes three participants: the giver (subject), the recipient (indirect object), and the person given (direct object)
+The morpheme order seems to be: [Direct Object] - [Indirect Object] - [Subject] - [verb stem]
+
+The morphemes I've identified are:
+
+1st person singular (I/me): s
+1st person plural (we/us): šʼ
+2nd person singular (you(sg)): wə (as DO/IO), a (as S)
+2nd person plural (you(pl)): ŝʷə
+3rd person singular (he/him): a (as DO), unmarked (as IO), n (as S)
+3rd person plural (they/them): a (as DO), w (as IO), na (as S)
+
+The verb stem varies between "tʷən" and "tʷan" based on patterns in the examples.
+(a) Other translation of aŝʷəstʷan
+The form aŝʷəstʷan is given as "I give him to you_(pl)". Its other translation would be:
+"I give them to you_(pl)"
+This is because "a" can mark either "him" or "them" as the direct object.
+(b) Translations into English
+
+ašʼəntʷən = "He gives him to us" or "He gives them to us"
+
+a: him/them (DO)
+šʼ: us (IO)
+n: he (S)
+tʷən: stem
+
+
+səŝʷtʷan = "You_(pl) give me to him"
+
+s: me (DO)
+ŝʷ: you(pl) (S)
+tʷan: stem
+
+
+šʼəwənatʷan = "They give us to you_(sg)"
+
+šʼ: us (DO)
+wə: you(sg) (IO)
+na: they (S)
+tʷan: stem
+
+
+
+(c) Translations into Ubykh
+
+"They give you_(pl) to me" = ŝʷəsənatʷan
+
+ŝʷə: you(pl) (DO)
+s: me (IO)
+na: they (S)
+tʷan: stem
+
+
+"You_(pl) give him to me" = asŝʷtʷan
+
+a: him (DO)
+s: me (IO)
+ŝʷ: you(pl) (S)
+tʷan: stem
+
+
+"You_(sg) give us to him" = šʼatʷan
+
+šʼ: us (DO)
+a: you(sg) (S)
+tʷan: stem
+
+
+"We give you_(sg) to them" = wəwšʼtʷan
+
+wə: you(sg) (DO)
+w: them (IO)
+šʼ: we (S)
+tʷan: stem
+
+
+"He gives them to us" = ašʼəntʷan
+
+a: them (DO)
+šʼ: us (IO)
+n: he (S)
+tʷan: stem
+
+
+
+Problem 2: Alabama Language
+(a) Correspondences between Alabama words and their meanings
+By analyzing morphological patterns and word structures:
+
+achánnàaka - G (it leans against something)
+achanni - D (he puts it next to something)
+ahamatli - C (he wraps them)
+ahámmatka - A (he breaks it in two)
+apòotka - M (it is scattered, they are scattered)
+apotòoli - R (he scatters it, he scatters them)
+apóttòoka - K (it is wrapped)
+atanayli - N (he leans them against something)
+atánnayka - S (they are next to something)
+atanni - I (it is next to something)
+bàalka - L (they lie, are lying down)
+balàali - B (he lays them down)
+balli - V (he lays it down)
+incháffàaka - T (he tears it in two)
+kawaɬɬi - X (he peels the bark off)
+ɬìilka - J (it has holes, they have holes)
+ɬìipka - W (it has a hole)
+ɬilaffi - O (he makes holes)
+ɬipli - P (he makes a hole)
+ɬíppìika - F (it is torn in several places, they are torn)
+ɬobaffi - E (he turns them upside down)
+ɬómbafka - H (they are turned upside down)
+ɬombi - Z (he turns it upside down)
+ɬòomka - Q (it is turned upside down)
+sibapli - Y (he peels a strip off)
+simbi - U (he has one)
+
+(b) Translations into English
+
+bállàaka - "They are laid down" or "They lie, are lying down"
+inchafàali - "He tears them in two"
+kawwi - "He peels it"
+
+The word kawwi has two possible translations: "He peels it" and "He strips it"
+(c) Translations into Alabama
+
+"he tears it in several places" - inchaffli
+"it is torn in two" - incháfka
+"he turns it upside down" - ɬombi
+"he leans it against something" - atanni
+
+(d) Multiple translations
+The word atanni (answer to #33) can also be translated as "it is next to something" or "he puts it next to something" since the Alabama language often uses the same form for both stative and active meanings of positional verbs.
+Problem 3: Nǀuuki Language Analysis
+(a) Translations into English
+
+na kacuuʔi ŋ ɡǀu xae ŋ ǃuu ǃʔai
+"I ask if it is you who calls my grandfather."
+na ǁu si sĩisen ŋ ɡǃari
+"I will not work in Upington."
+ǀeeki ke ǃaukea ŋ ŋǀŋ ǂhun
+"The woman is afraid of my dog."
+ŋ kee si ǃʔai a
+"It is you whom I will call."
+cuu xae u ŋǀii
+"Who do you_(pl) see?"
+cuu xae ts'aaʔa ŋ
+"Who do I like?"
+
+(b) Translations into Nǀuuki
+
+"Our mother will not call your_(sg) brother."
+ɡǀi xaŋki ǁu si ǃʔai a ǁãu
+"It is you_(sg) whom my dog is afraid of."
+ɡǀa xae ŋ ǂhun ǃaukea
+"Where will you_(pl) sing?"
+kiɟa xae u si ǂqheeke
+"I ask if it is our grandfather whom you_(sg) think about."
+na kacuuʔi ŋ ɡǀi ǃuu xae a ǂʔii
+"Who will dance tomorrow?"
+cuu xae si ǀqhõʕo ŋ ǃhaeke
+"Do you_(pl) see us?"
+u ŋǀii ɡǀi
+
+Problem 4: Arabana Family Relationships
+(a) Matching people to positions
+After analyzing all kinship terms and relationships:
+A = 5
+B = 7
+C = 13
+D = 6
+E = 17
+F = 4
+G = 8
+H = 11
+I = 15
+J = 16
+K = 10
+L = 11
+M = 14
+N = 20
+O = 9
+P = 19
+Q = 12
+R = 22
+S = 21
+T = 23
+U = 24
+V = 18
+W = 15
+X = 3
+(b) Filling in the blanks
+(i) nhupa (spouse)
+(ii) nhuthi (sibling)
+(iii) wardu (child/son/daughter)
+(iv) nhupa (spouse)
+(v) apityi (parent)
+(vi) nhupa (spouse)
+(vii) lhuka (child/offspring)
+(viii) kadnhini (nephew/niece or cousin)
+(ix) wardu (child/son/daughter)
+
+P5:
+
+Part (a): What would *bala have become in Tsat?
+Looking at sound change patterns from Proto-Chamic to Tsat:
+
+Initial syllable loss: Disyllabic Proto-Chamic words consistently lose their initial syllable in Tsat
+
+*ʔikaːn → kaːn³³, *dilah → la⁵⁵, *jalaːn → laːn¹¹
+
+
+Tone assignment: Words with final *a in Proto-Chamic typically receive tone 55 when the Proto-Chamic word had *h in final position
+
+*dilah → la⁵⁵, *basah → sa⁵⁵, *lanah → na⁵⁵
+
+
+
+Applying these rules to *bala:
+
+It would lose the initial syllable *ba-
+The remaining *la would likely receive tone 55
+
+Therefore, *bala would have become la⁵⁵ in Tsat.
+Part (b): Filling in the blanks
+Sound changes from Proto-Chamic to Phan Rang Cham:
+
+Initial *d → t: *dikiʔ → takiʔ, *dilah → talàh
+Initial *b → p: *bara → pirà, *bulow → pilòw
+First syllable *a often becomes ɨ: *mata → mɨta, *maray → mɨray
+Final *t often becomes ʔ: *labaːt → lipàʔ
+
+Sound changes from Proto-Chamic to Tsat:
+
+Initial syllable loss in disyllabic words
+Initial *b → ph: *bara → phia¹¹, *bulow → phiə¹¹
+Initial *p → th: *paday → thaːiʔ⁴²
+Final *m → nʔ with tone 42: *masam → saːnʔ⁴²
+Final *y → iʔ with tone 42: *hatay → taːiʔ⁴²
+Final *t → ʔ with tone 24: *ʔurat → zaʔ²⁴
+Final *h → tone 55: *dilah → la⁵⁵
+
+Completing the blanks:
+
+*kulit → kaliʔ → liʔ²⁴ (loses initial syllable, final *t → ʔ with tone 24)
+*hitam → hatam → tanʔ⁴² (loses initial syllable, final *m → nʔ with tone 42)
+*bubah → papàh → pha⁵⁵ (loses initial syllable, *b → ph, final *h gives tone 55)
+*ʔikat → ikaʔ (initial *ʔi preserved, final *t → ʔ)
+*ʔikat → kaʔ²⁴ (loses initial syllable, final *t → ʔ with tone 24)
+*dəpa → təpa (*d → t in Phan Rang Cham)
+*dəpa → pa³³ (loses initial syllable, open syllable gets tone 33)
+*matay → mɨtày (first syllable *a → ɨ, low tone in second syllable)
+*matay → taiʔ⁴² (loses initial syllable, final *y → iʔ with tone 42)
+*dalam → talàm (*d → t, low tone in second syllable)
+*dalam → lanʔ⁴² (loses initial syllable, final *m → nʔ with tone 42)
+*labuh → lipùh (first syllable *a → i, low tone in second syllable)
+*labuh → phu⁵⁵ (loses initial syllable, final *h gives tone 55)
+*bulaːn → pilòn (*b → p, *u → i, low tone)
+*bulaːn → laːn¹¹ (loses initial syllable, tone 11 like *jalaːn → laːn¹¹)
+pala → la³³ (loses initial syllable, open syllable gets tone 33)
+tapùh → phu⁵⁵ (loses initial syllable, final *h gives tone 55)
+tatà → ta³³ (loses initial syllable, open syllable gets tone 33)

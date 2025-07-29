@@ -1,0 +1,144 @@
+---
+
+## Problem 1
+
+**(a) Fill in the gaps in rows 15–18.**
+
+| Form 1       | Form 2        | Translation |
+|--------------|---------------|-------------|
+| 15. netkay'  | ɨnnetka       |             |
+| 16. kɨrɨy'   | ɨnkɨrɨn′ɨ     |             |
+| 17. p'uhruy' | ɨmp'uhrun′i   |             |
+| 18. her'oy   | ɨnher'o       |             |
+
+**(b) Fill in the gaps in rows 39–48.**
+
+| Form        | Translation             |
+|-------------|-------------------------|
+| 39. her'oŋ  | it smooths out          |
+| 40. ɨniʂpaʔ | I left                  |
+| 41. aplaʔ   | it bathed               |
+| 42. ʂur'uʔ  | it chose (it)           |
+| 43. mbiriʔ  | I saw (it)              |
+| 44. ʂawʂanʔ | I plant (it)            |
+| 45. kanʔ    | it was trapped          |
+| 46. mp′ɨhnaʔ| I leap                  |
+| 47. hɨk′aʔ  | it is being sewn, woven |
+| 48. nipalʔ  | I was bathed            |
+
+---
+
+## Problem 2
+
+**(a) Translate into English:**
+
+17. uwa xinhikaru situ
+She gave the house to him.
+
+18. txipary nhinhikary
+You (sg) left my fish.
+
+19. kyky aikute pysykary ywamukary
+The man brought your banana to him.
+
+**(b) This sentence is grammatically incorrect. Explain why, and provide its grammatically correct equivalent and its English translation:**
+
+The sentence uwa umynary kanawa ximakymukary is ungrammatical because the language requires that the indirect object (here, “your canoe”) precede the direct object.
+
+| Correct Sentence             | Translation                         |
+|------------------------------|-------------------------------------|
+| uwa kanawa umynary ximakymukary| She brought your canoe to the girl. |
+
+** (c) Translate into Apurinã in two ways:
+
+**21. You (sg) found the house.**
+*   xinhikatu pitxikary
+*   pitxikary xinhikatu
+
+**22. I brought your (sg) canoe to the girl.**
+*   nuta umynary nykanawa
+*   nykanawa nuta umynary
+
+**23. He brought your (sg) water to me.**
+*   uwa aipukary nutamukary
+*   nutamukary uwa aipukary
+
+**24. The man drank the girl’s blood.**
+*   kyky herẽkatxi uãtary
+*   uãtary kyky herẽkatxi
+
+**25. I remembered the eye.**
+*   nhiximakyte uky
+*   uky nhiximakyte
+
+**26. You (sg) ate my banana.**
+*   pitxiparyte mynaru
+*   mynaru pitxiparyte
+
+---
+
+## Problem 3
+
+**(a) Translate into English:**
+
+| Form            | Translation                 |
+|-----------------|-----------------------------|
+| 18. e-ɣuyanah   | He shuddered.               |
+| 19. ba-ihwin    | You (pl) cried.             |
+| 20. nambum-kisaɣah| We chased you away.       |
+| 21. bat-ɣadawn  | You (sg) left us behind.    |
+| 22. ubamum-kolewn| I spat on you (pl) in vain.|
+
+**(b) Translate into Coastal Marind:**
+
+| Form              | Translation                  |
+|-------------------|------------------------------|
+| 23. ob-tamanab    | He floated to the surface.   |
+| 24. ob-dahetok    | Aw, you (sg) returned.       |
+| 25. namkum-hoɣab  | Oh, I silenced him!          |
+| 26. obame-otab    | He really chased us away.    |
+| 27. ebamum-kolewn | You (pl) really spat on us in vain.|
+
+---
+
+## Problem 4
+
+**(a) Translate into English:**
+
+| Form                | Translation            |
+|---------------------|------------------------|
+| 22. ē-wāpamikoyēk   | as you (pl) see him    |
+| 23. ninakinikonān   | I stop them            |
+| 24. kikakwēcimāwāw  | he asks you (pl)       |
+| 25. kiwīcihitināwāw | I help you (pl)        |
+
+**(b) Translate into Plains Cree:**
+
+| Form                | Translation           |
+|---------------------|-----------------------|
+| 26. nikakwēcimānāk  | if we ask them        |
+| 27. nimawinēskomikowak| they challenge you (pl)|
+| 28. niwīcihāk      | they help me          |
+| 29. kiwāpamikoyān   | you (sg) see them     |
+| 30. ninakinikwak    | I stop you (pl)       |
+
+---
+
+## Problem 5
+
+**(a) Write in digits:**
+
+| Form                          | Value |
+|-------------------------------|-------|
+| 1. kampwɔhii shuunni na kɛ    | 1017  |
+| 2. ŋkuu na baataanre          | 280   |
+
+**(b) Write out in the Supyire language:**
+
+| Form                                           | Value                                      |
+|------------------------------------------------|--------------------------------------------|
+| 3. 15                                          | beɲjaaga baashuunni                        |
+| 4. 109                                         | ŋkuu na baashuunni niŋkin                  |
+| 5. 152                                         | ŋkwuu taanre na beɲjaaga niŋkin            |
+| 6. 403                                         | kampwoo na baashuunni na …                 |
+| 7. 1534                                        | kampwɔhii sicyɛɛre na beɲjaaga na baaricyɛɛre |

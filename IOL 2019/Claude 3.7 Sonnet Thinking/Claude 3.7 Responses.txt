@@ -1,0 +1,167 @@
+Problem 1: Yonggom Language Analysis
+Part (a): Translating Yonggom to English
+I need to analyze how Yonggom connects clauses and marks person/tense/number. From studying the examples, I notice:
+
+Verb suffixes indicate person, number, and tense
+Special connective suffixes link clauses and indicate subject changes
+
+Here are the translations:
+
+Om benu aneen.
+"She takes the bread and he eats it."
+Munuuna wunuub.
+"He comes and we will go away."
+Wingkiiwa wengamburuun.
+"You sing and she will hear."
+Anon ye weng wengamberenib yeedaraniib.
+"They hear the dog's voice and they will get up."
+Oon wedmaniina karub wedmaneeb.
+"I will see the fish and you will see the man."
+Ok wedmeena aniin.
+"He saw the water and I will drink it."
+
+Part (b): Translating English to Yonggom
+
+We will go away and they will come.
+"Wenenub minaniib."
+I take the pig and he takes the fish.
+"Awon baina oon baneen."
+He saw the water and the house and heard the dog.
+"Ok ambib wedmeene anon wengambereen."
+You(sg) eat the bread and sing.
+"Om aneeb wingkeeb."
+
+Problem 2: Yurok Language Analysis
+Part (a): Matching Yurok phrases with translations
+After analyzing word patterns and combinations:
+
+muencherh rohkuen - A. brown dog
+perkeryerh holeehl ʼwernerh - B. black shoe
+muencherh nerhpery - C. black bear
+sʼerkterʼery chʼeeshah - D. white berry
+muencharʼ pyaapʼ - E. brown shoe
+pekoyarʼ tepoo - F. white dog
+luuehlsonʼ nerhpery - G. white ball
+muenchey cheekʼwar - H. white manzanita bush
+muenterʼery chʼeeshah - I. white chair
+lerʼergery cherʼery - J. orange bear
+ʼerrwerhsonʼ slekwoh - K. red tree
+muenterʼery puuek - L. grass-green shirt
+loʼogey slekwoh - M. red hazelnut
+sʼoktoy noʼoy - N. purple berry
+ʼwerʼerrgerchsonʼ cherʼery - O. black shirt
+loʼogey noʼoy - P. white deer
+tegeeʼn nerhpery - Q. blue ball
+skoyon rohkuen - R. yellow berry
+
+Part (b): Matching Yurok words with translations
+
+muencherhl - S. canary
+ʼwerʼerrgerch - T. coffee bean
+luuehl - U. blood
+lerʼergerh - V. milk
+pekoyek - W. alder tree
+skoyon - X. wild iris
+tegeeʼn - Y. sky
+
+Part (c): Translating Yurok to English
+
+ʼerrwerh - red
+lerʼergerh rohkuen - orange dog
+perkeryerʼery chʼeeshah - black berry
+pyerrpʼtʼery chʼeeshah - yellow berry
+
+Part (d): Translating English to Yurok
+
+purple deer - sʼoktoy tepoo
+white shoe - sʼerkterʼery holeehl
+yellow ball - pyerrpʼtʼery nerhpery
+black tree - perkeryerh slekwoh
+
+Problem 3: Middle Persian in Book Pahlavi Script
+Part (a): Matching Book Pahlavi with transliterations and transcriptions
+A. n%ss - ʾslwn' - āšrōn
+B. n%ZnZ - sydʾ - syā
+C. nnnI - DMYA - xōn
+D. ntnbLb - blbwt' - barbut
+E. nnnLIIA - gyʾh - giyāh
+F. RDXn - ALBA - čahār
+G. DSMi - dwt' - dūd
+H. nTlnbMZnA - mwd - mōy
+I. n%sYMA - gdk' - gēg
+J. nnInI - hmyšk' - hamešag
+K. abLA - LK - tō
+L. n%A - gwklt' - gōgird
+M. DfLnZA - wʾcʾl - wāzār
+N. nknIcnL - MLKTA - bāmišn
+O. at%Lx - HZWLYA - hūg
+P. nTlknI - zwzk' - zuzāg
+Q. nntnngfkn - whʾl - wahār
+R. n%ATfnI - APLA - xāk
+S. ntnI - gwn' - gōn
+T. n%HrI - LCDr' - tar
+U. $ - mng - mang
+V. inG - lwlk' - rūrag
+W. nnTefnDlW - ZWZN' - drahm
+X. aLPX - dlmnk' - dramanag
+Y. hTeX - NKSWN-tn' - kuštan
+Z. %L - ʾwzmbwlt' - uzumburd
+AA. n%LnL - glmwk' - garmōg
+BB. nnIPl - ʾhlmn' - Ahreman
+CC. DeF - ʾylʾnštr' - Ērān-šahr
+DD. LAPXn - ywdtʾk' - jūdāg
+Part (b): Word with graphic peculiarity
+"ʾhlmn'" (Ahreman) - the evil spirit
+Part (c): Alternative spellings
+EE. nnsbnAb - dhšk' - daxšag
+FF. LDXc - nhʾl - nihāl
+GG. rt - LK - tō
+HH. n%DX - lwcynk' - lawzēnag
+II. nnnA - gyʾh - giyāh
+JJ. nknA - gdk' - gēg
+Part (d): Writing in Book Pahlavi script
+KK. DKRA - awGn (or similar representation)
+LL. dlwnd - TnfLT (or similar representation)
+MM. stwl - LftS (or similar representation)
+NN. cmbl - LbMc (or similar representation)
+Problem 4: West Tarangan Reduplication
+Analyzing the reduplication patterns in both dialects:
+Northern dialect: Typically copies the first consonant-vowel-consonant sequence (CVC) or just the first consonant-consonant (CC) sequence to the beginning.
+Coastal dialect: Typically copies the first consonant-vowel-consonant-vowel (CVCV) sequence or inserts the first vowel between copied consonants.
+Filling in the gaps:
+West TaranganEnglish TranslationNorth DialectCoast Dialectɛtaleŋahe hearsɛtlaleŋaɛtalaleŋajagato guardjagjagajajagagasíranashe is oldgassíranagasísíranadaramotathey vomitdarramotadararamotapɔwnahe is smellypɔwpɔwnapɔwpɔwnaɛrtɔpahe washesɛrttɔpaɛrtɔtɔpadabukathey dreamdabbukadabubukaŋuŋimit is dampŋuŋŋuŋimŋuŋuŋimigɔ́ŋhe sellsiggɔ́ŋigɔgɔ́ŋ
+Problem 5: Nooni Language Analysis
+Part (a): Translating Nooni to English
+
+bvúsɔ̀w nǔ fɔ̀ shě ntfǔː.
+"Bvusɔw is the day after tomorrow."
+me nú ŋgéː nyɛ́n kèŋkfǔ lé ɛ̀bɛ̀n.
+"I am about to steal the yam just now."
+wvù tɔ̀ nɔ̂ː yɛ᷅n bèsèn ě bvúmbòn.
+"He saw us on Bvumbon."
+bèsèn nǔ bóy tɔ́ fɔ̀wǎy bvúzhı᷇ːde᷆n.
+"We will help to go to the market on Bvuzhiden."
+
+Part (b): The order of Nooni days
+The order of the Nooni week (starting with Bvutfu) is:
+
+Bvutfu
+Bvumbon
+Bvusɔw
+Bvukema
+Bvuŋka
+Bvuŋkaden
+Bvuzhiden
+
+Part (c): Translating English to Nooni
+
+On Bvusɔw, I helped the man.
+"me cǐ nɔ̂ː fí dìɛ̀msɛ̌n bvúsɔ̀w."
+The thief stole the yam just now.
+"cɔ̌ŋ géː kèŋkfǔ lé ɛ̀bɛ̀n."
+On Bvuŋkaden, I will hear the car.
+"me nú ŋwóy wengambɔŋ mutù bvûŋka᷆ːde᷆n."
+Today, the woman will kill the man.
+"kwɔ᷆ːn nú yó dìɛ̀msɛ̌n ɛ̀bɛ̀n."
+Today, the man saw you(sg).
+"dìɛ̀msɛ̌n mbɛ̂ː yɛ᷅n wɔ̀ ɛ̀bɛ̀n."

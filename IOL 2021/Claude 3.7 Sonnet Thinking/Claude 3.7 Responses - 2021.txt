@@ -1,0 +1,133 @@
+﻿Problem 1: Ekari Numeral System
+Let me analyze how the Ekari numeral system works by identifying patterns in the provided examples.
+Analysis of Ekari Numerals
+First, I'll organize what we know:
+wija = 2
+moeto = 100 (appears in large numbers)
+ije mepija = 39 (suggesting ije = 30, mepija = 9)
+joka rati = 20 (from comparing similar expressions)
+Looking at complex numbers:
+moeto wija ma ije ka wido = 129 This suggests: 100 + 20 + 9, where wija after moeto = 20 and wido = 9
+moeto wija ma ije joka rati ka wido = 149 This confirms: 100 + 20 + 20 + 9, with joka rati = 20
+From these patterns, I can deduce:
+moeto = 100
+Numbers after "ma" represent tens
+Numbers after "ka" represent units
+Basic numerals: wija = 2, benomi = 3, ije = 4, idibi = 5, waroewo = 7, wido = 9
+These become tens when used with "ma": wija ma = 20, benomi ma = 30, etc.
+(a) Write in digits:
+moeto waroewo = 700 (100 × 7)
+ijema joka rati = 60 (40 + 20)
+moeto wido ma benomi ka wi = 193 (100 + 90 + 3)
+The numeral with the same value as one above is "ijema joka rati" = 60, which equals "idibima rati beo" = 55 + 5 = 60.
+(b) Write in Ekari:
+1 = wi
+19 = benomi ma wi ka wido (30 - 20 + 9)
+26 = benomi ma ije ka benomi (20 + 3 + 3)
+104 = moeto wi ma wi ka wido (100 + 0 + 4)
+292 = moeto benomi ma idibi ka wija (300 - 10 + 2)
+The number that can be expressed two ways is 1, which can be written as "wi" or possibly "ena" (if "enama" is "one" plus a suffix).
+Problem 2: Zuni Language
+(a) Correct correspondences (first set):
+mo:chikwa datda:we = A. chicken meat
+haya:we = B. tea (drink)
+doko:ko mo'le = F. peach pie
+ma:chikwa = D. loaf of bread
+mu:chikwa = E. beads
+mulonne ≈ mu'le = I. peach trees
+mowe = G. piles of leaves
+ha:k'yawe = H. chicken egg
+doko:ko shiwe = C. sugar
+mo:chikwa mulo:chikwa = J. chocolate bar
+(b) Correct correspondences (second set):
+ade muwe = K. granule, grain (for example of salt)
+beyanne = L. ear of corn [corn cob]
+homa:we = M. juniper leaves
+ma:k'yawe = N. salt water
+ma:k'ose = O. blood clots
+ma'le = P. field of grass
+homayanne = R. juniper branch
+mi'le = Q. blood
+ade k'yawe = S. salt
+(c) Translate into English:
+be'le = corn, maize
+chikwa = food (basic element in food-related words)
+datdanne = meat
+ade = salt
+mulo:we = chocolate
+hawe = egg
+The word with the same translation is #23 "ade" which translates as "salt" like #19 "ade k'yawe".
+(d) Translate into Zuni:
+salty = ade k'ose (using pattern from salt-related terms)
+juniper leaf = homa
+piece of meat = datda
+water = k'yawe
+corn, maize = be'le
+fields of grass = ma'le ma'le (pluralized form of field)
+(e) What is Ma'k'yayanne?
+Ma'k'yayanne is a salt spring or salt water source. This is derived from ma:k'yawe (salt water) and the -yanne suffix seen in homayanne (juniper branch), indicating a source or special formation.
+Problem 3: Kilivila Language
+Analysis of Kilivila Grammar
+From the examples, I can identify:
+Verb prefixes: Bi- (future), Le- (past)
+Classifiers for numbers: te- (men), na- (animals/women), kwe-/ke- (objects)
+Demonstratives: mtona/mtowena (this/that man), minana/minawena (this/that woman)
+Word order: typically verb-object-subject
+Adjectives follow the nouns they modify
+(a) Translate into English:
+Navila vivila biyamata tomwaya mtona? "How many women will look after this old man?"
+Bikamkwamsi kweyu vivila minasina. "Those women will eat two things."
+Amagudina gwadi lekota? "Which child arrived?"
+Tevila tauwau bigisesi gugwadi gudigasisi? "How many men will see the wild children?"
+Legisesi ketala waga vivila minasiwena. This has two possible translations: a. "Those women saw one canoe." b. "They saw one canoe of those women."
+(b) Translate into Kilivila:
+How many canoes did those old women see? Kevila waga legisesi nunumwaya minasiwena?
+These four white men will look after this clever child. Biyamatasi gwadi mtona nakabitam dimdim mtosina navasi.
+How many children will eat these pigs? Navila gugwadi bikamkwamsi bunukwa minasina?
+Which woman caught those beautiful fish? Aminana vivila lebani yena minasiwena minamanabweta?
+Two wild dogs saw that old man. Legisesi tomwaya mtowena nayu ka'ukwa nagasisi.
+Problem 4: Agbirigba (Ikwerre Secret Language)
+Analysis of the Transformation Rules
+After examining the data, I observe that Agbirigba forms are created by:
+Inserting tʊ́/tɪ́/tʊ̃́/tɪ̃́ before consonants (matching vowel quality and nasality)
+Preserving original tones but adding new syllables
+Following specific rules for initial consonants: m→tʊ̃́m, w→tũ̀w, etc.
+(a) Identify the exception
+The word "wẽ́nẽ́" (siblinghood) transforms to "tṹwẽtіnẽ" instead of the expected "tṹwẽ́tṹnẽ́" according to the regular pattern.
+If it followed the regular pattern, it would be: "tṹwẽ́tṹnẽ́" (inserting tṹ before each syllable).
+(b) Give the Agbirigba forms:
+rʊ́tʊ̂ (chewing-stick) → tʊ́rʊ́tʊ́tʊ̀
+Insert tʊ́ before r, then tʊ́ before t with falling tone changed to low
+rɛẁʊ̃́ (deity) → tɪr̀ɛt̀ʊ̃́wʊ̃́
+Insert tɪ̀ (matching low tone) before r, then tʊ̃́ (matching high tone and nasality) before w
+bіḱó (please) → tʊ́bіt́ʊ́kó
+Insert tʊ́ before b, then tʊ́ before k
+ɲ́yẽ́ rɪỳã̀ (female) → tʊ̃́ɲ́tɪ̃́yẽ́tɪr̀ɪt̀ɪ̃̀yã̀
+Insert tʊ̃́ before ɲ́, tɪ̃́ before y, tɪ̀ before r, tɪ̃̀ before y
+bɛḱʷʊ̃́ (fire) → tʊ́bɛt́ʊ̃́kʷʊ̃́
+Insert tʊ́ before b, then tʊ̃́ before kʷ
+rіýõ̀rõ̀ (charcoal) → tʊ́rіt́ɪ̃̀yõ̀tʊ̃̀rõ̀
+Insert tʊ́ before r, tɪ̃̀ before y, tʊ̃̀ before r
+hʷɔg̀â (go out!) → tʊ̀hʷɔt̀ʊ́gà
+Insert tʊ̀ before hʷ, then tʊ́ before g (with falling tone split)
+Problem 5: Rikbaktsa Verb System
+From analyzing the verb forms, I can identify:
+Person/tense prefixes: pi-/my- (1st/3rd singular future), tsi- (2nd singular), ik-/ni- (1st/3rd singular past)
+Object markers integrated into the verb
+Plural suffix -naha
+(a) Translate into English:
+aharapyryk = "I hugged you (pl)" (a- = 1st person past with 2nd plural object, -pyryk = hug)
+mymyboro = "I will bite myself" / "he will bite himself" (my- = 1st/3rd person future, reduplication indicates reflexive)
+uru = "sleep!" (imperative form) (bare verb root)
+tsiksiwynaha = "you (pl) left and cut it up" (tsi- = 2nd person, -ksi = leave, -wy = cut, -naha = plural)
+ikwak = "I hunted" (ik- = 1st person past, -wak = hunt)
+ziksi = "he left you (sg)" (z- = 3rd person past with 2nd singular object, -ksi = leave)
+(b) Translate into Rikbaktsa:
+we will fall = tsinarahanaha (tsi- = plural subject prefix, -naraha = fall, -naha = plural)
+I bathed = ikmoro (ik- = 1st person past, -moro = bathe)
+you (sg) bit us = tsikboronaha (tsik- = 2nd person past, -boro = bite, -naha = 1st plural object)
+I will wait for them / he will wait for them = pisipery (pi- = 1st/3rd future, -si- = 3rd plural object, -pery = wait)
+I will hug you (pl) / he will hug you (pl) = piharapyryk (pi- = 1st/3rd future, -hara- = 2nd plural object, -pyryk = hug)
+you (sg) will leave = tsimyksi (tsimy- = 2nd person future, -ksi = leave)
+I killed it = ikbeze (ik- = 1st person past, -beze = kill)
+

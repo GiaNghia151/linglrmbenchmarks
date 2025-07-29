@@ -1,0 +1,120 @@
+Problem 1 Solutions
+
+(a) Numerals in digits:
+
+	•	moeto waroewo — 700 (100 × 7)
+	•	ijema joka rati — 60 (40 + 20)
+	•	moeto wido ma benomi ka wi — 193 (100 + 90 + 3)
+	•	The numeral with the same value as one above is "ijema joka rati" = 60, which equals "idibima rati beo" = 55 + 5 = 60.
+
+(b) Write out in Ekari:
+
+	1.	1 — wi
+	2.	19 — benomi ma wi ka wido (30 - 20 + 9)
+	3.	26 — benomi ma ije ka benomi (20 + 3 + 3)
+	4.	104 — moeto wi ma wi ka wido (100 + 0 + 4)
+	5.	292 — moeto benomi ma idibi ka wija (300 - 10 + 2)
+	•	The number that can be expressed two ways is 1, which can be written as "wi" or possibly "ena" (if "enama" is "one" plus a suffix).
+
+Problem 2 Solutions
+
+(a) Correct correspondences:
+
+	1.	mo:chikwa datda:we — A. chicken meat
+	2.	haya:we — B. tea (drink)
+	3.	doko:ko mo'le — F. peach pie
+	4.	ma:chikwa — D. loaf of bread
+	5.	mu:chikwa — E. beads
+	6.	mulonne ≈ mu'le — I. peach trees
+	7.	mowe — G. piles of leaves
+	8.	ha:k'yawe — H. chicken egg
+	9.	doko:ko shiwe — C. sugar
+	10.	mo:chikwa mulo:chikwa — J. chocolate bar
+
+(b) Correct correspondences:
+
+	11.	ade muwe — K. granule, grain (for example of salt)
+	12.	beyanne — L. ear of corn [corn cob]
+	13.	homa:we — M. juniper leaves
+	14.	ma:k'yawe — N. salt water
+	15.	ma:k'ose — O. blood clots
+	16.	ma'le — P. field of grass
+	17.	homayanne — R. juniper branch
+	18.	mi'le — Q. blood
+	19.	ade k'yawe — S. salt
+
+(c) Translations into English:
+
+	20.	be'le — corn, maize
+	21.	chikwa — item, piece, unit
+	22.	datdanne — long egg-shaped item (or string of eggs)
+	23.	ade — salt
+	24.	mulo:we — chocolate
+	25.	hawe — egg
+	•	The word with the same translation is #23 "ade" which translates as "salt" like #19 "ade k'yawe".
+
+(d) Translations into Zuni:
+
+	26.	salty — ade k'ose (using pattern from salt-related terms)
+	27.	juniper leaf — homa
+	28.	piece of meat — ma chikwa (if generic meat); ma:chikwa chikwa (if piece of chicken meat)
+	29.	water — k'yawe
+	30.	corn, maize — be'le
+	31.	fields of grass — ma'le ma'le (pluralized form of field)
+
+(e) Ma'k'yayanne — A salt spring or salt water source.
+
+Problem 3 Solutions
+
+(a) Translations into English:
+
+	14.	Navila vivila biyamata tomwaya mtona? — "Which woman will look after that old man and this man?" / "How many women will look after that old man and this man?"
+	15.	Bikamkwamsi kweyu vivila minasina. — "These two women will eat."
+	16.	Amagudina gwadi lekota? — "Which child arrived?"
+	17.	Tevila tauwau bigisesi gugwadi gudigasisi? — "How many men will see the wild children?"
+	18.	Legisesi ketala waga vivila minasiwena. — "Those women saw one canoe." / "They saw one canoe of those women."
+
+(b) Translations into Kilivila:
+
+	19.	How many canoes did those old women see? — Kevila waga legisesi nunumwaya minasiwena?
+	20.	These four white men will look after this clever child. — Biyamatasi gwadi mtona nakabitam dimdim mtosina navasi.
+	21.	How many children will eat these pigs? — Navila gugwadi bikamkwamsi bunukwa minasina?
+	22.	Which woman caught those beautiful fish? — Aminana vivila levasi yena dakuna makesiwena?
+	23.	Two wild dogs saw that old man. — Legisesi tomwaya mtowena nayu ka'ukwa nagasisi.
+
+Problem 4 Solutions
+
+(a) Exception and corrected form:
+
+	•	wẽ́nẽ́ is the exception, and its form would be tṹwẽ́tṹnẽ́ if it were determined by the same rules.
+
+(b) Agbirigba forms:
+
+	1.	rʊ́tʊ̂ — tʊ́rʊ́tʊ́tʊ̀
+	2.	rɛẁʊ̃́ — tɪr̀ɛt̀ʊ̃́wʊ̃́
+	3.	bіḱó — tʊ́bіt́ʊ́kó
+	4.	ɲ́yẽ́ rɪỳã̀ — tʊ̃́ɲ́tɪ̃́yẽ́tɪr̀ɪt̀ɪ̃̀yã̀
+	5.	bɛḱʷʊ̃́ — tʊ́bɛt́ʊ̃́kʷʊ̃́
+	6.	rіýõ̀rõ̀ — tʊ́rіt́ɪ̃̀yõ̀tʊ̃̀rõ̀
+	7.	hʷɔg̀â — tʊ̀hʷɔt̀ʊ́gà
+
+Problem 5 Solutions
+
+(a) Translations into English:
+
+	•	aharapyryk — I hugged you (pl)
+	•	mymyboro — I will bite myself / he will bite himself
+	•	uru — sleep!
+	•	tsiksiwynaha — you (pl) left and cut it up
+	•	ikwak — I hunted
+	•	ziksi — he left you (sg)
+
+(b) Translations into Rikbaktsa:
+
+	•	we will fall — tsinarahanaha
+	•	I bathed — ikmoro
+	•	you (sg) bit us — tsikboronaha
+	•	I will wait for them / he will wait for them — pisipery
+	•	I will hug you (pl) / he will hug you (pl) — piharapyryk
+	•	you (sg) will leave — tsimyksi
+	•	I killed it — ikbeze

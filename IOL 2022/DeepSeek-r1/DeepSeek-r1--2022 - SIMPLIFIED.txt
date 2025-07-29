@@ -1,0 +1,141 @@
+### Problem 1 Solutions
+
+(a) Other translation: I give you_{pl} to him.
+
+(b) Translations into English:
+10.  — I give you_{sg} to them.
+11.  — He gives you_{pl} to them.
+12.  — He gives us to you_{sg}.
+
+(c) Translations into Ubykh:
+13. — wəsŝʷnatʷən.
+14. — šʷəšʼawtʷən.
+15. — santʷən.
+16. — wəšʼtʷan.
+17. — səwəntʷan.
+
+### Problem 2 Solutions
+
+(a) Correspondences:
+1. — F.
+2. — T.
+3. — X.
+4. — W.
+5. — I.
+6. — V.
+7. — L.
+8. — D.
+9. — S.
+10. — Q.
+11. — K.
+12. — C.
+13. — Z.
+14. — J.
+15. — G.
+16. — W.
+17. — P.
+18. — Y.
+19. — O.
+20. — H.
+21. — R.
+22. — M.
+23. — N.
+24. — E.
+25. — B.
+26. — U.
+
+(b) Translations into English:
+27.  — They are wrapped" or "They are scattered" (This one has two possible translations).
+28.  — He makes holes.
+29.  — He leans it against something" or "It leans against something" (This one has two possible translations).
+
+(c) Translations into Alabama:
+30.  — inchafàali.
+31.  — ɬìilka.
+32.  — atanayli.
+33.  — kawwi.
+
+(d) Ambiguous word: 33. kawwi can also mean "It leans against something".
+
+### Problem 3 Solutions
+
+(a) Translations into English:
+17.  — Your_{pl} grandfather asks if I call him.
+18.  — Your_{sg} brother will not work in Upington.
+19.  — The dog is not afraid of me.
+20.  — Will you_{pl} call me tomorrow?
+21.  — Who sees you_{pl}?
+22.  — Who likes me?
+
+(b) Translations into Nǀuuki:
+23.  — ŋǀŋ kee si ǃʔai a ǁu ǀqhõʕo.
+24.  — ŋǀŋ ǃaukea ŋǁŋ ǂhun.
+25.  — kiɟa xae u ǂqheeke.
+26.  — na kacuuʔi ŋ ɡǀu xae ŋǀŋ ǃuu.
+27.  — cuu xae si ǀqhõʕo ŋǁa.
+28.  — ŋǀii a ŋǁŋ.
+
+### Problem 4 Solutions
+
+(a) Mapping:
+
+1 = X
+2 = W
+3 = V
+4 = U
+5 = T
+6 = S
+7 = R
+8 = Q
+9 = P
+10 = O
+11 = N
+12 = M
+13 = L
+14 = K
+15 = J
+16 = I
+17 = H
+18 = G
+19 = F
+20 = D
+21 = E
+22 = A
+23 = B
+24 = C
+
+(b) Fill in the blanks:
+
+(i) kadnhini
+(ii) kupaka
+(iii) lhuka
+(iv) nhupa
+(v) thanti
+(vi) amanyi
+(vii) kaku
+(viii) nhuthi
+(ix) piyaka
+
+### Problem 5 Solutions
+
+(a) la⁵⁵.
+
+(b) Fill in the blanks:
+1.  — kiʔ⁴².
+2.  — than³³.
+3.  — pha⁵⁵.
+4.  — kaʔ²⁴.
+5.  — kaʔ²⁴.
+6.  —
+7.  — pha¹¹.
+8.  —
+9.  — taiʔ⁴².
+10.  —
+11.  — laːn¹¹.
+12.  —
+13.  — phu⁵⁵.
+14.  —
+15.  — phlaːn¹¹.
+16.  — la³³.
+17.  — phu⁵⁵.
+18.  — ta¹¹.

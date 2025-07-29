@@ -1,0 +1,93 @@
+﻿Problem 1: Guazacapán Xinka
+Part (a): Filling in gaps for rows 15-18
+To solve this problem, I need to identify patterns in how Form 1 and Form 2 relate to each other.
+Key patterns observed:
+Form 2 begins with ɨn-, ɨm-, or ɨŋ- prefix (nasalization matching the place of articulation of the first consonant)
+There's often metathesis (rearrangement of sounds) and consonant changes
+The final y' in Form 1 transforms in a consistent way in Form 2
+Applying these patterns:
+netkay' → ɨnneteka'
+kɨrɨy' → ɨŋkɨr'ɨ
+p'uhruy' → ɨmp'uhur'u
+her'oy → ɨnher'o
+Part (b): Filling in gaps in rows 39-48
+Analyzing patterns from the additional verb forms reveals:
+Forms with final -ŋ/n' indicate "I (did something)"
+Forms starting with ɨm-/ɨn- + ending in -iʔ indicate "I was/am being (done to)"
+Forms starting with a- indicate "it was/is being (done to)"
+Completing the gaps:
+her'oŋ → I smoothed out (it)
+ɨniʂpaʔ → I leave
+aplaʔ → it was opened/it is being opened
+? → "it chose (it)" → aʂur'oʔ
+? → "I saw (it)" → piriŋ
+? → "I plant (it)" → ʂawʂaŋ
+? → "it was trapped" → ak'anaʔ
+? → "I leap" → ɨnp'ɨhnaʔ
+? → "it is being sewn, woven" → ahɨk'aʔ
+? → "I was bathed" → ɨnipaliʔ
+Problem 2: Apurinã
+Part (a): Translation into English
+uwa xinhikaru sytu → He/she remembered the woman.
+txipary nhinhikary → He/she ate the banana.
+kyky aikute pysykary ywamukary → The man gave the house to him.
+Part (b): Explaining the grammatical error
+uwa umynary kanawa ximakymukary
+This sentence is grammatically incorrect because object nouns must carry the suffix -te/-txi. The direct object "kanawa" (canoe) is missing this required object marker.
+Corrected version: uwa umynary kanawate ximakymukary Translation: He/she brought the canoe to the fish.
+Part (c): Translation into Apurinã in two ways
+You_{sg} found the house.
+pita apukary aikute
+aikute pita apukary
+I brought your_{sg} canoe to the girl.
+nuta mynaru pikanawate hãtakurumukary
+pikanawate nuta mynaru hãtakurumukary
+He brought your_{sg} water to me.
+ywa mynaru piĩpurããte nutamukary
+piĩpurããte ywa mynaru nutamukary
+The man drank the girl's blood.
+kyky ãtary hãtakuru herẽkatxi
+hãtakuru herẽkatxi kyky ãtary
+I remembered the eye.
+nuta xinhikary kywytxi
+kywytxi nuta xinhikary
+You_{sg} ate my banana.
+pita nhikary nytxiparyte
+nytxiparyte pita nhikary
+Problem 3: Coastal Marind
+Part (a): Translation into English
+e-ɣuyanah → Oh, you_{pl} shuddered!
+ba-ihwin → You_{pl} really cried.
+nambum-kisaɣah → Aw, I [verb]ed him. (Possibly "scared" or similar)
+bat-ɣadawn → I left him behind in vain.
+ubamum-kolewn → Aw, you_{sg} [verb]ed him in vain. (Possibly "chased" or similar)
+Part (b): Translation into Coastal Marind
+He floated to the surface. → ka-tamab
+Aw, you_{sg} returned. → obat-dahetok
+Oh, I silenced him! → nabam-hoɣab
+He really chased us away. → um-otab
+You_{pl} really spat on us in vain. → ebe-kesawn
+Problem 4: Plains Cree
+Part (a): Translation into English
+ē-wāpamikoyēk → as you_{pl} are seen by him or as he sees you_{pl}
+ninakinikonān → he stops us
+kikakwēcimāwāw → you_{pl} ask him
+kiwīcihitināwāw → I help you_{pl}
+Part (b): Translation into Plains Cree
+if we ask them → kakwēcimāyāhkwāwak
+they challenge you_{pl} → kimawinēskomikowāwak
+they help me → niwīcihikwak
+you_{sg} see them → kiwāpamāwak
+I stop you_{pl} → kinakinitināwāw
+Problem 5: Supyire Numerals
+Part (a): Write in digits
+kampwɔhii shuunni na kɛ → 7010 (1000×7 + 10)
+ŋkuu na baataanre → 120 (100 + 20)
+Part (b): Write in Supyire
+15 → kɛ na kaŋkuro (10 + 5)
+109 → ŋkwuu na baaricyɛɛre (100 + 9)
+152 → ŋkwuu na beɲjaaga na kɛ na niŋkin niŋkin (100 + 20 + 30 + 2)
+403 → ŋkwuu sicyɛɛre na beetaanre (100×4 + 3)
+1534 → kampwɔhii na kampwoo na beetaanre na kɛ na sicyɛɛre (1000 + 500 + 30 + 4)
+
+

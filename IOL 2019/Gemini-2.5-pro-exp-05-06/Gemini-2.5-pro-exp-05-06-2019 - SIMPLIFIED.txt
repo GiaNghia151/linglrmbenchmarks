@@ -1,0 +1,196 @@
+Regrade with following LLM answer:
+
+Problem 1: Yonggom
+
+**(a) Translate into English**
+
+*   Om benu aneen.
+    *   She takes the bread and he eats it.
+*   Munuuna wunuub.
+    *   She will come and we will go away.
+*   Wingkiiwa wengamburuun.
+    *   You(sg) sing and she hears.
+*   Anon ye weng wengamberenib yeedaraniib.
+    *   They hear the dog and they get up.
+*   Oon wedmaniina karub wedmaneeb.
+    *   I saw the fish and they see the man.
+*   Ok wedmeena aniin.
+    *   She saw the water and I drink it.
+
+**(b) Translate into Yonggom**
+
+*   We will go away and they will come.
+    *   Wenenuuwa miniib.
+*   I take the pig and he takes the fish.
+    *   Awon baina oon baneen.
+*   He saw the water and the house and heard the dog.
+    *   Ok ambib-a wedmaone anon ye weng wengambareen.
+*   You(sg) eat the bread and sing.
+    *   Om ane wingkeein.
+
+***
+
+Problem 2: Yurok
+
+**(a) Determine the correct correspondences.**
+
+*   muencherh rohkuen - F. white dog
+*   perkeryerh holeehl ʼwernerh - B. black shoe
+*   muencherh nerhpery - D. white berry
+*   sʼerkterʼery chʼeeshah - L. grass-green shirt
+*   muencharʼ pyaapʼ - E. brown shoe
+*   pekoyarʼ tepoo - I. white chair
+*   luuehlsonʼ nerhpery - N. purple berry
+*   muenchey cheekʼwar - H. white manzanita bush
+*   muenterʼery chʼeeshah - O. black shirt
+*   lerʼergery cherʼery - G. white ball
+*   ʼerrwerhsonʼ slekwoh - K. red tree
+*   muenterʼery puuek - C. black bear
+*   loʼogey slekwoh - M. red hazelnut
+*   sʼoktoy noʼoy - J. orange bear
+*   ʼwerʼerrgerchsonʼ cherʼery - Q. blue ball
+*   loʼogey noʼoy - P. white deer
+*   tegeeʼn nerhpery - R. yellow berry
+*   skoyon rohkuen - A. brown dog
+
+**(b) Determine the correct correspondences.**
+
+*   19-T: muencherhl — coffee bean
+*   20-Y: ʼwerʼerrgerch — sky
+*   21-X: luuehl — wild iris
+*   22-V: lerʼergerh — milk
+*   23-W: pekoyek — alder tree
+*   24-S: skoyon — canary
+*   25-W: tegeeʼn — alder tree
+
+**(c) Translate into English**
+
+*   26. ʼerrwerh
+    *   red
+*   27. lerʼergerh rohkuen
+    *   white dog
+*   28. perkeryerʼery chʼeeshah
+    *   black shirt
+*   29. pyerrpʼtʼery chʼeeshah
+    *   purple shirt
+
+**(d) Translate into Yurok**
+
+*   30. purple deer
+    *   luuehlsonʼ noʼoy
+*   31. white shoe
+    *   muencherh pyaapʼ
+*   32. yellow ball
+    *   tegeeʼn cherʼery
+*   33. black tree
+    *   muenterʼery slekwoh
+
+***
+
+Problem 3: Middle Persian
+
+**(a) Match each word above with its scientific transliteration and transcription.**
+
+*   A - 1 (ʾslwn' / āšrōn)
+*   B - 24 (ZWZN' / drahm)
+*   C - 8 (dwt' / dūd)
+*   D - 5 (blbwt' / barbut)
+*   E - 16 (HZWLYA / hūg)
+*   F - 10 (gdk' / gēg)
+*   G - 11 (hmyšk' / hamešag)
+*   H - 27 (ʾwzmbwlt' / uzumburd)
+*   I - 15 (MLKTA / bāmišn)
+*   J - 2 (sydʾ / syā)
+*   K - 19 (APLA / xāk)
+*   L - 3 (DMYA / xōn)
+*   M - 25 (dlmnk' / dramanag)
+*   N - 14 (wʾcʾl / wāzār)
+*   O - 4 (AHTE / xwah)
+*   P - 13 (gwklt' / gōgird)
+*   Q - 26 (NKSWN-tn' / kuštan)
+*   R - 20 (gwn' / gōn)
+*   S - 31 (ywdtʾk' / jūdāg)
+*   T - 6 (gyʾh / giyāh)
+*   U - 12 (LK / tō)
+*   V - 22 (mng / mang)
+*   W - 30 (ʾylʾnštr' / Ērān-šahr)
+*   X - 32 (dhšk' / daxšag)
+*   Y - 28 (glmwk' / garmōg)
+*   Z - 9 (mwd / mōy)
+*   AA - 23 (lwlk' / rūrag)
+*   BB - 17 (zwzk' / zuzāg)
+*   CC - 21 (LCDr' / tar)
+*   DD - 34 (lwcynk' / lawzēnag)
+
+**(b) In Book Pahlavi, one Middle Persian word is usually written with a certain graphic peculiarity. Identify this word.**
+
+*   ʾhlmn' (Ahreman)
+
+**(c) The following words are alternative spellings of some of the words above. Identify them and provide their scientific transliterations.**
+
+*   EE. nnsbnAb - ʾwzmbwlt'
+*   FF. LDXc - gdk'
+*   GG. rt - dwt'
+*   HH. n%DX - glmwk'
+*   II. nnnA - DMYA
+*   JJ. nknA - APLA
+
+**(d) Write in the Book Pahlavi script**
+
+*   KK. DKRA (muɣ) - nLlA
+*   LL. dlwnd (druwand) - nlTnn
+*   MM. stwl (stōr) - stTl
+*   NN. cmbl (čambar) - SMbl or SMbnl
+
+***
+
+Problem 4: West Tarangan
+
+
+ɛtaleŋa — North: ɛttaleŋa, Coast: ɛtataleŋa  
+jaga — North: jagjaga, Coast: jajaga  
+gasírana — North: gasirsirana, Coast: gasisirana  
+daramota — North: darmota, Coast: daramotamota  
+pɔwna — North: pɔmbɔwna, Coast: pɔwapɔwna  
+ɛrtɔpa — North: ɛttɔpa, Coast: ɛrtɔpartɔpa  
+dabuka — North: darbuk, Coast: dabukabuka  
+ŋuŋim — North: ŋuŋŋuŋim, Coast: ŋuŋiŋuŋim  
+igɔ́ŋ — North: igɔ́ŋgɔ́ŋ, Coast: igɔ́ŋgɔ́ŋ  
+
+***
+
+Problem 5: Nooni
+
+**(a) Translate into English (spoken on Bvuŋkaden - Day 5)**
+
+*   bvúsɔ̀w nǔ fɔ̀ shě ntfǔː.
+    *   Bvusɔw is the day after tomorrow.
+*   me nú ŋgéː nyɛ́n kèŋkfǔ lé ɛ̀bɛ̀n.
+    *   I will see the yam here today.
+*   wvù tɔ̀ nɔ̂ː yɛ᷅n bèsèn ě bvúmbòn.
+    *   He saw us on Bvumbon.
+*   bèsèn nǔ bóy tɔ́ fɔ̀wǎy bvúzhı᷇ː de᷆n.
+    *   We will go to the market on Bvuzhi.
+
+**(b) The first day of the Nooni week is Bvutfu. What is the order of the Nooni days?**
+
+1.  Bvutfu
+2.  Bvuŋka
+3.  Bvuzhi
+4.  Bvukema
+5.  Bvuŋkaden
+6.  Bvusɔw
+7.  Bvumbon
+
+**(c) Translate into Nooni (spoken on Bvumbon - Day 7)**
+
+*   On Bvusɔw, I helped the man.
+    *   me ncí nɔ̂ː fí dìɛ̀msɛ̌n bvúsɔ̀w.
+*   The thief stole the yam just now.
+    *   cɔ̌ŋ nɔ̂ː cɔ́ŋ kèŋkfǔ.
+*   On Bvuŋkaden, I will hear the car.
+    *   me nú mbóy yo᷅w mutù bvûŋka᷆ːde᷆n.
+*   Today, the woman will kill the man.
+    *   kwɔ᷆ːn nǔ bóy yo᷅ dìɛ̀msɛ̌n ɛ̀bɛ̀n.
+*   Today, the man saw you(sg).
+    *   dìɛ̀msɛ̌n bɛ̂ː yɛ᷅n wɔ̀ ɛ̀bɛ̀n.

@@ -1,0 +1,125 @@
+Problem 1
+
+**Final Answers**
+
+1.  [ífa]
+2.  [ifóci]
+3.  [nâːnakí]
+4.  [sâːsákwa]
+5.  [aktópa]
+6.  [hoktáki]
+7.  [wanayíta]
+8.  [awanayíta]
+9.  [isiskitóci]
+10. [aːtamihóma]
+11. [honantáːki]
+12. [ilitohtáɬita]
+
+***
+
+Problem 2
+
+**(a) Translate into English**
+
+1.  nɤ ʒip ku ne
+    *   Translation: Do you sleep?
+2.  ati kəmə nirum lapkʰi tʰi ne
+    *   Translation: Did he see us?
+3.  tarum kəmə nuʔrum cʰam ran ne
+    *   Translation: Do they know you (pl)?
+4.  nirum kəmə tarum lan ki ne
+    *   Translation: Do we beat them?
+5.  nirum kəmə nɤ cʰam tiʔ ne
+    *   Translation: Did we know you (sg)?
+6.  nirum ka tiʔ ne
+    *   Translation: Did we go?
+
+**(b) Translate into Hakhun**
+
+7.  Did I beat you (sg)?
+    *   Hakhun: ŋabə nɤ lan tɤʔ ne
+8.  Did they see me?
+    *   Hakhun: tarum kəmə ŋa lapkʰi tʰu ne
+9.  Does he know you (sg)?
+    *   Hakhun: ati kəmə nɤ cʰam ri ne
+10. Do you (pl) sleep?
+    *   Hakhun: nuʔrum ʒip kan ne
+
+***
+
+Problem 3
+
+**(a) Fill in the Gaps**
+
+1.  peîho — to go
+2.  mbîyo — animal
+3.  yêno — wife
+4.  yênom — mother
+5.  késaxo — to feel cold
+6.  xérere — side
+7.  teôko — nape
+8.  doínjoa — to see it
+9.  vadémjo — to buy
+10. meômiti — to be tired
+11. íhikaxovoku — school
+12. yôxum — grandfather
+13. nîwom — nephew
+14. áharana — hoe
+
+**(b) Portuguese borrowings**
+
+*   **Difference from Native Words:** Native Terêna words exhibit initial consonant mutation (e.g., `mb` → `p`). Portuguese borrowings show medial consonant mutation instead (e.g., "lámbina" → "leápina" where medial "mb" mutates to "p", but initial "l" remains unchanged). Vowel changes also occur (e.g., `á` → `eá`).
+*   My tin can: lámbatana
+*   My cloak: kámbapana
+
+***
+
+Problem 4
+
+**(a) The missing word X:**
+The word X is "atub" (classifier for units).
+
+**(b) Translate into English**
+
+| Mountain Arapesh | Translation |
+| :------------------------------- | :------------------- |
+| biabys atub bøbys | 7 betel nuts |
+| atub juhurub | 3 eggs |
+| nybat atuh araruh | 4 sugar canes |
+| biagas atugas biagas baigas | 15 sheets of sago bark |
+| wiwis baigas | 11 sheets of sago bark |
+
+**(c) Translate into Mountain Arapesh**
+
+| English | Mountain Arapesh |
+| :----------------------- | :--------------------------- |
+| 4 betel nuts | nybat biabys atub bøbys |
+| 11 eggs | biogu atut atub juhurubys |
+| 20 eggs | biogu juhurubys |
+| 25 sheets of sago bark | biogu atugu biaruh baigas |
+
+***
+
+Problem 5
+
+**(a) Supply the Family Tree with Names**
+
+*   Man 1: Enu
+*   Man 2: [unnamed]
+*   Man 3: [unnamed]
+*   Man 4: Yaw
+*   Man 5: Kofi
+*   Man 6: Kobina
+*   Man 7: Berko
+*   Woman 1: Nsia
+*   Woman 2: [unnamed]
+*   Woman 3: Awotwi
+*   Woman 4: Thema
+*   Woman 5: Ama
+*   Woman 6: Efua
+*   Woman 7: [unnamed]
+
+**(b) Fill in the Gaps**
+
+1.  Yɛfrɛ me Yaw. Yɛfrɛ me ɛnanom Kunto. Yɛfrɛ me nuanom Nsia ne Awotwi. Yɛfrɛ me nuanom Thema ne Ama. Yɛfrɛ me wɔfa Awotwi. Yɛfrɛ me wɔfa Ofori. Yɛfrɛ me sewaanom Esi ne Kofi. Yɛfrɛ me wɔfaase Berko.
+2.  Yɛfrɛ me Ofori. Yɛfrɛ me banom Kofi ne Esi. Yɛfrɛ me wɔfaase Yaw ne Ama. Yɛfrɛ me sewaanom Kunto ne Dubaku.

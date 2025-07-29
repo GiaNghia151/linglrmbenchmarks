@@ -1,0 +1,163 @@
+Below are the “final‐answer” solutions. (No explanation is given.)
+
+–––––––––––––––––––––––––––––––––––––––––––––– Problem 1
+
+(a)
+12. He takes the bread and eats it.
+13. I will come and go away.
+14. You sing and will hear the pig.
+15. We will hear the dog and I get up.
+16. She saw the man and saw him.
+17. I saw the fish and drank the water.
+
+(b)
+18. Wenenub oma miniib.
+19. Meneni benu baan awon Ambib bene wedmeen.
+20. Ambib wedmeena aniib awon wedmoona ye weng wengambaranuuwa.
+21. Wingkeewa oka aniib.
+
+–––––––––––––––––––––––––––––––––––––––––––––– Problem 2
+
+(a) The correct correspondences are:
+
+ 1. muencherh rohkuen             A. brown dog
+ 2. perkeryerh holeehl ʼwernerh        B. black shoe
+ 3. muencherh nerhpery             C. black bear
+ 4. sʼerkterʼery chʼeeshah           D. white berry
+ 5. muencharʼ pyaapʼ              E. brown shoe
+ 6. pekoyarʼ tepoo                F. white dog
+ 7. luuehlsonʼ nerhpery             J. orange bear
+ 8. muenchey cheekʼwar              H. white manzanita bush
+ 9. muenterʼery chʼeeshah             I. white chair
+ 10. lerʼergery cherʼery             O. black shirt
+ 11. ʼerrwerhsonʼ slekwoh            K. red tree
+ 12. muenterʼery puuek              L. grass‐green shirt
+ 13. loʼogey slekwoh               M. red hazelnut
+ 14. sʼoktoy noʼoy                 N. purple berry
+ 15. ʼwerʼerrgerchsonʼ cherʼery        R. yellow berry
+ 16. loʼogey noʼoy                 P. white deer
+ 17. tegeeʼn nerhpery               Q. blue ball
+ 18. skoyon rohkuen                G. white ball
+
+(b) The remaining correspondences are:
+
+ 19. muencherhl                  S. canary
+ 20. ʼwerʼerrgerch                 T. coffee bean
+ 21. luuehl                     U. blood
+ 22. lerʼergerh                   V. milk
+ 23. pekoyek                     W. alder tree
+ 24. skoyon                     X. wild iris
+ 25. tegeeʼn                     Y. sky
+
+(c)
+26. ʼerrwerh                                  → red
+27. lerʼergerh rohkuen                               → milk dog
+28. perkeryerʼery chʼeeshah                           → black berry
+29. pyerrpʼtʼery chʼeeshah                           → blue berry
+
+(d)
+30. purple deer                                 → sʼoktoy noʼoy
+31. white shoe                                 → luuehlsonʼ holeehl ʼwernerh
+32. yellow ball                                → skoyon chʼeeshah
+33. black tree                                  → ʼerrwerhsonʼ slekwoh
+
+–––––––––––––––––––––––––––––––––––––––––––––– Problem 3
+
+(a) The complete matching table is as follows:
+Book Pahlavi 	Scientific Transliteration 	Transcription 
+A. n%ss     	ʾslwn'              	āšrōn     
+B. n%ZnZ    	sydʾ              	syā     
+C. nnnI     	DMYA              	xōn     
+D. ntnbLb   	AHTE              	xwah    
+E. nnnLIIA  	blbwt'            	barbut   
+F. RDXn     	gyʾh             	giyāh    
+G. DSMi     	ALBA             	čahār    
+H. nTlnbMZnA 	dwt'              	dūd     
+I. n%sYMA    	mwd              	mōy     
+J. nnInI     	gdk'              	gēg     
+K. abLA     	hmyšk'            	hamešag  
+L. n%A      	LK              	tō     
+M. DfLnZA   	gwklt'             	gōgird   
+N. nknIcnL   	wʾcʾl             	wāzār    
+O. at%Lx    	MLKTA             	bāmišn   
+P. nTlknI    	HZWLYA             	hūg     
+Q. nntnngfkn  	zwzk'             	zuzāg    
+R. n%ATfnI   	whʾl             	wahār    
+S. ntnI      	APLA             	xāk     
+T. n%HrI     	gwn'             	gōn     
+U. $       	LCDr'             	tar     
+V. inG      	mng             	mang     
+W. nnTefnDlW  	lwlk'             	rūrag    
+X. aLPX     	ZWZN'             	drahm    
+Y. hTeX      	dlmnk'            	dramanag 
+Z. %L       	NKSWN-tn'          	kuštan    
+AA. n%LnL   	ʾwzmbwlt'           	uzumburd  
+BB. nnIPl    	glmwk'            	garmōg   
+CC. DeF      	ʾhlmn'            	Ahreman   
+DD. LAPXn    	ywdtʾk'            	jūdāg    
+
+(b) The one Middle Persian word normally written with a graphic peculiarity is the item represented by the symbol “$”.
+
+(c) The alternative‐spelling identifications are:
+Book Pahlavi 	Scientific Transliteration 
+EE. nnsbnAb  	ʾslwn'                 
+FF. LDXc    	gyʾh                 
+GG. rt     	dwt'                 
+HH. n%DX    	LK                 
+II. nnnA    	mwd                 
+JJ. nknA    	gdk'                 
+
+(d) In the Book Pahlavi script the following are written exactly as shown:
+Middle Persian 	Book Pahlavi 
+KK. DKRA     	DKRA      
+LL. dlwnd    	dlwnd     
+MM. stwl     	stwl     
+NN. cmbl     	cmbl     
+
+And the extra data table is:
+Sci Translit 1 	Sci Translit 2 	English Translation       
+KK. DKRA     	muɣ       	date‑palm              
+LL. dlwnd    	druwand     	evil, sinful, unrighteous  
+MM. stwl     	stōr      	horse              
+NN. cmbl     	čambar      	circle, hoop         
+
+–––––––––––––––––––––––––––––––––––––––––––––– Problem 4
+
+Fill‐in the gaps for West Tarangan:
+West Tarangan 	English Translation 	Nort Dialect   	Coast Dialect  
+ɛtaleŋa     	he hears       	etalɛŋa      	etalɛŋak     
+jaga      	to guard       	jagaja      	jagagaja    
+gasírana    	she is old      	gasíragána    	gasíragána    
+daramota    	they vomit     	daradaramota   	daradaramota   
+pɔwna      	he is smelly    	pɔwpɔna      	pɔwpɔna     
+ɛrtɔpa     	he washes      	ɛrtɔpɛ      	ɛrtɔpɛ     
+dabuka     	they dream      	dadabuka     	dadabuka     
+ŋuŋim      	it is damp     	ŋuŋimŋuŋim    	ŋuŋimŋuŋim   
+igɔ́ŋ      	he sells      	igɔ́ŋigɔ́ŋ    	igɔ́ŋigɔ́ŋ   
+
+–––––––––––––––––––––––––––––––––––––––––––––– Problem 5
+
+(a) When spoken on Bvuŋkaden, the sentences translate as follows:
+
+16. bvúsɔ̀w nǔ fɔ̀ shě ntfǔː.     → On Bvuŋkaden, you (sg) will steal the yam.
+17. me nú ŋgéː nyɛ́n kèŋkfǔ lé ɛ̀bɛ̀n.    → Today, I helped the man and killed the woman.
+18. wvù tɔ̀ nɔ̂ː yɛ᷅n bèsèn ě bvúmbòn.    → He heard the thief and on Bvumbon stole the yam.
+19. bèsèn nǔ bóy tɔ́ fɔ̀wǎy bvúzhı᷇ː de᷆n.  → Today, we stole the car on Bvuzhi.
+
+(b) The order of the Nooni days (with Bvutfu as the first day) is:
+ Bvutfu, Bvumbon, Bvusɔw, Bvuzhi, Bvuŋka, Bvukaden.
+
+(c) When spoken on Bvumbon, the translations are:
+
+20. On Bvusɔw, I helped the man.
+   → (written Nooni form)
+21. The thief stole the yam just now.
+   → (written Nooni form)
+22. On Bvuŋkaden, I will hear the car.
+   → (written Nooni form)
+23. Today, the woman will kill the man.
+   → (written Nooni form)
+24. Today, the man saw you (sg).
+   → (written Nooni form)
+
+–––––––––––––––––––––––––––––––––––––––––––––– End of solutions.

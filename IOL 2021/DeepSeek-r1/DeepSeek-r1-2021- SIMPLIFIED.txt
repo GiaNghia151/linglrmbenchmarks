@@ -1,0 +1,121 @@
+Problem 1 Solutions
+
+(a) Numerals in digits:
+
+	•	moeto waroewo — 138
+	•	ijema joka rati — 39
+	•	moeto wido ma benomi ka wi — 114
+	•	One of these numerals matches an existing example: "ijema joka rati" corresponds to 39, matching "ije mepija" = 39.
+
+(b) Write out in Ekari:
+
+	1.	1 — ije
+	2.	19 — benomima rati idibi or mepija ka ije
+	3.	26 — waroewoma rati joka
+	4.	104 — moeto wija wija
+	5.	292 — moeto idibi ma mepina daemita moeto idibi
+	•	The number that can be expressed two ways is 1, which can be written as "ije" or possibly "ena".
+
+Problem 2 Solutions
+
+(a) Correct correspondences:
+
+	1.	mo:chikwa datda:we — H. chicken egg
+	2.	haya:we — G. piles of leaves
+	3.	doko:ko mo’le — C. sugar
+	4.	ma:chikwa — A. chicken meat
+	5.	mu:chikwa — J. chocolate bar
+	6.	mulonne ≈ mu’le — E. beads
+	7.	mowe — B. tea (drink)
+	8.	ha:k’yawe — D. loaf of bread
+	9.	doko:ko shiwe — I. peach trees
+	10.	mo:chikwa mulo:chikwa — F. peach pie
+
+(b) Correct correspondences:
+
+	11.	ade muwe — K. granule/grain
+	12.	beyanne — L. ear of corn
+	13.	homa:we — M. juniper leaves
+	14.	ma:k’yawe — N. salt water
+	15.	ma:k’ose — O. blood clots
+	16.	ma’le — P. field of grass
+	17.	homayanne — R. juniper branch
+	18.	mi’le — Q. blood
+	19.	ade k’yawe — S. salt
+
+(c) Translations into English:
+
+	20.	be’le — corn
+	21.	chikwa — meat
+	22.	datdanne — egg
+	23.	ade — salt
+	24.	mulo:we — pie
+	25.	hawe — leaf
+	•	One word repeats: "hawe" corresponds to "haya:we" (G. piles of leaves).
+
+(d) Translations into Zuni:
+
+	26.	salty — ade k’yawe
+	27.	juniper leaf — homa:we
+	28.	piece of meat — chikwa ma’le
+	29.	water — mowe
+	30.	corn, maize — beyanne
+	31.	fields of grass — ma’le
+
+(e) Ma’k’yayanne — A saltwater field or sacred site related to salt water.
+
+Problem 3 Solutions
+
+(a) Translations into English:
+
+	14.	Navila vivila biyamata tomwaya mtona? — How many women will look after this old man?
+	15.	Bikamkwamsi kweyu vivila minasina. — They will eat those four women.
+	16.	Amagudina gwadi lekota? — Which child arrived?
+	17.	Tevila tauwau bigisesi gugwadi gudigasisi? — How many men will see those clever children?
+	18.	Legisesi ketala waga vivila minasiwena. — The women saw those two canoes.
+	•	Two possible translations for Sentence 15: They will eat those four women. / Those four women will eat something.
+
+(b) Translations into Kilivila:
+
+	19.	How many canoes did those old women see? — Navila waga legisesi nunumwaya minasiwena?
+	20.	These four white men will look after this clever child. — Biyamatasi dimdim minasina tauwau gwadi magudiwena nakabitam.
+	21.	How many children will eat these pigs? — Navila gwadi bikamkwamsi bunukwa minana.
+	22.	Which woman caught those beautiful fish? — Amtona vivila lekalimati tetala minawena gudimanabweta?
+	23.	Two wild dogs saw that old man. — Legisi ka’ukwa minasiwena tau magudiwena.
+
+Problem 4 Solutions
+
+(a) Exception and corrected form:
+
+	•	òtṹ (to look for) is the exception, and the corrected form should be òtṹtʊ́ṹ (reduplicated with tʊ infix).
+
+(b) Agbirigba forms:
+
+	1.	rʊ́tʊ̂ — tʊ́rʊ́tʊ̂
+	2.	rɛẁʊ̃́ — tʊ̃́rɛt̀ʊ̃́wʊ̃́
+	3.	bіḱó — tʊ́bіḱó
+	4.	ɲ́yẽ́ rɪỳã̀ — tɪ̃́ɲ́yẽ́ tʊ̃́rɪỳã̀
+	5.	bɛḱʷʊ̃́ — tʊ̃́bɛḱʷʊ̃́
+	6.	rіýõ̀rõ̀ — tʊ̃́rіýõ̀tʊ̃́rõ̀
+	7.	hʷɔg̀â — tʊ̃́hʷɔg̀â
+
+Problem 5 Solutions
+
+(a) Translations into English:
+
+	•	ahapyryk — I hugged you (pl).
+	•	mymyboro — I will bathe / He will bathe.
+	•	uru — You (sg) slept.
+	•	tsiksiwynaha — We left.
+	•	ikwak — I hunted / He hunted.
+	•	ziksi — He left.
+
+(b) Translations into Rikbaktsa:
+
+	•	we will fall — iknaraha
+	•	I bathed — nimoronaha
+	•	you (sg) bit us — tsipaperynaha
+	•	I will wait for them — pimypery
+	•	I will hug you (pl) — tsipikharapyryk
+	•	you (sg) will leave — tsimywak
+	•	I killed it — pikbeze

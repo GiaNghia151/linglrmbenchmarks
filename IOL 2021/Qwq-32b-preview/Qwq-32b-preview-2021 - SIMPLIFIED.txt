@@ -1,0 +1,130 @@
+Problem 1 Solutions
+
+(a) Numerals in digits:
+
+	•	moeto waroewo — 130
+		•	(moeto=100 + waroewo=30).
+		•	waroewo is derived from waroewoma (30) minus the suffix -ma, which may indicate a decrement of 10 (30 → 20? Not consistent, but based on examples, assume waroewo = 30).
+	•	ijema joka rati — 38
+		•	(ije=30 + joka=2 + rati=6).
+		•	This matches the value of waroewoma joka rati (38), so this is the duplicate.
+	•	moeto wido ma ije ka wi — 129
+		•	(moeto=100 + wido=29).
+		•	This is the same as the given example moeto wija ma ije ka wido, so this is the duplicate.
+
+(b) Write out in Ekari:
+
+	1.	1 — wi
+	2.	19 — benomima mepija
+	3.	26 — waroewo rati
+	4.	104 — moeto beo
+	5.	292 — moeto idibi ma widoma mepija ka benomi
+	•	1 — (since wija = 2, so wi likely means 1).
+	•	19 — (Two possible expressions for 19: benomima mepija (benomima=10 + mepija=9) and enama mepija (enama=10 + mepija=9), but enama is 10 (from enama rati beo = 11). Thus, 19 has two forms: benomima mepija and enama mepija).
+	•	26 — (waroewo=20 + rati=6).
+	•	104 — (moeto=100 + beo=4). beo likely represents 4 (from idibima rati beo = 55: 50 + 5 = 55, so beo may mean 0 or a modifier; here, assume beo = 4 for consistency).
+	•	292 — (same as the given example for 343, but adjusted for 292). Alternative: moeto idibi beo benomima (assuming idibi = 200, beo = subtract 50, but this is speculative). The problem states one number can be expressed two ways. 19 could also be enama mepija (enama=10 + mepija=9), but enama is 10 (from enama rati beo = 11). Thus, 19 has two forms: benomima mepija and enama mepija.
+
+Problem 2 Solutions
+
+(a) Correct correspondences:
+
+	1.	mo:chikwa datda:we — A. chicken meat
+	2.	haya:we — B. tea (drink)
+	3.	doko:ko mo’le — C. sugar
+	4.	ma:chikwa — D. loaf of bread
+	5.	mu:chikwa — E. beads
+	6.	mulonne ≈ mu’le — K. granule/grain
+	7.	mowe — G. piles of leaves
+	8.	ha:k’yawe — H. chicken egg
+	9.	doko:ko shiwe — I. peach trees
+	10.	mo:chikwa mulo:chikwa — J. chocolate bar
+
+(b) Correct correspondences:
+
+	11.	ade muwe — K. granule/grain
+	12.	beyanne — L. ear of corn
+	13.	homa:we — M. juniper leaves
+	14.	ma:k’yawe — N. salt water
+	15.	ma:k’ose — O. blood clots
+	16.	ma’le — P. field of grass
+	17.	homayanne — M. juniper leaves
+	18.	mi’le — R. juniper branch
+	19.	ade k’yawe — S. salt
+
+(c) Translations into English:
+
+	20.	be’le — fields of grass
+	21.	chikwa — beads
+	22.	datdanne — chicken meat
+	23.	ade — granule/grain
+	24.	mulo:we — blood clots
+	25.	hawe — tea
+	•	One word repeats: "hawe" corresponds to "haya:we" (G. piles of leaves).
+
+(d) Translations into Zuni:
+
+	26.	salty — ade k’yawe
+	27.	juniper leaf — homa:we
+	28.	piece of meat — mo:chikwa
+	29.	water — ma:k’yawe
+	30.	corn, maize — beyanne
+	31.	fields of grass — ma’le
+
+(e) Ma’k’yayanne — Salt water.
+
+Problem 3 Solutions
+
+(a) Translations into English:
+
+	14.	Navila vivila biyamata tomwaya mtona? — How many old women will look after this man?
+	15.	Bikamkwamsi kweyu vivila minasina. — Those white men will catch these fish.
+	16.	Amagudina gwadi lekota? — Which child arrived?
+	17.	Tevila tauwau bigisesi gugwadi gudigasisi? — How many wild dogs saw that clever child?
+	18.	Legisesi ketala waga vivila minasiwena. — The old women saw those canoes.
+	•	Two possible translations for Sentence 15: They will eat those four women. / Those four women will eat something.
+
+(b) Translations into Kilivila:
+
+	19.	How many canoes did those old women see? — Navila lekamwaya makesiwena?
+	20.	These four white men will look after this clever child. — Biyamata tau dimdim nunumwaya mtona bigisesi.
+	21.	How many children will eat these pigs? — Navila tau lekamkwamsi?
+	22.	Which woman caught those beautiful fish? — Amagudina gwadi lekamkwamsi?
+	23.	Two wild dogs saw that old man. — Tauwau nagasisi lekotasi.
+
+Problem 4 Solutions
+
+(a) Exception and corrected form:
+
+	•	àtʊ́wà (to break) is the exception; the corrected form should be àtɪ́wà.
+
+(b) Agbirigba forms:
+
+	1.	rʊ́tʊ̂ — tɪŕʊ̂tʊ̂
+	2.	rɛẁʊ̃́ — tɪrɛ̃̂wʊ̃̀
+	3.	bіḱó — tɪbіtḱó
+	4.	ɲ́yẽ́ rɪỳã̀ — tɪɲ́yẽ̃́ tɪrɪỳã̀
+	5.	bɛḱʷʊ̃́ — tɪbɛtḱʷʊ̃̀
+	6.	rіýõ̀rõ̀ — tɪríýõ̀rõ̀
+	7.	hʷɔg̀â — tɪhʷɔg̀â
+
+Problem 5 Solutions
+
+(a) Translations into English:
+
+	•	aharapyryk — You_{sg} hugged me.
+	•	mymyboro — I bathed.
+	•	uru — He slept.
+	•	tsiksiwynaha — We left.
+	•	ikwak — You_{sg} hunted.
+	•	ziksi — We left.
+
+(b) Translations into Rikbaktsa:
+
+	•	we will fall — iknaraha
+	•	I bathed — mymyboro
+	•	you_{sg} bit us — tsibeze
+	•	I will wait for them — tsimyerapy
+	•	I will hug you_{pl} — tsipikharapy
+	•	you_{sg} will leave — tsiksi
+	•	I killed it — tsibeze

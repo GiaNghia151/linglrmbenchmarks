@@ -1,0 +1,382 @@
+Problem 1:
+    Part a:
+        moeto waroewo:
+            Classification: Type 1
+            LLM Answer: 130
+            Real Answer: 480
+            Grade: 0
+        ijema joka rati:
+            Classification: Type 1
+            LLM Answer: 38
+            Real Answer: 39
+            Grade: 0
+        moeto wido ma benomi ka wi:
+            Classification: Type 1
+            LLM Answer: 129
+            Real Answer: 186
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: wi
+            Real Answer: ena
+            Grade: 0
+        2:
+            Classification: Type 2
+            LLM Answer: benomima mepija
+            Real Answer: ijema rati or ije mepina
+            Grade: 0
+        3:
+            Classification: Type 2
+            LLM Answer: waroewo rati
+            Real Answer: benomima mepina
+            Grade: 0
+        4:
+            Classification: Type 2
+            LLM Answer: moeto beo
+            Real Answer: wima mepija daemita moeto
+            Grade: 0
+        5:
+            Classification: Type 2
+            LLM Answer: moeto idibi ma widoma mepija ka benomi
+            Real Answer: moeto wi ma wijama rati beo ka idibi
+            Grade: 0
+
+Problem 2:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: A
+            Real Answer: I
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: B
+            Real Answer: G
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: C
+            Real Answer: H
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: D
+            Real Answer: C
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: E
+            Real Answer: J
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: K
+            Real Answer: D
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: G
+            Real Answer: E
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: H
+            Real Answer: B
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: I
+            Real Answer: A
+            Grade: 0
+        10:
+            Classification: Type 1
+            LLM Answer: J
+            Real Answer: F
+            Grade: 0
+    Part b:
+        11:
+            Classification: Type 1
+            LLM Answer: K
+            Real Answer: O
+            Grade: 0
+        12:
+            Classification: Type 1
+            LLM Answer: L
+            Real Answer: P
+            Grade: 0
+        13:
+            Classification: Type 1
+            LLM Answer: M
+            Real Answer: M
+            Grade: 1
+        14:
+            Classification: Type 1
+            LLM Answer: N
+            Real Answer: N
+            Grade: 1
+        15:
+            Classification: Type 1
+            LLM Answer: O
+            Real Answer: S
+            Grade: 0
+        16:
+            Classification: Type 1
+            LLM Answer: P
+            Real Answer: K
+            Grade: 0
+        17:
+            Classification: Type 1
+            LLM Answer: M
+            Real Answer: R
+            Grade: 0
+        18:
+            Classification: Type 1
+            LLM Answer: R
+            Real Answer: L
+            Grade: 0
+        19:
+            Classification: Type 1
+            LLM Answer: S
+            Real Answer: Q
+            Grade: 0
+    Part c:
+        20:
+            Classification: Type 2
+            LLM Answer: fields of grass
+            Real Answer: blade of grass
+            Grade: 0
+        21:
+            Classification: Type 2
+            LLM Answer: beads
+            Real Answer: sweet (adj.)
+            Grade: 0
+        22:
+            Classification: Type 2
+            LLM Answer: chicken meat
+            Real Answer: tree
+            Grade: 0
+        23:
+            Classification: Type 2
+            LLM Answer: granule/grain
+            Real Answer: blood
+            Grade: 0
+        24:
+            Classification: Type 2
+            LLM Answer: blood clots
+            Real Answer: bread
+            Grade: 0
+        25:
+            Classification: Type 2
+            LLM Answer: tea
+            Real Answer: leaves
+            Grade: 0
+    Part d:
+        26:
+            Classification: Type 2
+            LLM Answer: ade k’yawe
+            Real Answer: k’ose
+            Grade: 0
+        27:
+            Classification: Type 2
+            LLM Answer: homa:we
+            Real Answer: homanne
+            Grade: 0
+        28:
+            Classification: Type 2
+            LLM Answer: mo:chikwa
+            Real Answer: shi’le
+            Grade: 0
+        29:
+            Classification: Type 2
+            LLM Answer: ma:k’yawe
+            Real Answer: k’yawe
+            Grade: 0
+        30:
+            Classification: Type 2
+            LLM Answer: beyanne
+            Real Answer: miwe
+            Grade: 0
+        31:
+            Classification: Type 2
+            LLM Answer: ma’le
+            Real Answer: beya:we
+            Grade: 0
+    Part e:
+        Ma’k’yayanne:
+            Classification: Type 2
+            LLM Answer: Salt water.
+            Real Answer: salt lake.
+            Grade: 0
+
+Problem 3:
+    Part a:
+        14:
+            Classification: Type 2
+            LLM Answer: How many old women will look after this man?
+            Real Answer: How many women will this old man look after?
+            Grade: 0
+        15:
+            Classification: Type 2
+            LLM Answer: Those white men will catch these fish.
+            Real Answer: These women will eat two things.
+            Grade: 0
+        16:
+            Classification: Type 2
+            LLM Answer: Which child arrived?
+            Real Answer: Which child arrived?
+            Grade: 2
+        17:
+            Classification: Type 2
+            LLM Answer: How many wild dogs saw that clever child?
+            Real Answer: How many men will see the wild children? / How many men will the wild children see?
+            Grade: 0
+        18:
+            Classification: Type 2
+            LLM Answer: The old women saw those canoes.
+            Real Answer: Those women saw one canoe.
+            Grade: 0
+    Part b:
+        19:
+            Classification: Type 2
+            LLM Answer: Navila lekamwaya makesiwena?
+            Real Answer: Kevila waga legisesi nunumwaya minasiwena?
+            Grade: 0
+        20:
+            Classification: Type 2
+            LLM Answer: Biyamata tau dimdim nunumwaya mtona bigisesi.
+            Real Answer: Biyamatasi gwadi magudina gudikabitam tevasi dimdim mtosina.
+            Grade: 0
+        21:
+            Classification: Type 2
+            LLM Answer: Navila tau lekamkwamsi?
+            Real Answer: Gudivila gugwadi bikamkwamsi bunukwa minasina?
+            Grade: 0
+        22:
+            Classification: Type 2
+            LLM Answer: Amagudina gwadi lekamkwamsi?
+            Real Answer: Aminana vivila lebani yena minasiwena namanabweta?
+            Grade: 0
+        23:
+            Classification: Type 2
+            LLM Answer: Tauwau nagasisi lekotasi.
+            Real Answer: Legisesi tomwaya mtowena nayu ka’ukwa nagasisi.
+            Grade: 0
+
+Problem 4:
+    Part a:
+        Exception and corrected form:
+            Classification: Type 3
+            LLM Answer: àtʊ́wà (to break) is the exception; the corrected form should be àtɪ́wà.
+            Real Answer: tі ̃ḿі ̃t́і ̃ńі ̃́ is the exception, and the corrected form should be tṹmі ̃t́і ̃ńі ̃́.
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: tɪŕʊ̂tʊ̂
+            Real Answer: tʊ́rʊ́tʊ́tʊ̀
+            Grade: 0
+        2:
+            Classification: Type 2
+            LLM Answer: tɪrɛ̃̂wʊ̃̀
+            Real Answer: tɪr̀ɛt̀ʊ̃́wʊ̃́
+            Grade: 0
+        3:
+            Classification: Type 2
+            LLM Answer: tɪbіtḱó
+            Real Answer: túbіt́úkó
+            Grade: 0
+        4:
+            Classification: Type 2
+            LLM Answer: tɪɲ́yẽ̃́ tɪrɪỳã̀
+            Real Answer: ńtĩýẽ́ tɪr̀ɪt̀ɪ ̃ỳã̀
+            Grade: 0
+        5:
+            Classification: Type 2
+            LLM Answer: tɪbɛtḱʷʊ̃̀
+            Real Answer: tʊ́bɛt́ʊ̃́kʷʊ̃́
+            Grade: 0
+        6:
+            Classification: Type 2
+            LLM Answer: tɪríýõ̀rõ̀
+            Real Answer: tіŕіt́ĩỳõ̀tũ̀rõ̀
+            Grade: 0
+        7:
+            Classification: Type 2
+            LLM Answer: tɪhʷɔg̀â
+            Real Answer: tʊh̀ʷɔt̀ʊ́gà
+            Grade: 0
+
+Problem 5:
+    Part a:
+        aharapyryk:
+            Classification: Type 2
+            LLM Answer: You_{sg} hugged me.
+            Real Answer: I hugged you
+            Grade: 0
+        mymyboro:
+            Classification: Type 2
+            LLM Answer: I bathed.
+            Real Answer: He will bite us
+            Grade: 0
+        uru:
+            Classification: Type 2
+            LLM Answer: He slept.
+            Real Answer: I slept
+            Grade: 1
+        tsiksiwynaha:
+            Classification: Type 2
+            LLM Answer: We left.
+            Real Answer: We cut them up (past)
+            Grade: 1
+        ikwak:
+            Classification: Type 2
+            LLM Answer: You_{sg} hunted.
+            Real Answer: I hunted
+            Grade: 1
+        ziksi:
+            Classification: Type 2
+            LLM Answer: We left.
+            Real Answer: He left
+            Grade: 1
+    Part b:
+        We will fall:
+            Classification: Type 2
+            LLM Answer: iknaraha
+            Real Answer: tsimynarahanaha
+            Grade: 0
+        I bathed:
+            Classification: Type 2
+            LLM Answer: mymyboro
+            Real Answer: ikmoro
+            Grade: 0
+        You_{sg} bit us:
+            Classification: Type 2
+            LLM Answer: tsibeze
+            Real Answer: tsikmyboro
+            Grade: 0
+        I will wait for them / he will wait for them:
+            Classification: Type 2
+            LLM Answer: tsimyerapy
+            Real Answer: mysipery
+            Grade: 0
+        I will hug you_{pl} / he will hug you_{pl}:
+            Classification: Type 2
+            LLM Answer: tsipikharapy
+            Real Answer: pahaharapyryk
+            Grade: 0
+        You_{sg} will leave:
+            Classification: Type 2
+            LLM Answer: tsiksi
+            Real Answer: tsipiksi
+            Grade: 1
+        I killed it:
+            Classification: Type 2
+            LLM Answer: tsibeze
+            Real Answer: ibeze
+            Grade: 0
+
+Type 1: 2/22 (9.09%)
+Type 2: 7/96 (7.29%)
+Type 3: 0/2 (0.00%)
+Total Score: 9/120 (7.50%)

@@ -1,0 +1,125 @@
+﻿ 
+
+Problem 1 (a) Fill in the gaps in rows 15–18.  
+
+    Form2 : ɨnnetk'a
+       Push : The initial consonant n  becomes the nasal n , so the prefix is ɨn- . The Form2 is ɨn + netk + a  (stem from Form1). 
+
+    Form2 : ɨŋkirɨy'
+       Pull : Initial consonant k  → nasal ŋ . Form2 is ɨŋ- + kɨrɨy' . 
+
+    Form2 : ɨmp'uhrua
+       Make holes : Initial p'  → nasal m . Form2 is ɨm- + p'uhruy' + a  (ending adjustment). 
+
+    Form2 : ɨnher'oy
+       Smooth out : Initial h  → nasal nh  (following row9's pattern). Form2 is ɨnh- + er'oy . 
+     
+
+Problem 1 (b) Fill in the gaps in rows 39–48.  
+
+    Translation : "it was smoothed out"
+       her'oŋ : Passive past of "smooth out" (Form2 ɨnher'oy + suffix). 
+
+    Translation : "it was stolen"
+       ɨniʂpaʔ : Passive form of "steal" (Form2 ɨnʂakaʦ'a → adjusted for passive). 
+
+    Translation : "it was opened"
+       aplaʔ : Passive form of "open" (Form1 aplay' → passive aplaʔ ). 
+
+    Translation : "it chose (it)"
+       ɨnʂaŋ'uŋ : Passive form of "choose" (from row27’s Form2). 
+
+    Translation : "I saw (it)"
+       ɨmbir'iaŋ : Past tense of "see" (Form2 ɨmbir'i + suffix). 
+
+    Translation : "I plant (it)"
+       ʂawʂay' : Present tense (Form1 of "plant"). 
+
+    Translation : "it was trapped"
+       ɨŋk'an'ioʔ : Passive past of "trap" (Form2 ɨŋk'an'i + suffix). 
+
+    Translation : "I leap"
+       p'ahniy' : Present tense (Form1 of "leap"). 
+
+    Translation : "it is being sewn, woven"
+       ɨnhɨk'aoʔ : Passive form of "sew" (Form2 ɨnhɨk'a + suffix). 
+
+    Translation : "I was bathed"
+       ɨnipal'aoʔ : Passive past of "bathe" (Form2 ɨnipal'a + suffix). 
+     
+
+Problem 2 (a) Translate into English:  
+
+    uwa xinhikaru sytu : "The fish (sg) brought the canoe to the woman."  
+    txipary nhinhikary : "You_{sg} ate the banana."  
+    kyky aikute pysykary ywamukary : "The man brought your_{sg} bone to me."
+     
+
+Problem 2 (b) Correct the sentence:  
+
+    uwa umynary kanawa ximakymukary  is incorrect because the verb "remembered" (ximakymukary) requires the object to be marked with a suffix.  
+    Correct : nhiximakyte pixinhikary  → "You_{sg} remembered my fish (sg)."
+     
+
+Problem 2 (c) Translate into Apurinã:  
+
+    You_{sg} found the house : ɨnɨkuru xinhikary   
+    I brought your_{sg} canoe to the girl : uwa mynaru hãtakaru   
+    He brought your_{sg} water to me : pita ãtary mynary   
+    The man drank the girl’s blood : kyky mynaru hãtakaru   
+    I remembered the eye : nhiximakyte uapukary   
+    You_{sg} ate my banana : txipary nhinhikary 
+     
+
+Problem 3 (a) Translate into English:  
+
+    e-ɣuyanah : "You_{pl} shuddered."  
+    ba-ihwin : "You_{pl} really cried."  
+    nambum-kisaɣah : "Oh, we left you_{pl} behind!"  
+    bat-ɣadawn : "You_{pl} left him behind."  
+    ubamum-kolewn : "Oh, you_{sg} silenced me!"
+     
+
+Problem 3 (b) Translate into Coastal Marind:  
+
+    He floated to the surface : bate-tamanab   
+    Aw, you_{sg} returned : obam-dahetok   
+    Oh, I silenced him! : ubate-huɣanab   
+    He really chased us away : ebe-otab   
+    You_{pl} really spat on us in vain : ebe-eseb 
+     
+
+Problem 4 (a) Translate into English:  
+
+    ē-wāpamikoyēk : "as you_{sg} see him"  
+    ninakinikonān : "I stop you_{sg}"  
+    kikakwēcimāwāw : "he asks you_{pl}"  
+    kiwīcihitināwāw : "he helps you_{pl}"
+     
+
+Problem 4 (b) Translate into Plains Cree:  
+
+    if we ask them : mawinēskomikoyāhkwāwi   
+    they challenge you_{pl} : nikakwēcimik   
+    they help me : kinakininān   
+    you_{sg} see them : kiwāpamināwāw   
+    I stop you_{pl} : ninakināwak 
+     
+
+Problem 5 (a) Write in digits:  
+
+    kampwɔhii shuunni na kɛ : 1,260  
+    ŋkuu na baataanre : 2,200
+     
+
+Problem 5 (b) Write out in Supyire:  
+
+    15 : beɲjaaga   
+    109 : ŋkwuu taanre na beetaanre   
+    152 : ŋkwuu taanre na beeshuunni   
+    403 : kampwoo na beetaanre na beeshuunni   
+    1534 : kampwɔhii sicyɛɛre na beɲjaaga na beetaanre 
+     
+
+     
+ 

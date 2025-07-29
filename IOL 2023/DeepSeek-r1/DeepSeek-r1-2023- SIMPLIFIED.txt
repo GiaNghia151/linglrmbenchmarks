@@ -1,0 +1,143 @@
+---
+
+## Problem 1
+
+(a) Fill in the gaps in rows 15–18.
+
+ Form 1        Form 2         Translation 
+------------------------------------------
+ 15. netkay'   ɨnnetk'a                   
+ 16. kɨrɨy'    ɨŋɡɨrɨ'ɨ                   
+ 17. p'uhruy'  ɨmp'uhur'u                 
+ 18. her'oy    ɨnher'o                    
+
+(b) Fill in the gaps in rows 39–48.
+
+ Form         Translation               
+----------------------------------------
+ 39. her'oŋ   I smoothed out (it)       
+ 40. ɨniʂpaʔ  I am leaving              
+ 41. aplaʔ    It is being opened        
+ 42. ʂur'uʔ   It chose (it)             
+ 43. piriy'   I saw (it)                
+ 44. ʂawʂaʔ   I plant (it)              
+ 45. ɨŋk'an'iʔ It was trapped            
+ 46. p'ɨhnaʔ  I leap                    
+ 47. ɨnhɨk'aʔ It is being sewn, woven   
+ 48. ɨnipal'aʔ I was bathed              
+
+---
+
+## Problem 2
+
+(a) Translate into English
+
+17. uwa xinhikaru sytu
+The girl remembered me.
+
+18. txipary nhinhikary
+I ate your banana.
+
+19. kyky aikute pysykary ywamukary
+The man brought the woman’s house to me.
+
+(b) This sentence is grammatically incorrect. Explain why, and provide its grammatically correct equivalent and its English translation
+
+Incorrect sentence
+20. uwa umynary kanawa ximakymukary
+
+Error Possessive prefix u- (her) conflicts with ximaky (fish).
+
+ Correct Sentence                  Translation                            
+--------------------------------------------------------------------------
+ uwa umynary kanawa ximakarymukary She brought your canoe to the fish.    
+
+ (c) Translate into Apurinã in two ways
+
+21. You_{sg} found the house.
+   pitxiparyte napukary
+   pixinhikaryte napukary
+
+22. I brought your_{sg} canoe to the girl.
+   nuta sykaru hãtakuru ywamukary
+   nysykaru hãtakurumukary
+
+23. He brought your_{sg} water to me.
+   sytu ãtary pitxiparymukary
+
+24. The man drank the girl’s blood.
+   kyky herẽkatxi hãtakuru ãtary
+
+25. I remembered the eye.
+   napukary ywa
+
+26. You_{sg} ate my banana.
+   pitxiparyte ximakary
+
+---
+
+## Problem 3
+
+(a) Translate into English
+
+ Form             Translation                 
+----------------------------------------------
+ 18. e-ɣuyanah    You (pl) shuddered.         
+ 19. ba-ihwin     You (pl) really cried.      
+ 20. nambum-kisaɣah Aw, we spat on him in vain.
+ 21. bat-ɣadawn   We really left him behind.  
+ 22. ubamum-kolewn Aw, you (sg) laughed at us in vain.
+
+(b) Translate into Coastal Marind
+
+ Form             Translation                  
+-----------------------------------------------
+ 23. bate-tamab   He floated to the surface.   
+ 24. ob-dahetok   Aw, you_{sg} returned.       
+ 25. nambe-otab   Oh, I silenced him!          
+ 26. ebam-ɣadaɣawn He really chased us away.   
+ 27. nakum-kisaɣah You_{pl} really spat on us in vain.
+
+---
+
+## Problem 4
+
+(a) Translate into English
+
+ Form                 Translation            
+---------------------------------------------
+ 22. ē-wāpamikoyēk    As you (pl) see them.  
+ 23. ninakinikonān    They stop us.          
+ 24. kikakwēcimāwāw   You (pl) ask me.       
+ 25. kiwīcihitināwāw  You (pl) help me.      
+
+(b) Translate into Plains Cree
+
+ Form                 Translation           
+--------------------------------------------
+ 26. kakwēcimikonānak if we ask them        
+ 27. mawinēskomikowāw they challenge you(pl)
+ 28. wīcihikonān      they help me          
+ 29. kiwāpamāwāwak    you(sg) see them      
+ 30. ninakināwāw      I stop you(pl)        
+
+---
+
+## Problem 5
+
+(a) Write in digits
+
+ Form                           Value 
+--------------------------------------
+ 1. kampwɔhii shuunni na kɛ     1,600 
+ 2. ŋkuu na baataanre           250   
+
+(b) Write out in the Supyire language
+
+ Form                                          Value                                      
+------------------------------------------------------------------------------------------
+ 3. 15                                         kɛ na baaricyɛɛre                          
+ 4. 109                                        kampwoo na kɛ na baani                     
+ 5. 152                                        kampwoo na ŋkwuu shuunni na kɛ na baaricyɛɛre
+ 6. 403                                        kampwɔhii na ŋkwuu taanre na niŋkin        
+ 7. 1,534                                      kampwɔhii sicyɛɛre na ŋkwuu taanre na beeshuunni na kɛ na baaricyɛɛre 

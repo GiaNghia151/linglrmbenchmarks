@@ -1,0 +1,118 @@
+Problem 1 Solutions
+
+(a) Numerals in digits:
+
+	•	moeto waroewo — 120
+	•	ijema joka rati — 80 (This has the same value as mepina daemita moeto)
+	•	moeto wido ma benomi ka wi — 343 (This has the same value as moeto idibi ma widoma mepija ka benomi)
+
+(b) Write out in Ekari:
+
+	1.	1: Cannot be determined from the given data.
+	2.	19: ije joka rati
+	3.	26: joka rati ma wija ka ije
+	4.	104: (mepija ka ije) daemita moeto (or (wija joka rati ka ije) daemita moeto)
+	5.	292: moeto ije ma mepija ka ije ka wido ka benomi
+	•	This number can be expressed in two ways: 19 (benomima rati ma benomi)
+
+Problem 2 Solutions
+
+(a) Correct correspondences:
+
+	1.	mo:chikwa datda:we — H. chicken egg
+	2.	haya:we — D. loaf of bread
+	3.	doko:ko mo’le — F. peach pie
+	4.	ma:chikwa — A. chicken meat
+	5.	mu:chikwa — E. beads
+	6.	mulonne ≈ mu’le — C. sugar
+	7.	mowe — G. piles of leaves
+	8.	ha:k’yawe — B. tea (drink)
+	9.	doko:ko shiwe — I. peach trees
+	10.	mo:chikwa mulo:chikwa — J. chocolate bar
+
+(b) Correct correspondences:
+
+	11.	ade muwe — K. granule, grain (for example of salt)
+	12.	beyanne — L. ear of corn [corn cob]
+	13.	homa:we — M. juniper leaves
+	14.	ma:k’yawe — N. salt water
+	15.	ma:k’ose — O. blood clots
+	16.	ma’le — P. field of grass
+	17.	homayanne — R. juniper branch
+	18.	mi’le — Q. blood
+	19.	ade k’yawe — N. salt water
+
+(c) Translations into English:
+
+	20.	be’le — field of corn (or corn plant)
+	21.	chikwa — item, piece, unit
+	22.	datdanne — long egg-shaped item (or string of eggs)
+	23.	ade — salt (This word has the same translation as S. salt)
+	24.	mulo:we — sweet leaves
+	25.	hawe — tea leaves
+
+(d) Translations into Zuni:
+
+	26.	salty — ade
+	27.	juniper leaf — homawe
+	28.	piece of meat — ma chikwa (if generic meat); ma:chikwa chikwa (if piece of chicken meat)
+	29.	water — k’yawe
+	30.	corn, maize — be
+	31.	fields of grass — ma’le
+
+(e) Ma’k’yayanne — Place of Salty Waters (or Salt Springs).
+
+Problem 3 Solutions
+
+(a) Translations into English:
+
+	14.	Navila vivila biyamata tomwaya mtona? — "Which woman will look after that old man and this man?" / "How many women will look after that old man and this man?" (This sentence has two possible translations. Give them both.)
+	15.	Bikamkwamsi kweyu vivila minasina. — "These two women will eat."
+	16.	Amagudina gwadi lekota? — "Which child arrived?"
+	17.	Tevila tauwau bigisesi gugwadi gudigasisi? — "How many men will see the wild children?"
+	18.	Legisesi ketala waga vivila minasiwena. — "Those women saw one canoe."
+
+(b) Translations into Kilivila:
+
+	19.	How many canoes did those old women see? — Navila waga legisesi nunumwaya minasiwena?
+	20.	These four white men will look after this clever child. — Biyamatasi gwadi tokabitam mtona tauwau dimdim minasina tetala.
+	21.	How many children will eat these pigs? — Navila gugwadi bikamkwamsi bunukwa minasina?
+	22.	Which woman caught those beautiful fish? — Amtona vivila levasi yena dakuna makesiwena?
+	23.	Two wild dogs saw that old man. — Legisesi tau namwaya magudiwena nayu ka’ukwa gudigasisi.
+
+Problem 4 Solutions
+
+(a) Exception and corrected form:
+
+	•	Exception: wẽ́nẽ́ -> tṹwẽtіnẽ; Expected form: tẽ́wẽ́tẽ́nẽ́ (following pattern of CVCV words like wẽr̀ũ̀ -> tũ̀wẽt̀ũ̀rũ̀, where tV prefix and tV infix copy the vowel quality of the syllable they attach to/precede).
+
+(b) Agbirigba forms:
+
+	1.	rʊ́tʊ̂ — tʊ́rʊ́tʊ́tʊ̂
+	2.	rɛẁʊ̃́ — tɛ́rɛ́tʊ̃́wʊ̃́ (or tɪ́rɛ́tʊ̃́wʊ̃́ depending on prefix vowel choice for ɛ)
+	3.	bіḱó — túbіtókó (following bіśі ́ -> túbіt́іśі ́ for prefix)
+	4.	ɲ́yẽ́ rɪỳã̀ — ɲ́tɪ̃́yẽ́ tɪ́rɪtã̀yã̀ (ɲ́yẽ́ as monosyllabic CV like ńdá, rɪỳã̀ as CVCV)
+	5.	bɛḱʷʊ̃́ — tɛ́bɛ́tʊ̃́kʷʊ̃́
+	6.	rіýõ̀rõ̀ — tírìtõ̀yõ̀tõ̀rõ̀ (adjusting tone on ri based on observed patterns)
+	7.	hʷɔg̀â — tɔ́hʷɔtàgâ
+
+Problem 5 Solutions
+
+(a) Translations into English:
+
+	•	aharapyryk — he hugged you_{pl}
+	•	mymyboro — I will bite us / he will bite us
+	•	uru — slept (or generic "sleep")
+	•	tsiksiwynaha — we will cut it up
+	•	ikwak — I hunted
+	•	ziksi — he left
+
+(b) Translations into Rikbaktsa:
+
+	•	we will fall — tsiknanaha
+	•	I bathed — ikmoro
+	•	you_{sg} bit us — tsikmymyboro
+	•	I will wait for them / he will wait for them — pisipery
+	•	I will hug you_{pl} / he will hug you_{pl} — paharapyryk
+	•	you_{sg} will leave — tsipiksi
+	•	I killed it — ikbeze

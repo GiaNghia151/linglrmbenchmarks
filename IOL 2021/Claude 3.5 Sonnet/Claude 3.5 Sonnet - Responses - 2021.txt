@@ -1,0 +1,105 @@
+### Problem 1 Solution
+
+(a) Write in digits:
+- moeto waroewo = 400
+- ijema joka rati = 38
+- moeto wido ma benomi ka wi = 161
+
+(b) Write in Ekari:
+1 = wi
+19 = ije ka wido
+26 = waroewoma benomi
+104 = moeto wi ka ije
+292 = moeto wija ma waroewoma ka benomi
+
+### Problem 2 Solution
+
+(a) Correct correspondences:
+1-H (mo:chikwa datda:we - chicken egg)
+2-E (haya:we - beads)
+3-I (doko:ko mo'le - peach trees)
+4-A (ma:chikwa - chicken meat)
+5-D (mu:chikwa - loaf of bread)
+6-F (mulonne/mu'le - peach pie)
+7-G (mowe - piles of leaves)
+8-B (ha:k'yawe - tea)
+9-J (doko:ko shiwe - chocolate bar)
+10-C (mo:chikwa mulo:chikwa - sugar)
+
+(b) Correct correspondences:
+11-S (ade muwe - salt)
+12-L (beyanne - ear of corn)
+13-M (homa:we - juniper leaves)
+14-O (ma:k'yawe - blood clots)
+15-Q (ma:k'ose - blood)
+16-K (ma'le - granule)
+17-R (homayanne - juniper branch)
+18-N (mi'le - salt water)
+19-P (ade k'yawe - field of grass)
+
+(c) English translations:
+20. be'le = corn
+21. chikwa = meat
+22. datdanne = egg
+23. ade = salt
+24. mulo:we = bread
+25. hawe = tea
+
+(d) Zuni translations:
+26. ade k'ose = salty
+27. homa:we = juniper leaf
+28. datda:we = piece of meat
+29. k'yawe = water
+30. be'le = corn, maize
+31. ade k'yawe = fields of grass
+
+(e) Ma'k'yayanne = sacred blood site/place
+
+### Problem 3 Solution
+
+(a) English translations:
+14. "How many women will look after this old man?"
+15. "Those two women will eat."
+16. "Which child arrived?"
+17. "How many men will see the wild children?"
+18. "Those women saw one canoe."
+
+(b) Kilivila translations:
+19. "Makevila waga legisesi nunumwaya minasiwena?"
+20. "Biyamatasi gwadi magudina nakabitam dimdim mtosina navasi."
+21. "Gudivila bikamkwamsi bunukwa minasina?"
+22. "Amminana vivila lebani yena minasiwena namanabweta?"
+23. "Nayu ka'ukwa nagasisi legisesi tomwaya mtona."
+
+### Problem 4 Solution
+
+(a) Exception word: òtṹ → òtṹtṹ
+The expected form following the regular pattern would be: tṹtṹtṹ
+
+(b) Agbirigba forms:
+1. rʊ́tʊ̂ → tʊ́rʊ́tʊ́tʊ̀
+2. rɛẁʊ̃́ → tɛr̀ɛt̀ʊ̃́wʊ̃́
+3. bіḱó → tіb́іt́іḱó
+4. ɲ́yẽ́rɪỳã̀ → tɪ ̃ýẽ́tіr̀ɪt̀ɪ ̃ỳã̀
+5. bɛḱʷʊ̃́ → tɛb́ɛt́ʊ̃́kʷʊ̃́
+6. rіýõ̀rõ̀ → tіŕіt́ɪ ̃ýõ̀tʊ̃́rõ̀
+7. hʷɔg̀â → tɔh̀ʷɔt̀ʊ́gà
+
+### Problem 5 Solution
+
+(a) English translations:
+- aharapyryk = "I hugged you (pl)"
+- mymyboro = "I will/he will bite you (sg)"
+- uru = "you (sg) slept"
+- tsiksiwynaha = "we cut up"
+- ikwak = "I hunted"
+- ziksi = "he left"
+
+(b) Rikbaktsa translations
+- we will fall = iknahanaha
+- I bathed = ikmoro
+- you (sg) bit us = tsimyboro
+- I will/he will wait for them = simypery
+- I will/he will hug you (pl) = aharapyryk
+- you (sg) will leave = tsimyksi
+- I killed it = ibeze

@@ -1,0 +1,125 @@
+Problem 1
+
+**Final Answers**
+
+1.  [ifá]
+2.  [ifoCí]
+3.  [nâːnaki]
+4.  [sâːsakwa]
+5.  [akˊto·pa]
+6.  [hokTaki]
+7.  [wa·na·yí·ta]
+8.  [a·wa·na·yí·ta]
+9.  [i·si·ski·tó·ci]
+10. [aː·ta·mi·ho·ma]
+11. [ho·nan·táː·ki]
+12. [i·li·toh·táɬ·i·ta]
+
+***
+
+Problem 2
+
+**(a) Translate into English**
+
+1.  nɤ ʒip ku ne
+    *   Translation: Did I sleep?
+2.  ati kəmə nirum lapkʰi tʰi ne
+    *   Translation: Did he see us?
+3.  tarum kəmə nuʔrum cʰam ran ne
+    *   Translation: Did they know us?
+4.  nirum kəmə tarum lan ki ne
+    *   Translation: Do we beat them?
+5.  nirum kəmə nɤ cʰam tiʔ ne
+    *   Translation: Do we know you?
+6.  nirum ka tiʔ ne
+    *   Translation: Do we see him?
+
+**(b) Translate into Hakhun**
+
+7.  Did I beat yousg?
+    *   Hakhun: ŋabə kəmə nɤ lan tʰu ne
+8.  Did they see me?
+    *   Hakhun: tarum kəmə ŋa lapkʰi tʰu ne
+9.  Does he know yousg?
+    *   Hakhun: ati kəmə nɤ cʰam ki ne
+10. Do youpl sleep?
+    *   Hakhun: nuʔrum ʒip ku ki ne
+
+***
+
+Problem 3
+
+**(a) Fill in the Gaps**
+
+1.  pîho — to go
+2.  mbîyo — animal
+3.  yêno — wife
+4.  yênom — mother
+5.  kásaxo — to feel cold
+6.  xérere — side
+7.  tôko — nape
+8.  doínjoa — to see it
+9.  vadémjo — to buy
+10. meômiti — to be tired
+11. íhikaxovoku — school
+12. nôxu — grandfather
+13. nîwonom — nephew
+14. énzerene — hoe
+
+**(b) Portuguese borrowings**
+
+*   **Difference from Native Words:** Portuguese borrowings in Terêna have no nasalization (unlike native words ending in `-m` which nasalize the entire word).
+*   My tin can: nileátana
+*   My cloak: nikeápana
+
+***
+
+Problem 4
+
+**(a) The missing word X:**
+Word X is the numeral "one" (not used in sequences like 1-10, 11-20, etc.). Missing in examples: 6 eggs (2), 26 eggs (11), and 26 betel nuts (10). Context implies "one" when counting sequentially.
+
+**(b) Translate into English**
+
+| Mountain Arapesh | Translation |
+| :------------------------------- | :------------------- |
+| biabys atub bøbys | 14 betel nuts |
+| atub juhurub | 10 eggs |
+| nybat atuh araruh | 23 sugar canes |
+| biagas atugas biagas baigas | 20 sheets of sago bark |
+| wiwis baigas | 20 sheets of sago bark |
+
+**(c) Translate into Mountain Arapesh**
+
+| English | Mountain Arapesh |
+| :----------------------- | :--------------------------- |
+| 4 betel nuts | biabys bøbys |
+| 11 eggs | atub atugas atug baigas |
+| 20 eggs | biagas atugas biagas baigas |
+| 25 sheets | biogu atub wiwis baigas |
+
+***
+
+Problem 5
+
+**(a) Supply the Family Tree with Names**
+
+1.  Man 1 = Enu
+2.  Man 2 = Kofi
+3.  Man 3 = Kobina
+4.  Man 4 = Yaw
+5.  Man 5 = Kunto
+6.  Man 6 = Dubaku
+7.  Man 7 = Berko
+8.  Woman 1 = Thema
+9.  Woman 2 = Ama
+10. Woman 3 = Awotwi
+11. Woman 4 = Efua
+12. Woman 5 = [unnamed]
+13. Woman 6 = [unnamed]
+14. Woman 7 = [unnamed]
+
+**(b) Fill in the Gaps**
+
+1.  Yɛfrɛ me Yaw. Yɛfrɛ me ɛnanom Dubaku ne Kunto. Yɛfrɛ me banom Thema ne Ama. Yɛfrɛ me nuanom Yaw ne Ama. Yɛfrɛ me yere Awotwi. Yɛfrɛ me agya Ofori. Yɛfrɛ me sewaabanom Esi ne Kofi. Yɛfrɛ me wɔfaase Berko.
+2.  Yɛfrɛ me Kunto. Yɛfrɛ me banom Kofi ne Dubaku. Yɛfrɛ me nuanom Yaw ne Ama. Yɛfrɛ me sewaabanom Kunto ne Efua.

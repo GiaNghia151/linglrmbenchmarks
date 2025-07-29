@@ -1,0 +1,183 @@
+﻿Problem 1. Guazacapán Xinka Verb Forms
+
+The two “basic” forms show a systematic alternation: a prefix (generally ɨn–, with assimilated variants such as ɨmp– for roots beginning with p or p′, ɨŋ– for k–, and ɨnd– for t–) attaches to the verb stem, and the final morpheme changes (–y′, –oy, etc.) in a regular way. For example, compare
+• piriy′ → ɨmbir′i (“see [it]”)
+• k′aniy′ → ɨŋk′an′i (“trap”)
+
+One may then reconstruct the missing forms as follows:
+(a) For rows 15–18 (basic “Form 2”)
+
+    netkay′ (“push”) → ɨnnetka
+      Analysis: With an initial n the ɨn– prefix “doubles” the n, and the –ay′ ending loses the glide.
+    kɨrɨy′ (“pull”) → ɨnkɨrɨn′ɨ
+      Analysis: As with k′aniy′ the initial k becomes ɨŋk– and the final –y′ becomes –n′ɨ.
+    p′uhruy′ (“make holes”) → ɨmp′uhrun′i
+      Analysis: Like other p′– verbs the prefix is ɨmp– and –y′ becomes –n′i.
+    her′oy (“smooth out”) → ɨnher′o
+      Analysis: In analogy with ter′oy → ɨnder′o the final diphthong –oy is reduced to –o.
+
+(b) For rows 39–48 (another “set” of forms)
+
+Here the forms have different person–aspect marking. One may show the following reconstructions:
+
+    her′oŋ    → “it smooths out”
+      (Contrast with 18 above: here the form with final –oŋ indicates a non‑past, “active” reading.)
+    ɨniʂpaʔ   → “I left”
+      (This form—nearly identical to ɨniʂapaʔ “I leave” in row 24 but with a final glottal stop—can be taken as a past‐time variant.)
+    aplaʔ    → “it bathed”
+      (Reconstructing from iplay′ → ɨnipal′a, a shorter ending is used in this slot.)
+    ʂur'uʔ    → “it chose (it)”
+      (Contrast with ʂur'uŋ “I chose (it)” in row 27; here the form without –ŋ is assigned a “non‑agentive” reading.)
+    mbiriʔ    → “I saw (it)”
+      (The active “I saw” is built on the same root as piriy′; compare ɨmbiiriʔ “I was seen” in row 19.)
+    ʂawʂanʔ   → “I plant (it)”
+      (From the plant–verb family: note that ʂawʂan′ “I planted (it)” appears in row 26.)
+    kanʔ     → “it was trapped”
+      (Reconstructing from k′aniy′ → ɨŋk′an′i, the shortened form without the prefix appears here.)
+    mp′ɨhnaʔ   → “I leap”
+      (The active “I leap” form is built on the same root as p′ɨhnaʔ “it leaped” in row 31.)
+    hɨk′aʔ    → “it is being sewn, woven”
+      (From the sew–verb family: compare hɨk′ay → ɨnhɨk′a in row 9.)
+    nipalʔ    → “I was bathed”
+      (Built on the bathe–verb family; compare iplay′ → ɨnipal′a in row 12.)
+
+Note: In our analysis the various –ʔ, –ŋ, –n′i (or –n′ɨ) endings reflect systematic alternations in voice, aspect, or participant–role marking.
+Problem 2. Apurinã Sentences
+
+The data show a flexible word‐order with clitics marking possession and the indirect object. (In sentences 1–16 the roles “I gave,” “I drank,” “the man brought,” etc. are expressed by several morphemes.) One set of answers is as follows:
+(a) Translate into English
+
+    uwa xinhikaru situ
+      → “She gave the house to him.”
+      
+    txipary nhinhikary
+      → “You (sg) left my fish.”
+      
+    kyky aikute pysykary ywamukary
+      → “The man brought your banana to him.”
+
+(Here the ordering of verb, object, and recipient parallels that seen in sentences 1 and 9.)
+(b) Explain and correct sentence 20
+
+The sentence
+  uwa umynary kanawa ximakymukary
+is ungrammatical because the language requires that the indirect object (here, “your canoe”) precede the direct object. A corrected word order is:
+  uwa kanawa umynary ximakymukary
+which translates as “She brought your canoe to the girl.”
+(c) Translate into Apurinã in two ways
+
+(For each sentence two acceptable variants are possible; here is one set of answers.)
+
+    You (sg) found the house.
+      • Variant 1: xinhikatu pitxikary
+      • Variant 2: pitxikary xinhikatu
+
+    I brought your (sg) canoe to the girl.
+      • Variant 1: nuta umynary nykanawa
+      • Variant 2: nykanawa nuta umynary
+
+    He brought your (sg) water to me.
+      • Variant 1: uwa aipukary nutamukary
+      • Variant 2: nutamukary uwa aipukary
+
+    The man drank the girl’s blood.
+      • Variant 1: kyky herẽkatxi uãtary
+      • Variant 2: uãtary kyky herẽkatxi
+
+    I remembered the eye.
+      • Variant 1: nhiximakyte uky
+      • Variant 2: uky nhiximakyte
+
+    You (sg) ate my banana.
+      • Variant 1: pitxiparyte mynaru
+      • Variant 2: mynaru pitxiparyte
+
+Note: The two variants reflect alternate orders of the object and the verb, both of which are acceptable in Apurinã.
+Problem 3. Coastal Marind Sentences
+(a) Translate into English
+
+    e-ɣuyanah
+      → “He shuddered.”
+
+    ba-ihwin
+      → “You (pl) cried.”
+
+    nambum-kisaɣah
+      → “We chased you away.”
+
+    bat-ɣadawn
+      → “You (sg) left us behind.”
+
+    ubamum-kolewn
+      → “I spat on you (pl) in vain.”
+
+(b) Translate into Coastal Marind
+
+    He floated to the surface.
+      → ob-tamanab
+    Aw, you (sg) returned.
+      → ob-dahetok
+    Oh, I silenced him!
+      → namkum-hoɣab
+    He really chased us away.
+      → obame-otab
+    You (pl) really spat on us in vain.
+      → ebamum-kolewn
+
+Note: The prefixes and verb‐separators (the hyphen) mark person and number; the above choices follow the patterns attested in sentences 1–12.
+Problem 4. Plains Cree Sentences
+(a) Translate into English
+
+    ē-wāpamikoyēk
+      → “as you (pl) see him”
+    ninakinikonān
+      → “I stop them”
+    kikakwēcimāwāw
+      → “he asks you (pl)”
+    kiwīcihitināwāw
+      → “I help you (pl)”
+
+(b) Translate into Plains Cree
+
+    if we ask them
+      → nikakwēcimānāk
+    they challenge you (pl)
+      → nimawinēskomikowak
+    they help me
+      → niwīcihāk
+    you (sg) see them
+      → kiwāpamikoyān
+    I stop you (pl)
+      → ninakinikwak
+
+Note: The forms shown here are built on the same roots as in the given examples; the conditional “if‐” forms are marked by a change in the final syllable.
+Problem 5. Supyire Numerals
+
+The five numerals show an additive–multiplicative structure. (For example, 1639 is parsed as 1600 + 20 + 19.) One may interpret the elements as follows: • baashuunni = 7
+• beɲjaaga ≈ 20  (with niŋkin = 1, so 20 + 1 = 21)
+• ŋkwuu ≈ a hundred–multiple marker (here 200 in 285)
+• taanre ≈ 80  (since 285 = 200 + 80 + 5, with beeshuunni = 5)
+• kampwɔhii and sicyɛɛre combine for 1600
+• baaricyɛɛre = 19, etc.
+(a) Write in digits
+
+• kampwɔhii shuunni na kɛ
+  → One plausible reading is 1017
+• ŋkuu na baataanre
+  → One plausible reading is 280
+(b) Write out in the Supyire language
+
+(Using the observed structure, one may “compose” numbers additively. Two acceptable answers are possible for each.)
+
+• 15 → e.g., beɲjaaga baashuunni       (20 – 5)
+• 109 → e.g., ŋkuu na baashuunni niŋkin   (100 + 9)
+• 152 → e.g., ŋkwuu taanre na beɲjaaga niŋkin  (interpreted as 100 + 52)
+• 403 → e.g., kampwoo na baashuunni na …   (100 + 3; note: the exact compound depends on the numeral‐morphology)
+• 1534 → e.g., kampwɔhii sicyɛɛre na beɲjaaga na baaricyɛɛre  (1600 + 20 + 19)
+
+Note: The forms for 15, 109, 152, and 403 are reconstructed by analogy with the given examples; alternate analyses are possible.
+Final Remarks
+
+Each of the five problems involves discovering a system of morphophonemic alternations or numeral composition. The answers above represent one self‐consistent set of reconstructions. In a real field–work situation (or in a computational analysis) one might compare with additional data and find alternate, equally systematic solutions.
+
+Feel free to ask for any further clarification or discussion of alternative analyses.

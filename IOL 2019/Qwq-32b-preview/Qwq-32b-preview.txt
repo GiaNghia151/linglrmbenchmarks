@@ -1,0 +1,180 @@
+Problem 1 (a) Translation into English:
+
+    He will take the bread and eat it.
+
+    We will come and go away.
+
+    You will sing and hear.
+
+    The dog hears and they get up.
+
+    I saw the fish and we saw (it).
+
+    She saw the water and they drank.
+
+Problem 1 (b) Translation into Yonggom:
+
+    Wenenub minuub.
+
+    Baan beni oon bene.
+
+    Ok awon wedmoona anon wengambaraneen.
+
+    Om aniiwa wingkeewa.
+
+Problem 2 (a) Correct Correspondences:
+
+    E
+
+    B
+
+    C
+
+    D
+
+    A
+
+    K
+
+    G
+
+    H
+
+    I
+
+    J
+
+    M
+
+    L
+
+    W
+
+    R
+
+    O
+
+    P
+
+    Q
+
+Problem 2 (b) Correct Correspondences:
+
+    S
+
+    T
+
+    U
+
+    V
+
+    W
+
+    X
+
+    Y
+
+Problem 2 (c) Translation into English:
+
+    Red
+
+    Milk dog
+
+    Black berry
+
+    White berry
+
+Problem 2 (d) Translation into Yurok:
+
+    loʼogey noʼoy
+
+    perkeryerh holeehl ʼwernerh
+
+    skoyon rohkuen
+
+    ʼerrwerhsonʼ slekwoh
+
+Problem 3 (a) Matches:
+
+A. n%ss → 2. sydʾ | syā
+B. n%ZnZ → 17. zwzk' | zuzāg
+C. nnnI → 6. gyʾh | giyāh
+D. ntnbLb → 5. blbwt' | barbut
+E. nnnLIIA → 34. lwcynk' | lawzēnag
+F. RDXn → 3. DMYA | xōn
+G. DSMi → 15. MLKTA | bāmišn
+H. nTlnbMZnA → 27. ʾwzmbwlt' | uzumburd
+I. n%sYMA → 19. APLA | xāk
+J. nnInI → 33. nhʾl | nihāl
+K. abLA → 7. ALBA | čahār
+L. n%A → 20. gwn' | gōn
+M. DfLnZA → 24. ZWZN' | drahm
+N. nknIcnL → 22. mng | mang
+O. at%Lx → 13. gwklt' | gōgird
+P. nTlknI → 25. dlmnk' | dramanag
+Q. nntnngfkn → 26. NKSWN-tn' | kuštan
+R. n%ATfnI → 28. glmwk' | garmōg
+S. ntnI → 9. mwd | mōy
+T. n%HrI → 4. AHTE | xwah
+U. $ → 1. ʾslwn' | āšrōn
+V. inG → 12. LK | tō
+W. nnTefnDlW → 30. ʾylʾnštr' | Ērān-šahr
+X. aLPX → 21. LCDr' | tar
+Y. hTeX → 29. ʾhlmn' | Ahreman
+Z. %L → 8. dwt' | dūd
+AA. n%LnL → 10. gdk' | gēg
+BB. nnIPl → 23. lwlk' | rūrag
+CC. DeF → 16. HZWLYA | hūg
+DD. LAPXn → 14. wʾcʾl | wāzār
+Problem 3 (b) Graphic Peculiarity:
+
+4. AHTE (xwah)
+Problem 3 (c) Alternative Spellings:
+
+EE. nnsbnAb → 26. NKSWN-tn'
+FF. LDXc → 3. DMYA
+GG. rt → 21. LCDr'
+HH. n%DX → 16. HZWLYA
+II. nnnA → 6. gyʾh
+JJ. nknA → 22. mng
+Problem 3 (d) Book Pahlavi Script:
+
+KK. n%LPA
+LL. nTlwnD
+MM. stwl
+NN. cmbl
+Problem 4 Fill in the Gaps:
+West Tarangan	English Translation	North Dialect	Coast Dialect
+ɛtaleŋa	he hears	ɛtlɛtaleŋa	ɛtaletaleŋa
+jaga	to guard	jajaga	jagaga
+gasírana	she is old	gasgasírana	gasisírana
+daramota	they vomit	dardaramota	dararamota
+pɔwna	he is smelly	pɔppɔwna	pɔpɔwna
+ɛrtɔpa	he washes	ɛrtɔrtɔpa	ɛrtɔrtɔpa
+dabuka	they dream	dabdabuka	dababuka
+ŋuŋim	it is damp	ŋuŋŋuŋim	ŋuŋuŋim
+igɔ́ŋ	he sells	igigɔ́ŋ	igigɔ́ŋ
+Problem 5 (a) Translation into English:
+
+    Bvusɔw is the day after tomorrow.
+
+    Today, I will guard the yam.
+
+    He found us on Bvumbon.
+
+    We will find the market on Bvuzhi.
+
+Problem 5 (b) Nooni Week Order:
+
+Bvutfu → Bvusɔw → Bvukema → Bvuŋka → Bvuŋkaden → Bvumbon → Bvuzhi
+Problem 5 (c) Translation into Nooni:
+
+    me nɔ̂ː ncáw dìɛ̀msɛ̌n bvúsɔ̀w.
+
+    cɔ́ŋ nú kèŋkfǔ fɔ̀wǎy lé.
+
+    me nú ŋgéː mutù bvûŋka᷆ːde᷆n.
+
+    kwɔ᷆ːn nú géː dìɛ̀msɛ̌n ɛ̀bɛ̀n.
+
+    dìɛ̀msɛ̌n nú yɛ́n wɔ̀ lé ɛ̀bɛ̀n.

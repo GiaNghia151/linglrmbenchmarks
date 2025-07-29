@@ -1,0 +1,112 @@
+Okay, I will now reformat the provided LLM answer to match the presentation of the model answers you shared.
+
+***
+
+Problem 1 Solutions
+
+(a) Mark the stress:
+
+1.  ifa — [ífa]
+2.  ifoci — [ifóci]
+3.  nâːnaki — [nâːnaki]
+4.  sâːsakwa — [sâːsakwa]
+5.  aktopa — [aktópa]
+6.  hoktaki — [hoktáki]
+7.  wanayita — [wanayíta]
+8.  awanayita — [awanayíta]
+9.  isiskitoci — [isiskitóci]
+10. aːtamihoma — [aːtamihóma]
+11. honantaːki — [honantáːki]
+12. ilitohtaɬita — [ilitohtaɬíta]
+
+Problem 2 Solutions
+
+(a) Translations into English:
+
+1.  nɤ ʒip ku ne — Do I go?
+2.  ati kəmə nirum lapkʰi tʰi ne — Did he see us?
+3.  tarum kəmə nuʔrum cʰam ran ne — Did they know you(pl)?
+4.  nirum kəmə tarum lan ki ne — Did we beat them?
+5.  nirum kəmə nɤ cʰam tiʔ ne — Did we know you(sg)?
+6.  nirum ka tiʔ ne — Do we go?
+
+(b) Translations into Hakhun:
+
+7.  Did I beat you_{sg}? — ŋabə nɤ lan tʰu ne
+8.  Did they see me? — tarum kəmə ŋa lapkʰi ran ne
+9.  Does he know you_{sg}? — ati kəmə nɤ cʰam tʰo ne
+10. Do you_{pl} sleep? — nuʔrum ʒip ki ne
+
+Problem 3 Solutions
+
+(a) Fill in the gaps:
+
+1.  pího
+2.  mbîyo
+3.  yêno
+4.  nêno
+5.  kásaxo
+6.  xérere
+7.  teôko
+8.  yoínjoa
+9.  venénjo
+10. kémindi
+11. íxikaxovoku
+12. njôxu
+13. nêwo
+14. áxarana
+
+(b) Differences and translations:
+
+1.  These borrowed words show a pattern where the initial consonant changes between l/le-, k/ke- in 2nd person forms, unlike native words.
+2.  Translations into Terêna:
+    *   my tin can,lámbina
+    *   my cloak,kámbana
+
+Problem 4 Solutions
+
+(a) The word that the linguist initially thought was missing is likely “and”. It's implied in compounds where numbers are combined.
+The three examples are:
+
+1.  Example 5 (10 = 8+2)
+2.  Example 9 (23 = 20+3)
+3.  Example 10 (26 = 20+6)
+
+(b) Translations into English:
+
+12. biabys atub bøbys — 7 betel nuts
+13. atub juhurub — 3 eggs
+14. nybat atuh araruh — 5 sugar canes
+15. biagas atugas biagas baigas — 12 sheets of sago bark
+16. wiwis baigas — 15 sheets of sago bark
+
+(c) Translations into Mountain Arapesh:
+
+17. 4 betel nuts — biaruh atuh bøbys
+18. 11 eggs — biogu atut juhurubys
+19. 20 eggs — biogu atugu juhurubys
+20. 25 sheets of sago bark — biogu atugu anowip baigas
+
+Problem 5 Solutions
+
+(a) Family tree with names:
+
+1.  Man 1 = Ofori
+2.  Woman 1 = Dubaku
+3.  Woman 2 = Kunto
+4.  Man 2 = Enu
+5.  Man 3 = Nsia
+6.  Woman 3 = Awotwi
+7.  Woman 4 = Thema
+8.  Man 4 = Yaw
+9.  Man 5 = Berko
+10. Woman 5 = Esi
+11. Woman 6 = Ama
+12. Man 6 = Kobina
+13. Woman 7 = Efua
+14. Man 7 = Kofi
+
+(b) Fill in the gaps:
+
+1.  Yɛfrɛ me Yaw. Yɛfrɛ me ɛnanom Kunto. Yɛfrɛ me wɔfanom Nsia ne Awotwi. Yɛfrɛ me nuanom Thema ne Ama. Yɛfrɛ me wɔfa Awotwi. Yɛfrɛ me agya Ofori. Yɛfrɛ me wɔfaase Esi ne Kofi. Yɛfrɛ me ba Berko.
+2.  Yɛfrɛ me Enu. Yɛfrɛ me banom Kofi ne Esi. Yɛfrɛ me nuanom Yaw ne Ama. Yɛfrɛ me sewaanom Kunto ne Dubaku.

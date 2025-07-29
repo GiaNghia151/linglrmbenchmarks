@@ -1,0 +1,137 @@
+Problem 1
+
+**Final Answers**
+
+1.  [ífa]
+2.  [ifóci]
+3.  [nâːnaki]
+4.  [sâːsakwa]
+5.  [aktópa]
+6.  [hoktáki]
+7.  [wanayíta]
+8.  [awanáyita]
+9.  [isiskítoci]
+10. [áːtamihoma]
+11. [honantáːki]
+12. [ilitohtáɬita]
+
+***
+
+Problem 2
+
+**(a) Translate into English**
+
+1.  nɤ ʒip ku ne
+    *   Translation: Do you sleep?
+2.  ati kəmə nirum lapkʰi tʰi ne
+    *   Translation: Does he see us?
+3.  tarum kəmə nuʔrum cʰam ran ne
+    *   Translation: Do they know you (pl)?
+4.  nirum kəmə tarum lan ki ne
+    *   Translation: Do we beat them?
+5.  nirum kəmə nɤ cʰam tiʔ ne
+    *   Translation: Do we know you (sg)?
+6.  nirum ka tiʔ ne
+    *   Translation: Do we go?
+
+**(b) Translate into Hakhun**
+
+7.  Did I beat you (sg)?
+    *   Hakhun: ŋabə nɤ lan tɤʔ ne
+8.  Did they see me?
+    *   Hakhun: tarum kəmə ŋa lapkʰi tʰu ne
+9.  Does he know you (sg)?
+    *   Hakhun: ati kəmə nɤ cʰam tʰɤ ne
+10. Do you (pl) sleep?
+    *   Hakhun: nuʔrum ʒip kan ne
+
+***
+
+Problem 3
+
+**(a) Fill in the Gaps**
+
+1.  peîho — to go
+2.  mbîyo — animal
+3.  yêno — wife
+4.  yênom — mother
+5.  kásaxo — to feel cold
+6.  xérere — side
+7.  teôko — nape
+8.  yeíxoa — to see it
+9.  vetéxo — to buy
+10. pómindi — to be tired
+11. íhikaxovoku — school
+12. ôxum — grandfather
+13. nîwom — nephew
+14. áharana — hoe
+
+**(b) Portuguese borrowings**
+
+These borrowings exhibit a unique vowel infixation pattern after the initial consonant: the first vowel of the Portuguese stem (e.g., a in lapis, lata, capa) is replaced by -amb- in the 1st person singular and by -eá- in the 2nd person singular. They also seem to adopt specific Terena suffixes like -ina or -ana.
+
+*   My tin can: látana
+*   My cloak: kápana
+
+***
+
+Problem 4
+
+**(a) The missing word X:**
+The word X is `araman` (or its equivalent `biogu atugu biogu`), which means "man" and signifies the number 20. Mountain Arapesh uses a base-20 counting system. For numbers greater than 20, the word for "20" is often implied rather than explicitly stated, especially if the context makes the magnitude clear.
+The linguist initially thought araman was missing in three examples where a number N (less than 20) was stated, but the actual quantity was 20+N. The problem implies these are among the given examples, interpreted as N, but could represent 20+N with araman omitted.
+The examples are:
+
+    Ex 11: anowip biabys juhurubys (26 eggs). The Arapesh form anowip biabys juhurubys means 6. The word araman (20) is omitted but implied to make 26.
+    Based on the problem's phrasing, if the list originally had translations like "3 (actually 23)", then the other two could be:
+
+    Ex 1 (biaruh atuh araruh, translated as 3): If this expression were used for 23, araman would be implied.
+
+    Ex 2 (nybat biabys juhurubys, translated as 6): If this expression were used for 26 (as in Ex 11), araman would be implied.
+
+How it is implied by the context: The total quantity being enumerated (e.g., seeing a pile of 26 eggs) makes it clear that the phrase for '6' is part of '26', so the '20' component is understood.
+
+**(b) Translate into English**
+
+| Mountain Arapesh | Translation |
+| :------------------------------- | :------------------- |
+| biabys atub bøbys | 7 betel nuts |
+| atub juhurub | 3 eggs |
+| nybat atuh araruh | 4 sugar canes |
+| biagas atugas biagas baigas | 15 sheets of sago bark |
+| wiwis baigas | 11 sheets of sago bark |
+
+**(c) Translate into Mountain Arapesh**
+
+| English | Mountain Arapesh |
+| :----------------------- | :--------------------------- |
+| 4 betel nuts | atub bøbys |
+| 11 eggs | wiwis atub juhurubys |
+| 20 eggs | biogu atugu biogu juhurubys |
+| 25 sheets of sago bark | biogu atugu biogu biagas atugas baigas |
+
+***
+
+Problem 5
+
+**(a) Supply the Family Tree with Names**
+
+*   Man 1: Ofori
+*   Man 2: Enu
+*   Man 3: Nsia
+*   Man 4: Kofi
+*   Man 5: Kobina
+*   Man 6: Yaw
+*   Man 7: Berko
+*   Woman 1: Dubaku
+*   Woman 2: Kunto
+*   Woman 3: Awotwi
+*   Woman 4: Thema
+*   Woman 5: Ama
+*   Woman 6: Esi
+*   Woman 7: Efua
+
+**(b) Fill in the Gaps**
+
+1.  Yɛfrɛ me Yaw. Yɛfrɛ me ɛnanom Kunto. Yɛfrɛ me nuanom Nsia ne Awotwi. Yɛfrɛ me nuanom Thema ne Ama. Yɛfrɛ me wɔfa Awotwi. Yɛfrɛ me wɔfa Ofori. Yɛfrɛ me sewaanom Esi ne Kofi. Yɛfrɛ me wɔfaase Berko.
+2.  Yɛfrɛ me Ofori. Yɛfrɛ me banom Kofi ne Esi. Yɛfrɛ me wɔfaase Yaw ne Ama. Yɛfrɛ me sewaanom Kunto ne Dubaku.

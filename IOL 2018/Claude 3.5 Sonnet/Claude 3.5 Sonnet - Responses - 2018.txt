@@ -1,0 +1,141 @@
+I'll help solve these problems one by one.
+
+
+### Problem 1 - Creek Stress Patterns
+
+
+After analyzing the given examples, we can observe these patterns:
+
+1. Stress tends to fall on one of the last three syllables
+
+2. Long vowels (marked with ː) often attract stress
+
+3. Words with falling tone (ˆ) have specific stress patterns
+
+
+For the unmarked words, here are the stress markings:
+
+
+1. [ífa] - stress on first syllable
+
+2. [ifóci] - stress on penultimate
+
+3. [nâːnaki] - already marked with falling tone
+
+4. [sâːsakwa] - already marked with falling tone
+
+5. [aktópa] - stress on penultimate
+
+6. [hoktáki] - stress on penultimate
+
+7. [wanayíta] - stress on antepenultimate
+
+8. [awanayíta] - stress on antepenultimate
+
+9. [isiskitóci] - stress on antepenultimate
+
+10. [aːtamihóma] - stress on antepenultimate
+
+11. [honantáːki] - stress on long vowel
+
+12. [ilitohtaɬíta] - stress on antepenultimate
+
+
+### Problem 2 - Hakhun
+
+
+(a) English translations:
+
+1. "Do I go?"
+
+2. "Did he see us?"
+
+3. "Did they know you(pl)?"
+
+4. "Did we beat them?"
+
+5. "Did we know you(sg)?"
+
+6. "Do we go?"
+
+
+(b) Hakhun translations:
+
+7. "ŋabə nɤ lan tʰu ne"
+
+8. "tarum kəmə ŋa lapkʰi ran ne"
+
+9. "ati kəmə nɤ cʰam tʰo ne"
+
+10. "nuʔrum ʒip ki ne"
+
+### Problem 3 - Terêna
+
+(a) Filling in the gaps:
+
+1. pího (follows mb/p pattern)
+2. mbîyo (follows pattern with mb for 1st person)
+3. yêno (follows pattern of changing final -m to -o)
+4. nêno (follows pattern seen in other kinship terms)
+5. kásaxo (follows ng/k pattern)
+6. xérere (follows nj/x pattern)
+7. teôko (follows nd/t pattern)
+8. yoínjoa (follows pattern of n- prefix removal)
+9. venénjo (follows v- prefix pattern)
+10. kémindi (follows m/k pattern)
+11. íxikaxovoku (follows nz/x pattern)
+12. njôxu (follows pattern of nj- prefix)
+13. nêwo (follows pattern seen in kinship terms)
+14. áxarana (follows nz/x pattern)
+
+(b) Portuguese borrowings:
+1. These borrowed words show a pattern where the initial consonant changes between l/le-, k/ke- in 2nd person forms, unlike native words.
+2. Translations:
+- my tin can = lámbina
+- my cloak = kámbana
+
+### Problem 4 - Mountain Arapesh
+
+(a) The word X is likely "and". It's implied in compounds where numbers are combined.
+The examples where it seemed missing are:
+- Example 5 (10 = 8+2)
+- Example 9 (23 = 20+3)
+- Example 10 (26 = 20+6)
+
+(b) English translations:
+12. 7 betel nuts
+13. 3 eggs
+14. 5 sugar canes
+15. 12 sheets of sago bark
+16. 15 sheets of sago bark
+
+(c) Mountain Arapesh translations:
+17. biaruh atuh bøbys
+18. biogu atut juhurubys
+19. biogu atugu juhurubys
+20. biogu atugu anowip baigas
+
+Problem 5 - Akan
+(a) Family Tree Names:
+
+Man 1 = Ofori
+Man 2 = Enu
+Man 3 = Nsia
+Man 4 = Yaw
+Man 5 = Berko
+Man 6 = Kobina
+Man 7 = Kofi
+Woman 1 = Dubaku
+Woman 2 = Kunto
+Woman 3 = Awotwi
+Woman 4 = Thema
+Woman 5 = Esi
+Woman 6 = Ama
+Woman 7 = Efua
+
+(b) Filling in the blanks:
+
+Yaw's statement:
+"Yɛfrɛ me Yaw. Yɛfrɛ me ɛnanom [Kunto]. Yɛfrɛ me [wɔfanom] Nsia ne [Awotwi]. Yɛfrɛ me nuanom Thema ne [Ama]. Yɛfrɛ me [wɔfa] Awotwi. Yɛfrɛ me [agya] Ofori. Yɛfrɛ me [wɔfaase] Esi ne [Kofi]. Yɛfrɛ me [ba] Berko."
+Second statement (likely Enu's):
+"Yɛfrɛ me [Enu]. Yɛfrɛ me banom Kofi ne [Esi]. Yɛfrɛ me [nuanom] Yaw ne [Ama]. Yɛfrɛ me [sewaanom] Kunto ne [Dubaku]."

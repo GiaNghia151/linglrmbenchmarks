@@ -1,0 +1,138 @@
+---
+
+## Problem 1
+
+**(a) Fill in the gaps in rows 15–18.**
+
+| Form 1       | Form 2        | Translation |
+|--------------|---------------|-------------|
+| 15. netkay'  | ɨnnetk'a      |             |
+| 16. kɨrɨy'   | ɨŋkirɨy'      |             |
+| 17. p'uhruy' | ɨmp'uhrua     |             |
+| 18. her'oy   | ɨnher'oy      |             |
+
+**(b) Fill in the gaps in rows 39–48.**
+
+| Form          | Translation                 |
+|---------------|-----------------------------|
+| 39. her'oŋ    | it was smoothed out         |
+| 40. ɨniʂpaʔ   | it was stolen               |
+| 41. aplaʔ     | it was opened               |
+| 42. ɨnʂaŋ'uŋ  | it chose (it)               |
+| 43. ɨmbir'iaŋ | I saw (it)                  |
+| 44. ʂawʂay'   | I plant (it)                |
+| 45. ɨŋk'an'ioʔ| it was trapped              |
+| 46. p'ahniy'  | I leap                      |
+| 47. ɨnhɨk'aoʔ | it is being sewn, woven     |
+| 48. ɨnipal'aoʔ| I was bathed                |
+
+---
+
+## Problem 2
+
+**(a) Translate into English:**
+
+17. uwa xinhikaru sytu
+The fish (sg) brought the canoe to the woman.
+
+18. txipary nhinhikary
+You_{sg} ate the banana.
+
+19. kyky aikute pysykary ywamukary
+The man brought your_{sg} bone to me.
+
+**(b) This sentence is grammatically incorrect. Explain why, and provide its grammatically correct equivalent and its English translation:**
+
+uwa umynary kanawa ximakymukary is incorrect because the verb "remembered" (ximakymukary) requires the object to be marked with a suffix.
+
+| Correct Sentence             | Translation                            |
+|------------------------------|----------------------------------------|
+| nhiximakyte pixinhikary      | You_{sg} remembered my fish (sg).      |
+
+** (c) Translate into Apurinã in two ways:
+
+**21. You_{sg} found the house.**
+*   ɨnɨkuru xinhikary
+
+**22. I brought your_{sg} canoe to the girl.**
+*   uwa mynaru hãtakaru
+
+**23. He brought your_{sg} water to me.**
+*   pita ãtary mynary
+
+**24. The man drank the girl’s blood.**
+*   kyky mynaru hãtakaru
+
+**25. I remembered the eye.**
+*   nhiximakyte uapukary
+
+**26. You_{sg} ate my banana.**
+*   txipary nhinhikary
+
+---
+
+## Problem 3
+
+**(a) Translate into English:**
+
+| Form              | Translation              |
+|-------------------|--------------------------|
+| 18. e-ɣuyanah     | You_{pl} shuddered.      |
+| 19. ba-ihwin      | You_{pl} really cried.   |
+| 20. nambum-kisaɣah| Oh, we left you_{pl} behind!|
+| 21. bat-ɣadawn    | You_{pl} left him behind.|
+| 22. ubamum-kolewn | Oh, you_{sg} silenced me!|
+
+**(b) Translate into Coastal Marind:**
+
+| Form           | Translation                     |
+|----------------|---------------------------------|
+| 23. bate-tamanab| He floated to the surface.      |
+| 24. obam-dahetok| Aw, you_{sg} returned.          |
+| 25. ubate-huɣanab| Oh, I silenced him!             |
+| 26. ebe-otab   | He really chased us away.       |
+| 27. ebe-eseb   | You_{pl} really spat on us in vain.|
+
+---
+
+## Problem 4
+
+**(a) Translate into English:**
+
+| Form                | Translation            |
+|---------------------|------------------------|
+| 22. ē-wāpamikoyēk   | as you_{sg} see him    |
+| 23. ninakinikonān   | I stop you_{sg}        |
+| 24. kikakwēcimāwāw  | he asks you_{pl}       |
+| 25. kiwīcihitināwāw | he helps you_{pl}      |
+
+**(b) Translate into Plains Cree:**
+
+| Form                  | Translation            |
+|-----------------------|------------------------|
+| 26. mawinēskomikoyāhkwāwi| if we ask them         |
+| 27. nikakwēcimik      | they challenge you_{pl}|
+| 28. kinakininān       | they help me           |
+| 29. kiwāpamināwāw     | you_{sg} see them      |
+| 30. ninakināwak       | I stop you_{pl}        |
+
+---
+
+## Problem 5
+
+**(a) Write in digits:**
+
+| Form                          | Value |
+|-------------------------------|-------|
+| 1. kampwɔhii shuunni na kɛ    | 1,260 |
+| 2. ŋkuu na baataanre          | 2,200 |
+
+**(b) Write out in the Supyire language:**
+
+| Form                                        | Value                             |
+|---------------------------------------------|-----------------------------------|
+| 3. 15                                       | beɲjaaga                          |
+| 4. 109                                      | ŋkwuu taanre na beetaanre         |
+| 5. 152                                      | ŋkwuu taanre na beeshuunni        |
+| 6. 403                                      | kampwoo na beetaanre na beeshuunni|
+| 7. 1534                                     | kampwɔhii sicyɛɛre na beɲjaaga na beetaanre|

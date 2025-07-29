@@ -1,0 +1,120 @@
+I'll help solve Problem 1 about Yonggom language first, as this appears to be the most straightforward to analyze systematically.
+
+Let's analyze the patterns in the Yonggom sentences:
+
+1) The verb endings show different patterns for different subjects:
+- -aan/-een (I/he/she)
+- -iib/-eeb (you sg/they)
+- -uub/-anuub (we)
+
+2) When actions are connected:
+- -e/-u + another verb = same subject
+- -a/-oona + another verb = different subject
+
+3) Key vocabulary:
+- om = bread
+- ok/oka = water  
+- anon = dog
+- awon = pig
+- oon = fish
+- karub = man
+- weng = voice/sound
+- ambib = house
+
+4) Common verbs:
+- an- = eat
+- ban-/ben- = take
+- wedm- = see
+- wingk- = sing
+- yeed- = get up
+- wen- = go away
+- min- = come
+- wengambar- = hear
+
+Now for the translations:
+
+(a) From Yonggom to English:
+
+12. Om benu aneen = He takes the bread and eats it
+13. Munuuna wunuub = He comes and we go away
+14. Wingkiiwa wengamburuun = You sing and she hears
+15. Anon ye weng wengamberenib yeedaraniib = They hear the dog and will get up
+16. Oon wedmaniina karub wedmaneeb = I will see the fish and you will see the man
+17. Ok wedmeena aniin = She saw the water and you will eat it
+
+(b) From English to Yonggom:
+
+18. Wenuuwa minaniib = We will go away and they will come
+19. Awon baniina oon baneen = I take the pig and he takes the fish
+20. Ok ambibya wedmeena anon ye weng wengambareen = He saw the water and the house and heard the dog
+21. Om aneewa wingkeeb = You eat the bread and sing
+
+Problem 2 (Yurok)
+(a) 1-E, 2-O, 3-A, 4-R, 5-L, 6-D, 7-Q, 8-H, 9-I, 10-K, 11-G, 12-P, 13-M, 14-N, 15-C, 16-B, 17-J, 18-F
+(b) 19-V, 20-T, 21-U, 22-S, 23-X, 24-W, 25-Y
+(c) English translations:
+26. red
+27. orange dog
+28. black berry
+29. purple berry
+(d) Yurok translations:
+30. lerʼergery noʼoy
+31. muenterʼery holeehl
+32. skoyon luuehlsonʼ
+33. perkeryerh slekwoh
+Problem 3 (Middle Persian)
+(a) 1-ʾslwn', 2-sydʾ, 3-DMYA, 4-AHTE, 5-blbwt', 6-gyʾh, 7-ALBA, 8-dwt', 9-mwd, 10-gdk', 11-hmyšk', 12-LK, 13-gwklt', 14-wʾcʾl, 15-MLKTA, 16-HZWLYA, 17-zwzk', 18-whʾl, 19-APLA, 20-gwn', 21-LCDr', 22-mng, 23-lwlk', 24-ZWZN', 25-dlmnk', 26-NKSWN-tn', 27-ʾwzmbwlt', 28-glmwk', 29-ʾhlmn', 30-ʾylʾnštr'
+(b) xōn (blood)
+(c) Alternative spellings:
+EE = bāmišn
+FF = tar
+GG = tar
+HH = xōn
+II = xāk
+JJ = xāk
+(d) Book Pahlavi script:
+KK = aRKD
+LL = DnWlD
+MM = lWts
+NN = lbmc
+
+Problem 4 (West Tarangan)
+
+Missing forms completed:
+
+| West Tarangan | North Dialect | Coast Dialect |
+|--------------|---------------|---------------|
+| ɛtaleŋa | ɛtlaleŋa | ɛtalaleŋa |
+| jaga | jagjaga | jagajaga |
+| gasírana | gassirana | gasigasirana |
+| daramota | darramota | daradamota |
+| pɔwna | pɔwpɔwna | pɔwapɔwna |
+| ɛrtɔpa | ɛrttɔpa | ɛrtɔtɔpa |
+| dabuka | dabbuka | dabubuka |
+| ŋuŋim | ŋuŋŋuŋim | ŋuŋiŋuŋim |
+| igɔ́ŋ | iggɔŋ | igɔigɔŋ |
+
+Problem 5 (Nooni)
+
+(a) Translations:
+16. Tomorrow is Bvusɔw
+17. I am about to see the yam today
+18. He saw us on Bvumbon
+19. We will hear the market on Bvuzhiden
+
+(b) Order of Nooni days:
+1. Bvutfu
+2. Bvumbon
+3. Bvusɔw
+4. Bvuzhi
+5. Bvukema
+6. Bvuŋka
+7. Bvuŋkaden
+
+(c) Translations into Nooni:
+
+20. me cǐ nɔ̂ː fí dìɛ̀msɛ̌n bvúsɔ̀w
+21. cɔ̌ŋ nɔ̂ː yo᷅ kèŋkfǔ lé
+22. me nǔ tɔ́ mutù bvûŋka᷆ːde᷆n
+23. kwɔ᷆ːn nǔ yó dìɛ̀msɛ̌n ɛ̀bɛ̀n
+24. dìɛ̀msɛ̌n nɔ̂ː yɛ᷅n wɔ̀ ɛ̀bɛ̀n

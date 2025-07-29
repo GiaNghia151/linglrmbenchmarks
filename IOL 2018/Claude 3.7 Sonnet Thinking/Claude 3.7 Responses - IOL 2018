@@ -1,0 +1,130 @@
+Solution to Computational Linguistics Problems
+Problem 1: Creek Stress Assignment
+
+After analyzing the Creek data, I can identify the following stress patterns:
+
+    When a syllable contains a long vowel (marked with ː) or a falling tone (marked with ˆ), it generally attracts stress.
+    In words with no long vowels or falling tones:
+        Words with 2-4 syllables typically have stress on the penultimate syllable
+        Words with 5+ syllables typically have stress on the antepenultimate syllable
+
+Applying these patterns to the unmarked words:
+
+Creek	        Marked with Stress
+[ifa]	        [ífa]
+[ifoci]	        [ifóci]
+[nâːnaki]	[nâːnaki]
+[sâːsakwa]	[sâːsakwa]
+[aktopa]	[aktópa]
+[hoktaki]	[hoktáki]
+[wanayita]	[wanayíta]
+[awanayita]	[awanáyita]
+[isiskitoci]	[isiskítoci]
+[aːtamihoma]	[áːtamihoma]
+[honantaːki]	[honantáːki]
+[ilitohtaɬita]	[ilitohtáɬita]
+
+Problem 2: Hakhun
+(a) Translate into English:
+
+After analyzing the Hakhun sentences, I can identify the following patterns:
+
+    nɤ ʒip ku ne
+    "Do you sleep?" or "Are you sleeping?"
+    ati kəmə nirum lapkʰi tʰi ne
+    "Does he see us?"
+    tarum kəmə nuʔrum cʰam ran ne
+    "Do they know you(pl)?"
+    nirum kəmə tarum lan ki ne
+    "Do we beat them?"
+    nirum kəmə nɤ cʰam tiʔ ne
+    "Do we know you(sg)?"
+    nirum ka tiʔ ne
+    "Do we go?"
+
+(b) Translate into Hakhun:
+
+    Did I beat you(sg)?
+    ŋabə nɤ lan tɤʔ ne
+    Did they see me?
+    tarum kəmə ŋa lapkʰi tʰu ne
+    Does he know you(sg)?
+    ati kəmə nɤ cʰam tʰɤ ne
+    Do you(pl) sleep?
+    nuʔrum ʒip kan ne
+
+Problem 3: Terêna Grammatical Forms
+(a) Fill in the gaps:
+
+By analyzing the patterns between 1st and 2nd person forms, I can identify systematic changes:
+
+    Initial consonant changes (mb→p, nd→t, nj→x, ng→k, etc.)
+    Vowel changes (often reflecting vowel harmony)
+    Dropping of final -m in 1st person forms
+
+The gaps can be filled as follows:
+
+    pîho
+    mbîyo
+    yêno
+    yênom
+    kásaxo
+    xérere
+    teôko
+    yeíxoa
+    vetéxo
+    pómindi
+    íhikaxovoku
+    ôxum
+    nîwom
+    áharana
+
+(b) Portuguese borrowings:
+
+    The Portuguese borrowings in Terêna behave differently because they insert an extra vowel (e) after the initial consonant in the 2nd person form, and the initial consonant changes don't follow the exact same patterns as native words.
+    Translation:
+        my tin can: látana
+        my cloak: kápana
+
+Problem 4: Mountain Arapesh Numerals
+(a) Missing word X:
+
+The word X is the numeral "1". The linguist thought it was missing in examples 12, 14, and 19 (using the numbering from the original problem).
+
+It's implied by context because in many languages, when counting individual items, the numeral "1" is often omitted as it's understood from context.
+(b) Translate into English:
+
+    biabys atub bøbys = 7 betel nuts
+    atub juhurub = 3 eggs
+    nybat atuh araruh = 4 sugar canes
+    biagas atugas biagas baigas = 15 sheets of sago bark
+    wiwis baigas = 11 sheets of sago bark
+
+(c) Translate into Mountain Arapesh:
+
+    4 betel nuts = atub bøbys
+    11 eggs = wiwis atub juhurubys
+    20 eggs = biogu atugu biogu juhurubys
+    25 sheets of sago bark = biogu atugu biogu biagas atugas baigas
+
+Problem 5: Akan Family Relations
+(a) Family tree with names:
+
+Based on the statements, I can determine:
+
+    Man 1 = Enu, who has children Thema, Yaw, Ama with Woman 2 (Kunto)
+    Woman 1 = Nsia
+    Woman 3 = Awotwi
+    Man 2 = Ofori, who has children Man 6 (Kofi) and Woman 6 (Esi) with Woman 2
+    Man 3 = [unnamed]
+    Man 4 = Yaw
+    Woman 4 = Ama
+    Man 5 = Kobina, who is married to Woman 7 (Efua)
+    Man 7 = Berko
+
+(b) Fill in the gaps:
+
+    Yɛfrɛ me Yaw. Yɛfrɛ me ɛnanom Kunto. Yɛfrɛ me nuanom Nsia ne Awotwi. Yɛfrɛ me nuanom Thema ne Ama. Yɛfrɛ me wɔfa Awotwi. Yɛfrɛ me wɔfa Ofori. Yɛfrɛ me sewaanom Esi ne Kofi. Yɛfrɛ me wɔfaase Berko.
+    Yɛfrɛ me Ofori. Yɛfrɛ me banom Kofi ne Esi. Yɛfrɛ me wɔfaase Yaw ne Ama. Yɛfrɛ me sewaanom Kunto ne Dubaku.
+
+v

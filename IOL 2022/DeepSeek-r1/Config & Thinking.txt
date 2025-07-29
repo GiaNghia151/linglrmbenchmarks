@@ -1,0 +1,149 @@
+Okay, let's tackle these problems one by one. Starting with Problem 1 about Yonggom.
+
+First, I need to look at the given sentences and their translations to figure out the grammar and vocabulary. Let's list out the words from each example and see if I can find patterns.
+
+Looking at sentence 1: "Meneni karuwa anona wedmaan." translates to "I came and saw the man and the dog." So, "anona" might be "man" and "wedmaan" could be "saw" (past tense). Maybe "karuwa" is "came" and "meneni" is "I". Let's check other sentences for confirmation.
+
+Sentence 2: "Wingkeewa yeediriin." translates to "You(sg) sing and I get up." Here, "wingkeewa" might be "you sing" and "yeediriin" is "I get up". The endings could indicate subject and tense.
+
+Sentence 3: "Ambib wedmoona awon baan." → "He saw the house and I took the pig." "wedmoona" could be "saw" with a different subject (he?), "awon" is house, "baan" is "took". So maybe "wedm" is the root for "see", with different endings for subject and tense.
+
+Sentence 4: "Yeederenu om banuun." → "She will get up and will take the bread." So "yeederenu" is "she will get up", "om" is bread, "banuun" is "will take". The suffix "-enu" might indicate future for she.
+
+Sentence 5: "Wenenub wingkanuub." → "We will go away and will sing." "Wenenub" and "wingkanuub" both have "-nuub" which could be future plural (we).
+
+Sentence 6: "Oma oka aniib." → "They eat the bread and drink the water." "Oma" is bread, "oka" water, "aniib" is "they eat and drink"? Or "aniib" might be plural present.
+
+Sentence 7: "Anon ye weng wengambaranuuwa awon ye weng wengambaraneen." → "We will hear the dog and he will hear the pig." The word "wengambaranuuwa" and "wengambaraneen" seem to be "hear" with different subjects. Maybe "wengambar" is the root for "hear", "-nuuwa" for we future, "-aneen" for he future.
+
+Sentence 8: "Ok anaana oon wedmeen." → "I drank the water and she saw the fish." "Ok" is water, "anaana" might be "I drank", "oon" fish, "wedmeen" "she saw". So "wedm" again for see, with "-een" for she past.
+
+Sentence 9: "Yeederenib miniib." → "They get up and come." "Yeederenib" could be "they get up" (present), "miniib" "they come".
+
+Sentence 10: "Wingkenu wunuun." → "She sings and goes away." "Wingkenu" is "she sings", "wunuun" "she goes away". The "-nu" suffix might be present tense for she.
+
+Sentence 11: "Om bene aneen." → "He takes the bread and eats it." "Bene" is "takes", "aneen" "eats". The root "ben" for take, "an" for eat. The endings "-e" and "-een" might indicate different subjects or aspects.
+
+Now, for part (a) translations:
+
+12. Om benu aneen.
+
+Breaking down: "Om" is bread. "Benu" – "ben" is take, "-u" could be a different subject. Looking at sentence 11, "bene" is he takes, "aneen" he eats. Here, "benu" might be "she takes" (if -u is she), but in sentence 10, "wunuun" for she goes has "-nuun". Maybe "-u" is future? Wait, in sentence 4, "banuun" is "will take" (she). So "benu" could be future. But the answer here is "He takes the bread and eats it." Wait, sentence 11 uses "bene aneen" for "he takes and eats". So maybe "benu" is a different tense or subject. Alternatively, "benu" could be plural. Hmm.
+
+Wait, looking at sentence 4: "banuun" is "will take" (she). So "benu" might be future tense. But in sentence 11, "bene" is present. So maybe "benu" is "will take". Then "aneen" is "will eat"? But in sentence 4, "banuun" is future. So "benu aneen" would be "will take and eat". But the original sentence 11 is present. So perhaps "benu" is a different subject. Let's check other verbs.
+
+In sentence 5: "Wenenub wingkanuub." We future. "-nuub" ending. So maybe "-u" in "benu" is future, but "aneen" is present. Wait, but "aneen" in sentence 11 is present. Hmm. Alternatively, maybe "benu" is plural. Let's see other plural forms. Sentence 9: "Yeederenib miniib." They get up and come. "-ib" for they. So "benu" might not be they. Maybe "benu" is you (sg). For example, sentence 2: "Wingkeewa" (you sing). So "benu" could be you take. Then "aneen" would be you eat? But "aneen" in sentence 11 is he eats. So maybe "benu" is you (sg) take, and "aneen" is you eat. But how is that formed? Alternatively, maybe "benu" is future. So "Om benu aneen." → "Bread will take and eat." That doesn't make sense. Alternatively, maybe the subject is she. "She takes the bread and eats it." But in sentence 10, "Wingkenu" is she sings (-nu). So "benu" would be she takes. Then "aneen" is she eats. But in sentence 11, "aneen" is he eats. So maybe the endings vary. Alternatively, "benu aneen" is "takes and eats" with a different subject. Maybe "benu" is plural? But "Om benu aneen." If "benu" is plural, then "they take the bread and eat it." But the answer needs to be determined based on patterns.
+
+Looking at sentence 7: "Anon ye weng wengambaranuuwa awon ye weng wengambaraneen." The verb "wengambaranuuwa" is "we will hear" and "wengambaraneen" is "he will hear". So the future tense for we is "-nuuwa" and for he is "-aneen". Wait, in sentence 4: "Yeederenu" (she will get up) and "banuun" (she will take). So "-enu" and "-uun" for future she. Hmm. This is getting complicated. Maybe "benu" is future, but the answer might be "He will take the bread and eat it." But in sentence 11, present tense uses "bene aneen". So perhaps "benu" is future. "Om benu aneen." → "He will take the bread and eat it." Or maybe "They take the bread and eat it." But need more clues.
+
+Alternatively, looking at sentence 14: "Wingkiiwa wengamburuun." Let's skip to that. Maybe looking at other sentences can help.
+
+But perhaps I should proceed step by step.
+
+Problem 1(a):
+
+12. Om benu aneen.
+
+From sentence 11: "Om bene aneen." → "He takes the bread and eats it." Here, "bene" is present, "aneen" is present. So "benu" might be a different subject or tense. If "benu" is "will take", then "Om benu aneen." would be "He will take the bread and eat it." But the problem is that "aneen" is present. Alternatively, maybe "benu" is plural. If "benu" is "they take", then "Om benu aneen." would be "They take the bread and eat it." But in sentence 9, "yeederenib miniib" uses "-ib" for they. So "-u" isn't the they suffix. Alternatively, maybe "benu" is "you (sg) take", but sentence 2 has "wingkeewa" for you sing. So "benu" might not align. Alternatively, "benu" could be past tense. But in sentence 1, "karuwa" is came (I), past. Sentence 8: "wedmeen" is she saw. So past tense for see is "wedm" with different endings. So maybe "benu" is a different tense. Alternatively, maybe "benu" is a typo, but assuming it's correct. Hmm. Alternatively, maybe "benu" is "took" (past), and "aneen" is "ate". Then the translation would be "He took the bread and ate it." But the given translations in the examples use past tense with different forms. For example, sentence 1: "came" is "karuwa", "saw" is "wedmaan". So maybe the past tense is formed with "-wa" or "-maan". Not sure. Alternatively, perhaps "benu" is a different subject. Let's see, if "bene" is he takes, then "benu" could be she takes. In sentence 10, "Wingkenu" is she sings, with "-nu". So "benu" would be she takes. Then "aneen" is he eats. But that would mix subjects. Alternatively, "aneen" could be she eats. But in sentence 11, "aneen" is he eats. Maybe "aneen" is third person singular, regardless of gender. So if "benu" is she takes, then "Om benu aneen." is "She takes the bread and eats it." But how to confirm?
+
+Alternatively, perhaps "benu" is plural. But sentence 9 uses "-ib" for they. So maybe not. Alternatively, "benu" could be "you (sg) take", but in sentence 2, "yeediriin" is "I get up", so maybe the endings vary. This is tricky. Given that sentence 11 uses "bene" for he takes, and "benu" here, maybe it's a different tense. Let's check other future forms. In sentence 4, "yeederenu" (she will get up), "banuun" (she will take). The future for she seems to have "-enu" and "-uun". So "benu" might be future he? Not sure. Alternatively, maybe "benu" is present plural. But again, not sure. Given the ambiguity, perhaps the answer is "He will take the bread and eat it." But I need to check other sentences.
+
+Looking at sentence 5: "Wenenub wingkanuub." → "We will go away and will sing." The suffix "-uub" for future we. So "benu" doesn't match that. Maybe "-u" is future singular. For example, in sentence 4, "banuun" (she will take), which has "-uun". So "benu" could be future he? But "banuun" is she. Alternatively, maybe "benu" is future you. Hmm.
+
+Alternatively, maybe "benu" is a typo for "bene" but that's unlikely. Given that the answer needs to be deduced, perhaps "Om benu aneen." is "You will take the bread and eat it." But how to confirm. Alternatively, looking at sentence 14: "Wingkiiwa wengamburuun." Maybe "wengamburuun" is "hear" something. Not sure. Let's move to problem 1(a) translations:
+
+12. Om benu aneen. → Since "bene" in 11 is he takes, "benu" might be future. So "He will take the bread and eat it."
+
+13. Munuuna wunuub. Breaking down: "munuuna" – perhaps "mun" is a root. Looking at the examples, "wunuun" in sentence 10 is "goes away" (she). "wunuub" would be future we? In sentence 5, "Wenenub" (we will go away), "wunuub" might be "will go away". "Munuuna" could be "they heard" or "they come". Wait, sentence 9: "Yeederenib miniib." They get up and come. "miniib" is come. So "munuuna" might be a different verb. Alternatively, "munuuna" could be "we come" but not sure. Alternatively, "munuuna" could be "we will come" and "wunuub" is "will go away". So the translation would be "We will come and go away." But how to confirm. Alternatively, "munuuna" might be "they come" (from "miniib" being "they come"). Maybe "munuuna" is past tense. Hmm. This is challenging. Let's check other verbs. Sentence 1: "Meneni karuwa anona wedmaan." "karuwa" is came (I). So "karuwa" is past. If "munuuna" is past, maybe "they came" and "wunuub" is future. But "They came and will go away." Not sure. Alternatively, maybe "munuuna" is "you (pl) come" and "wunuub" is "will go away". Not enough info. This is tough. Maybe looking at sentence 9: "Yeederenib miniib." (They get up and come). So "miniib" is come (they). If "munuuna" is a different form, perhaps "we come" and "wunuub" is "we go away". So "We come and go away." But the tense? Not sure.
+
+14. Wingkiiwa wengamburuun. "Wingkiiwa" – "wingkeewa" in sentence 2 is "you sing". "Wingkiiwa" could be a different form. "wengamburuun" – from sentence 7, "wengambaranuuwa" (we will hear), "wengambaraneen" (he will hear). So "wengamburuun" might be "you will hear" or similar. So maybe "You sing and hear." But not sure. Alternatively, "Wingkiiwa" could be "you will sing" and "wengamburuun" is "you will hear". So "You will sing and hear." But how to know.
+
+15. Anon ye weng wengamberenib yeedaraniib. "Anon" is dog (sentence 1). "ye" could be a particle. "weng" maybe "hear" as in sentence 7. "wengamberenib" – similar to "wengambaranuuwa" (we hear), so maybe "wengamberenib" is "they hear". "yeedaraniib" – from "yeediriin" (I get up), "yeederenu" (she will get up), so "yeedaraniib" might be "they get up". So "The dog and they hear and they get up." Not sure. Alternatively, "Anon ye weng wengamberenib yeedaraniib." → "The dog hears them and they get up." Hmm.
+
+16. Oon wedmaniina karub wedmaneeb. "Oon" is fish (sentence 8). "wedmaniina" – "wedm" is see, maybe past tense. "karub" – "karuwa" is came (I), so "karub" could be "I came"? "wedmaneeb" – "wedm" see, "aneeb" might be plural. So "The fish I saw and we saw." Not sure. Alternatively, "Oon wedmaniina karub wedmaneeb." → "I saw the fish and we saw the..." Hmm.
+
+17. Ok wedmeena aniin. "Ok" is water. "wedmeena" – "wedm" see, "eena" could be she saw. "aniin" – from sentence 6, "aniib" is they eat/drink. So "She saw the water and they drink." Or "Water she saw and they drink." Not sure. Alternatively, "Ok wedmeena aniin." → "She saw the water and they drank." But tense?
+
+This is really challenging. Let's try to find patterns:
+
+Verbs:
+
+- "see": wedm. Past tense forms: wedmaan (I saw), wedmeen (she saw), wedmoona (he saw? sentence 3: "Ambib wedmoona awon baan." → He saw the house and I took the pig. So "wedmoona" is he saw. Then "wedmeena" might be they saw? Or "wedmeena" could be "saw" with a different subject.
+
+Subjects:
+
+- I: meneni (sentence 1), me (sentence 8)
+
+- You (sg): wingkeewa (sentence 2)
+
+- He: Ambib (sentence 3), awon (sentence 3 is house, so probably not), maybe the verb endings indicate subject.
+
+- She: yeederenu (sentence 4), wvù (sentence 4 in problem 5, but that's Nooni)
+
+- We: wenenub (sentence 5)
+
+- They: yeederenib (sentence 9)
+
+Tense:
+
+- Past: karuwa (came, I), wedmaan (saw, I), wedmeen (saw, she), etc.
+
+- Future: banuun (will take, she), wingkanuub (will sing, we), etc.
+
+- Present: bene (takes, he), aneen (eats, he), etc.
+
+Noun markers:
+
+- "anona" (the man), "awon" (the house), "om" (the bread), "ok" (the water), "oon" (the fish). So maybe "a-" is a definite article? "anona" = a man with "a-"? Or maybe "ona" is man, "awon" is house, "om" is bread, etc. Not sure.
+
+Looking at sentence 7: "Anon ye weng wengambaranuuwa awon ye weng wengambaraneen." → "We will hear the dog and he will hear the pig." The structure seems to be [dog] [particle] [hear] [we will hear] [pig] [particle] [hear] [he will hear]. So "wengambaranuuwa" is "we will hear", "wengambaraneen" is "he will hear". The root is "wengambar-", with suffixes for subject and tense.
+
+So for the verb "hear", future tense:
+
+- We: wengambaranuuwa
+
+- He: wengambaraneen
+
+Similarly, in sentence 4: "Yeederenu om banuun." → "She will get up and will take the bread." "yeederenu" (she will get up), "banuun" (she will take). So the future for she might be "-enu" and "-uun".
+
+So for "get up", future she: yeederenu
+
+For "take", future she: banuun
+
+So maybe the future tense for she has different suffixes depending on the verb. Alternatively, "yeederenu" is from "yeeder" (get up) + "enu" (future she), and "banuun" is "take" + "uun" (future she). Not sure.
+
+Back to problem 12: "Om benu aneen." If "bene" is present he takes, then "benu" might be future he takes. "aneen" is present he eats. So "He will take the bread and eat it." But mixing future and present? Maybe in Yonggom, the structure is "will take and eat" using future on the first verb and the second verb is in present. Alternatively, both verbs take future. If "aneen" is future, then maybe "He will take and will eat the bread." But how to tell.
+
+Alternatively, maybe "benu" is a different subject. If "benu" is "you (sg) take", then "You take the bread and eat it." But how to confirm.
+
+Given the examples, I think "benu" is future he. So "He will take the bread and eat it."
+
+13. Munuuna wunuub. If "wunuub" is future we go away (from sentence 5: "Wenenub" we will go away), then "munuuna" could be "we come". So "We will come and go away." But "munuuna" isn't in the examples. Alternatively, "munuuna" could be "they come" (past) and "wunuub" future. Not sure. Maybe "They came and will go away." But not sure.
+
+14. Wingkiiwa wengamburuun. "Wingkiiwa" – if "wingkeewa" is you sing (present), then "wingkiiwa" could be "you will sing". "wengamburuun" – if similar to "wengambaranuuwa" (we will hear), maybe "wengamburuun" is "you will hear". So "You will sing and hear."
+
+15. Anon ye weng wengamberenib yeedaraniib. "Anon" is dog. "ye" could be a conjunction. "weng" is hear. "wengamberenib" – perhaps "they hear". "yeedaraniib" – from "yeederenib" (they get up), so "yeedaraniib" might be "they get up". So "The dog hears and they get up." Or "The dog and they hear and get up."
+
+16. Oon wedmaniina karub wedmaneeb. "Oon" is fish. "wedmaniina" – "wedm" see, "aniina" could be "I saw". "karub" – "karuwa" is I came, so "karub" might be "I came". "wedmaneeb" – "wedm" see, "aneeb" they saw. So "I saw the fish and came, and they saw." Not sure. Maybe "I saw the fish and came, and they saw (something)."
+
+17. Ok wedmeena aniin. "Ok" water. "wedmeena" – she saw. "aniin" – they eat/drink. So "She saw the water and they drank."
+
+For part (b) translations into Yonggom:
+
+18. We will go away and they will come.
+
+From sentence 5: "Wenenub wingkanuub." We will go away and will sing. So "Wenenub" is we will go away. "miniib" is they come (sentence 9). So future they come would be "minuub" or similar. But in sentence 5, future we is "-nuub". So maybe "We will go away" is "Wenenub" and "they will come" is "minuub". But need to check. Alternatively, the future for they might be "-enib" or "-aniib". Not sure. The example for they future: sentence 7 has "wengambaraneen" for he will hear, and "wengambaranuuwa" for we. So maybe the future for they is "-enib" or "-aniib". If "come" is "min", then future they come might be "minenib" or "minuub". Not sure. Alternatively, from sentence 9: "miniib" is present they come. So future might add a suffix. Maybe "minuub". So the sentence would be "Wenenub minuub."
+
+19. I take the pig and he takes the fish.
+
+From sentence 3: "Ambib wedmoona awon baan." He saw the house and I took the pig. "baan" is I took. So "take" is "baan" past. For present, maybe "ben" as in sentence 11 "bene" he takes. So "I take" would be "ben..." and "he takes" "bene". The pig is "baan" in sentence 3 (object). So "pig" is "baan"? Or "baan" is took. Wait, sentence 3: "I took the pig" is "baan". So "pig" is "baan"? No, probably "baan" is "took". The pig is "awon"? No, "awon" is house. Wait, sentence 3: "Ambib wedmoona awon baan." → He saw the house and I took the pig. So "the pig" must be a different word. Maybe "baan" is "pig", and "took" is another word. Wait, the sentence translates to "He saw the house and I took the pig." So "baan" is "took", and "the pig" is another word. Let's check sentence 7: "awon ye wengambaraneen" → "he will hear the pig". So "awon" is house, "ye" maybe a particle. Wait, maybe "the pig" is "awon"? No, sentence 3 has "awon" as house. So maybe "the pig" is "baan"? Not sure. This is confusing. Let's look for "pig" in the examples. Sentence 3: "I took the pig" → "baan". So "baan" is the pig? Or is it the verb "took"? Probably "baan" is the past tense of take for I. So "pig" must be another word. In sentence 7: "he will hear the pig" is "awon ye wengambaraneen". So "awon" is house, so maybe "pig" is "bV...". Alternatively, maybe "baan" is the pig, and the verb is different. This part is unclear. Alternatively, looking at sentence 11: "Om bene aneen." He takes the bread and eats it. So "bene" is takes. For I take, maybe "beni" or "bena". So "I take the pig" would be "[pig] beni..." and "he takes the fish" would be "[fish] bene..." The fish is "oon" from sentence 8. So "Oon bene." So the sentence would be "Baan beni oon bene." But not sure about the word order. Alternatively, "I take the pig" is "Baan beni" and "he takes the fish" is "Oon bene." So combining: "Baan beni oon bene."
+
+20. He saw the water and the house and heard the dog.
+
+From sentence 3: "Ambib wedmoona awon baan." He saw the house and I took the pig. So "he saw" is "wedmoona". "Water" is "ok", "house" is "awon", "heard" is "wengambar" (from sentence 7). The dog is "anon". So "He saw the water and the house and heard the dog." → "Ok awon wedmoona anon wengambaraneen." But need to check the structure. Maybe "Ok awon wedmoona anon wengambara...".
+
+21. You(sg) eat the bread and sing.
+
+From sentence 6: "Oma oka aniib." They eat the bread and drink the water. "aniib" is they eat. So "you eat" would be "aniiwa" (if "wa" is you sg). "Sing" is "wingkeewa" from sentence 2. So "Om aniiwa wingkeewa."
+
+This is quite tentative. I might have made mistakes, but this is my best attempt given the patterns.

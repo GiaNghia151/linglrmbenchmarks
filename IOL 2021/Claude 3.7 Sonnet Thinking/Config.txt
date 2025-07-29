@@ -1,0 +1,5 @@
+Temperature = 1
+
+Max Tokens = 32768
+
+Budget Tokens = 26336

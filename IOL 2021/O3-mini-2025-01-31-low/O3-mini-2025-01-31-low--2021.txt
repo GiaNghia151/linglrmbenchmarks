@@ -1,0 +1,172 @@
+﻿Problem 1. (Ekari numerals)
+
+An analysis of the ten attested numerals shows that numbers below 64 are expressed as “XX rati YY” where “rati” marks multiplication by 8, while numbers 64 and above are “shifted” by a word moeto that marks the 8²‐place. (For example, note that
+  benomima rati = 2×8 = 16,
+  waroewoma joka rati = 4×8 + 6 = 38, and
+  ije mepija = 4×8 + 7 = 39.)
+
+One may then “read off” the digit–words (often appearing in variant “allomorphs” depending on position). For instance, the word for “2” appears as either wija or (in compound position) benomima or daemita; likewise the word for “7” is given as mepija (or its variant beo).
+
+A correct answer is as follows.
+(a) Write in digits:
+
+    moeto waroewo
+     Analysis: Here moeto (the 8²–marker) is “multiplied” by the tens–part waroewo (a variant of waroewoma). One finds
+      moeto waroewo = 1×64 + 4×8 = 64 + 32 = 96.
+
+    ijema joka rati
+     This is an alternate form of “waroewoma joka rati”. (In our data “waroewoma” and “ijema” are free variants for “4” in the 8–position.) Hence
+      ijema joka rati = 4×8 + 6 = 38.
+
+    moeto wido ma benomi ka wi
+     Here moeto provides the 64–unit. In the remainder, wi (the simple form for 2) appears as the “tens‐digit” while the intervening words supply the “ones”. One computes
+      moeto wido ma benomi ka wi = 2×64 + (0×8 + 1) = 128 + 1 = 129.
+
+(In our solution one of the three turns out to duplicate a previously–attested value: “ijema joka rati” is just an alternate expression of “waroewoma joka rati” = 38.)
+(b) Write out in Ekari:
+
+When the decimal numbers 1, 19, 26, 104, and 292 are converted to base‑8 the following “octal” representations result:
+
+    1₁₀  = 1₈
+    19₁₀ = 23₈  [= 2×8 + 3]
+    26₁₀ = 32₈  [= 3×8 + 2]
+    104₁₀ = 150₈ [= 1×64 + 5×8 + 0]
+    292₁₀ = 444₈ [= 4×64 + 4×8 + 4]
+
+One acceptable Ekari transcription is as follows (note that one of these – “19” – may be expressed in two ways):
+
+    1      : ije
+    19     : either
+      a. wija rati joro          or
+      b. benomima rati wija
+    26     : waroewo rati wija
+    104    : mepina daemita moeto wija
+    292    : idibima moeto widoma mepija ka benomi
+
+Problem 2. (Zuni vocabulary and translation)
+
+A careful comparison of the two word–lists leads to the following correspondences.
+(a) For the first ten items, one acceptable matching is:
+
+    mo:chikwa datda:we  – A. chicken meat
+    haya:we       – B. tea (drink)
+    doko:ko mo’le    – C. sugar
+    ma:chikwa     – D. loaf of bread
+    mu:chikwa     – E. beads
+    mulonne ≈ mu’le   – F. peach pie
+    mowe       – G. piles of leaves
+    ha:k’yawe     – H. chicken egg
+    doko:ko shiwe    – I. peach trees
+    mo:chikwa mulo:chikwa – J. chocolate bar
+
+(b) For the second set (items 11–18):
+
+    ade muwe     – K. granule, grain
+    beyanne     – L. ear of corn [corn cob]
+    homa:we     – M. juniper leaves
+    ma:k’yawe    – N. salt water
+    ma:k’ose     – O. blood clots
+    ma’le      – S. salt
+    homayanne    – Q. blood
+    mi’le      – R. juniper branch
+
+(c) Translate into English the following Zuni words:
+
+    be’le   → “salt”
+    chikwa   → “chicken meat”
+    datdanne  → “loaf of bread”
+    ade    → “granule, grain”
+    mulo:we  → “tea (drink)”
+    hawe    → “piles of leaves”
+
+(Notice that “be’le” translates the same as ma’le in (b), so one concept is expressed by two forms.)
+(d) Translate into Zuni:
+
+    salty     → ma’le
+    juniper leaf  → homa:we
+    piece of meat  → chikwa
+    water     → yayawe
+    corn, maize   → beyanne
+    fields of grass  → mulo:we
+
+(e) Finally, a linguist’s map shows a place called Ma’k’yayanne. In Zuni this is a compound meaning “salt water” (a spring of naturally saline water), which is the sacred pilgrimage site.
+Problem 3. (Kilivila sentences)
+
+An analysis of word–order and “connectives” in the 13 given Kilivila sentences suggests that, as in many Oceanic languages, there are separate markers for numbers, adjectives, and for “question words.” One acceptable solution is as follows.
+(a) Translate into English:
+
+    Navila vivila biyamata tomwaya mtona?
+      “How many women will look after that man?”
+
+    Bikamkwamsi kweyu vivila minasina.
+      “The white men ate those four fish.”
+
+    Amagudina gwadi lekota?
+      “Did that white man arrive?”
+
+    Tevila tauwau bigisesi gugwadi gudigasisi?
+      This sentence is ambiguous; it may be interpreted either as
+       (a) “Did the clever chief kill one wild pig?” or
+       (b) “Did the clever chief kill the wild pig?”
+
+    Legisesi ketala waga vivila minasiwena.
+      “Which canoe did the old women see?”
+
+(b) Translate into Kilivila:
+
+    “How many canoes did those old women see?”
+      → Amakena waga legisesi vivila?
+
+    “These four white men will look after this clever child.”
+      → Bibani dimdim lekotasi biyamatasi bikota.
+
+    “How many children will eat these pigs?”
+      → Navila bikota mtosiwena tau?
+
+    “Which woman caught those beautiful fish?”
+      → Amakena vivila lekalimati tetala tau?
+
+    “Two wild dogs saw that old man.”
+      → Natala ka’ukwa lekotasi nabikota.
+
+Problem 4. (Agbirigba)
+
+Agbirigba is formed from Ogbakiri by “inserting” a –tʊ– element in the root; nearly every Ogbakiri word shows a form‐alternation. (Compare, for example, Ogbakiri ńdá → Agbirigba ńtʊ́dá, and bísí́ → túbít́íś.)
+(a) One exception
+
+All items show an inserted –tʊ– except the word for “siblinghood.” In Ogbakiri
+  wẽ́nẽ́  → Agbirigba is given as  tṹwẽtɪnẽ.
+If this word followed the same regular rule it would be expected to be
+  wẽtɪnẽ  (without the initial tṹ–).
+Thus the exceptional Agbirigba form is tṹwẽtɪnẽ; it “should have been” wẽtɪnẽ.
+(b) The following Agbirigba forms are acceptable answers:
+
+    Ogbakiri rʊ́tʊ̂  → Agbirigba rʊtʊtʊ̂
+    rɛẁʊ̃́     → rɛtʊ̀wʊ̃́
+    bíkó      → túbíkó
+    ɲ́yẽ́ rɪỳã̀   → ɲ́tʊyẽ́ tɪrɪỳã̀
+    bɛḱʷʊ̃́     → túbɛḱʷʊ̃́
+    riýõ̀rõ̀     → tiríýõ̀tʊrõ̀
+    hʷɔg̀â      → hʷɔtʊg̀â
+
+Problem 5. (Rikbaktsa)
+
+The Rikbaktsa data show many “stem–alternations” and person–marking particles. (For example, compare the basic forms “ahapery” “I waited for you₍ₚₗ₎” and “tsipikharapyryk” “you₍ₛg₎ will hug me”.)
+(a) One acceptable translation is:
+
+    aharapyryk  → “I waited for you (plural).”
+    mymyboro   → “I will sleep.”
+    uru     → “I will arrive.”
+    tsiksiwynaha  → “You (singular) will hug me.”
+    ikwak     → “I fell.”
+    ziksi     → “You (singular) left.”
+
+(b) And one acceptable Rikbaktsa translation is:
+
+    “we will fall”    → tsifurunaha
+    “I bathed”      → tsikmoronaha
+    “you (sg) bit us”   → tsiniboro
+    “I will wait for them / he will wait for them” → ahaperynaha
+    “I will hug you (pl) / he will hug you (pl)”   → tsipikharapyryka
+    “you (sg) will leave”  → tsiksi
+    “I killed it”     → pikbeze
