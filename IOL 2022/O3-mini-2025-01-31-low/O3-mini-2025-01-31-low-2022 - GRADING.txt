@@ -1,0 +1,449 @@
+```markdown
+Problem 1:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: I give you_{pl} to him.
+            Real Answer: I give him to you_{pl}.
+            Grade: 0
+    Part b:
+        10:
+            Classification: Type 2
+            LLM Answer: I give you_{sg} to him.
+            Real Answer: He gives him to us.
+            Grade: 0
+        11:
+            Classification: Type 2
+            LLM Answer: He gives you_{pl} to them.
+            Real Answer: You_{pl} give him to me.
+            Grade: 0
+        12:
+            Classification: Type 2
+            LLM Answer: He gives us to you_{sg}.
+            Real Answer: They give us to you_{sg}.
+            Grade: 0
+    Part c:
+        13:
+            Classification: Type 1
+            LLM Answer: wəŝʷənatʷan.
+            Real Answer: ŝʷəsənatʷan.
+            Grade: 0
+        14:
+            Classification: Type 1
+            LLM Answer: ŝʷənatʷən.
+            Real Answer: asəŝʷtʷan.
+            Grade: 0
+        15:
+            Classification: Type 1
+            LLM Answer: saŋtʷən.
+            Real Answer: šʼəwtʷan.
+            Grade: 0
+        16:
+            Classification: Type 1
+            LLM Answer: awətʷən.
+            Real Answer: wašʼtʷən.
+            Grade: 0
+        17:
+            Classification: Type 1
+            LLM Answer: šʼənatʷən.
+            Real Answer: ašʼəntʷan.
+            Grade: 0
+
+Problem 2:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: achánnàaka — R. he scatters it, he scatters them
+            Real Answer: achánnàaka — G. it leans against something
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: achanni — T. he tears it in two
+            Real Answer: achanni — N. he leans them against something
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: ahamatli — B. he lays them down
+            Real Answer: ahamatli — R. he scatters it, he scatters them
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: ahámmatka — V. he lays it down
+            Real Answer: ahámmatka — M. it is scattered, they are scattered
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: apòotka — U. he has one
+            Real Answer: apòotka — S. they are next to something
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: apotòoli — Z. he wraps it
+            Real Answer: apotòoli — D. he puts it next to something
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: apóttòoka — D. he puts it next to something
+            Real Answer: apóttòoka — I. it is next to something
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: atanayli — G. it leans against something
+            Real Answer: atanayli — Z. he wraps it
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: atánnayka — N. he leans them against something
+            Real Answer: atánnayka — K. it is wrapped
+            Grade: 0
+        10:
+            Classification: Type 1
+            LLM Answer: atanni — L. they lie, are lying down
+            Real Answer: atanni — C. he wraps them
+            Grade: 0
+        11:
+            Classification: Type 1
+            LLM Answer: bàalka — X. he peels the bark off
+            Real Answer: bàalka — L. they lie, are lying down
+            Grade: 0
+        12:
+            Classification: Type 1
+            LLM Answer: balàali — Y. he peels a strip off
+            Real Answer: balàali — V. he lays it down
+            Grade: 0
+        13:
+            Classification: Type 1
+            LLM Answer: balli — L. they lie, are lying down
+            Real Answer: balli — B. he lays them down
+            Grade: 0
+        14:
+            Classification: Type 1
+            LLM Answer: incháffàaka — M. it is scattered, they are scattered
+            Real Answer: incháffàaka — U. he has one
+            Grade: 0
+        15:
+            Classification: Type 1
+            LLM Answer: kawaɬɬi — O. he makes holes
+            Real Answer: kawaɬɬi — A. he breaks it in two
+            Grade: 0
+        16:
+            Classification: Type 1
+            LLM Answer: ɬìilka — W. it has a hole
+            Real Answer: ɬìilka — F. it is torn in several places, they are torn
+            Grade: 0
+        17:
+            Classification: Type 1
+            LLM Answer: ɬìipka — P. he makes a hole
+            Real Answer: ɬìipka — H. they are turned upside down
+            Grade: 0
+        18:
+            Classification: Type 1
+            LLM Answer: ɬilaffi — J. it has holes, they have holes
+            Real Answer: ɬilaffi — T. he tears it in two
+            Grade: 0
+        19:
+            Classification: Type 1
+            LLM Answer: ɬipli — W. it has a hole
+            Real Answer: ɬipli — E. he turns them upside down
+            Grade: 0
+        20:
+            Classification: Type 1
+            LLM Answer: ɬíppìika — Q. it is turned upside down
+            Real Answer: ɬíppìika — Q. it is turned upside down
+            Grade: 1
+        21:
+            Classification: Type 1
+            LLM Answer: ɬobaffi — E. he turns them upside down
+            Real Answer: ɬobaffi — P. he makes a hole
+            Grade: 0
+        22:
+            Classification: Type 1
+            LLM Answer: ɬómbafka — C. he wraps them
+            Real Answer: ɬómbafka — W. it has a hole
+            Grade: 0
+        23:
+            Classification: Type 1
+            LLM Answer: ɬombi — K. it is wrapped
+            Real Answer: ɬombi — O. he makes holes
+            Grade: 0
+        24:
+            Classification: Type 1
+            LLM Answer: ɬòomka — F. it is torn in several places, they are torn
+            Real Answer: ɬòomka — J. it has holes, they have holes
+            Grade: 0
+        25:
+            Classification: Type 1
+            LLM Answer: sibapli — S. they are next to something
+            Real Answer: sibapli — Y. he peels a strip off
+            Grade: 0
+        26:
+            Classification: Type 1
+            LLM Answer: simbi — I. it is next to something
+            Real Answer: simbi — X. he peels the bark off
+            Grade: 0
+    Part b:
+        27:
+            Classification: Type 2
+            LLM Answer: He scatters them.
+            Real Answer: He/it lies, is lying down.
+            Grade: 0
+        28:
+            Classification: Type 2
+            LLM Answer: They (or it collectively) are scattered.
+            Real Answer: He gets one.
+            Grade: 0
+        29:
+            Classification: Type 2
+            LLM Answer: He leans it against something. / They lean it against something.
+            Real Answer: He breaks it in several places, he breaks them.
+            Grade: 0
+    Part c:
+        30:
+            Classification: Type 1
+            LLM Answer: ɬòomka.
+            Real Answer: *ɬilli*.
+            Grade: 0
+        31:
+            Classification: Type 1
+            LLM Answer: achanni.
+            Real Answer: *ɬíllafka*.
+            Grade: 0
+        32:
+            Classification: Type 1
+            LLM Answer: ɬobaffi.
+            Real Answer: *ɬipìili*.
+            Grade: 0
+        33:
+            Classification: Type 1
+            LLM Answer: atanayka.
+            Real Answer: *achanàali*.
+            Grade: 0
+    Part d:
+        1:
+            Classification: Type 2
+            LLM Answer: ɬìipka — He digs a hole.
+            Real Answer: *ɬilli* — He tears them.
+            Grade: 0
+
+Problem 3:
+    Part a:
+        17:
+            Classification: Type 2
+            LLM Answer: I ask if it is my grandfather who calls me.
+            Real Answer: I ask if it is you_{pl} whom my grandfather calls.
+            Grade: 0
+        18:
+            Classification: Type 2
+            LLM Answer: I will work in Upington tomorrow.
+            Real Answer: I will not work in Upington.
+            Grade: 0
+        19:
+            Classification: Type 2
+            LLM Answer: Is it you_{pl} whose dog is afraid of me?
+            Real Answer: The woman is afraid of my dog.
+            Grade: 0
+        20:
+            Classification: Type 2
+            LLM Answer: Will you_{sg} call me?
+            Real Answer: It is I who will call you_{sg}.
+            Grade: 0
+        21:
+            Classification: Type 2
+            LLM Answer: Whom do you_{pl} see?
+            Real Answer: Whom do you_{pl} see?
+            Grade: 2
+        22:
+            Classification: Type 2
+            LLM Answer: Whom do you_{sg} like?
+            Real Answer: Who likes me?
+            Grade: 0
+    Part b:
+        23:
+            Classification: Type 2
+            LLM Answer: ɡǁu kee si ǃʔai a ǁãu.
+            Real Answer: *i xaŋki ke ǁu si !ʔai a ǁãu*.
+            Grade: 0
+        24:
+            Classification: Type 2
+            LLM Answer: a ke ŋǂhun ke ǃaukea a.
+            Real Answer: *a kee ŋ ǂhun ǃaukea ŋǁa*.
+            Grade: 0
+        25:
+            Classification: Type 2
+            LLM Answer: kiɟa si ǂqheeke ǀeeki.
+            Real Answer: *kiɟa xae u si ǂqheeke ŋǁa*.
+            Grade: 0
+        26:
+            Classification: Type 2
+            LLM Answer: na kacuuʔi ŋ ɡǃuu cuu xae a ǂʔii ŋ.
+            Real Answer: *na kacuuʔi ŋ ɡǀi ǃuu xae a ǂʔii ŋǁa*.
+            Grade: 0
+        27:
+            Classification: Type 2
+            LLM Answer: 
+            Real Answer: cuu xae si ǀqhõʕo ŋ !haeke.
+            Grade: 0
+        28:
+            Classification: Type 2
+            LLM Answer: 
+            Real Answer: gǀu ŋǀii i.
+            Grade: 0
+
+Problem 4:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: 1 = F
+            Real Answer: 1 = I
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 1
+            LLM Answer: nhupa
+            Real Answer: (i)nhupa
+            Grade: 1
+        2:
+            Classification: Type 1
+            LLM Answer: apityi
+            Real Answer: (ii)piyaka
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: kupaka
+            Real Answer: (iii)lhuka
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: kadnhini
+            Real Answer: (iv)apityi
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: amanyi
+            Real Answer: (v)kupaka
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: kadnhini
+            Real Answer: (vi)amanyi
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: lhuka
+            Real Answer: (vii)thanti
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: apityi
+            Real Answer: (viii)wardu
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: thanti
+            Real Answer: (ix)lhuka
+            Grade: 0
+
+Problem 5:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: *phia¹¹*.
+            Real Answer: *phia¹¹.
+            Grade: 1
+    Part b:
+        1:
+            Classification: Type 1
+            LLM Answer: khúi⁵⁵
+            Real Answer: liʔ²⁴.
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: hàtá⁴²
+            Real Answer: taːnʔ⁴².
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: pàbá⁵⁵
+            Real Answer: pha⁵⁵.
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: ʔi͂a⁵⁵
+            Real Answer: ikaʔ.
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: ʔi͂a⁵⁵
+            Real Answer: kaʔ²⁴.
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: ta͂pá⁵⁵
+            Real Answer: tapa.
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: ta͂pá⁵⁵
+            Real Answer: pa¹¹.
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: mátái⁴²
+            Real Answer: mɨtay.
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: mátái⁴²
+            Real Answer: taːiʔ⁴².
+            Grade: 0
+        10:
+            Classification: Type 1
+            LLM Answer: tálam¹¹
+            Real Answer: talàm.
+            Grade: 0
+        11:
+            Classification: Type 1
+            LLM Answer: tálam¹¹
+            Real Answer: laːnʔ⁴².
+            Grade: 0
+        12:
+            Classification: Type 1
+            LLM Answer: tàpà²⁴
+            Real Answer: lipùh.
+            Grade: 0
+        13:
+            Classification: Type 1
+            LLM Answer: tàpà²⁴
+            Real Answer: phu⁵⁵.
+            Grade: 0
+        14:
+            Classification: Type 1
+            LLM Answer: pàlai³³
+            Real Answer: pilàn.
+            Grade: 0
+        15:
+            Classification: Type 1
+            LLM Answer: pàlai³³
+            Real Answer: phiaːn¹¹.
+            Grade: 0
+        16:
+            Classification: Type 1
+            LLM Answer: pàiá⁴²
+            Real Answer: pia³³..
+            Grade: 0
+        17:
+            Classification: Type 1
+            LLM Answer: tàpʰà⁴²
+            Real Answer: phu⁵⁵.
+            Grade: 0
+        18:
+            Classification: Type 1
+            LLM Answer: táta⁵⁵
+            Real Answer: tha¹¹..
+            Grade: 0
+
+Type 1: 3/64 (4.69%)
+Type 2: 2/20 (10.00%)
+Type 3: 0/0 (N/A)
+Total Score: 5/84 (5.95%)
+```

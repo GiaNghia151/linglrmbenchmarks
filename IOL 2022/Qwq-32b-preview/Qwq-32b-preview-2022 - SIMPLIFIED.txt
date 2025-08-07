@@ -1,0 +1,143 @@
+### Problem 1 Solutions
+
+(a) Other translation: I give you_{pl} to him.
+
+(b) Translations into English:
+10. — I give you_{sg} to him.
+11. — He gives you_{pl} to them.
+12. — He gives you_{sg} to us.
+
+(c) Translations into Ubykh:
+13. — wəŝʷənatʷan.
+14. — ŝʷənatʷən.
+15. — saŋtʷən.
+16. — awətʷən.
+17. — šʼənatʷən.
+
+### Problem 2 Solutions
+
+(a) Correspondences:
+1. — F.
+2. — T.
+3. — X.
+4. — W.
+5. — I.
+6. — V.
+7. — L.
+8. — D.
+9. — S.
+10. — Q.
+11. — K.
+12. — C.
+13. — Z.
+14. — J.
+15. — G.
+16. — W.
+17. — P.
+18. — Y.
+19. — O.
+20. — H.
+21. — R.
+22. — M.
+23. — N.
+24. — E.
+25. — B.
+26. — U.
+
+(b) Translations into English:
+27. — he peels a strip off" / "he peels the bark off" (This one has two possible translations).
+28. — he tears it in several places" / "they are torn" (This one has two possible translations).
+29. — it is scattered, they are scattered.
+
+(c) Translations into Alabama:
+30. — inchafàali.
+31. — incháffàaka.
+32. — ɬíppìika.
+33. — balàali.
+
+(d) inchafàali — Ambiguous word : 30. "he tears it in several places" can also mean "they are torn".
+
+### Problem 3 Solutions
+
+(a) Translations into English:
+17. — My grandfather calls me.
+18. — I will not work in Upington.
+19. — The dog is not afraid of me.
+20. — It is me whom you_{sg} call.
+21. — Whom does the man think about?
+22. — Whom does your_{sg} mother think about?
+
+(b) Translations into Nǀuuki:
+23. — ŋǀŋ si ŋ ǃʔai ke kacuuʔi ŋ ɡǀa ǃʔai.
+24. — ǀeeki ǃaukea ŋ ŋǀŋ ǂhun.
+25. — kiɟa xae ǂoo sĩisen ŋ ǃhaeke.
+26. — ŋ ǃuu ke kacuuʔi ŋ cuu xae ǃʔai.
+27. — kiɟa xae ǁu si ŋ ǃhaeke.
+28. — ŋǀŋ ŋǀii a ŋ ǃhaeke.
+
+### Problem 4 Solutions
+
+(a) Mapping:
+
+1. — A : 22
+2. — B : 23
+3. — C : 24
+4. — D : 20
+5. — E : 21
+6. — F : 19
+7. — G : 18
+8. — H : 17
+9. — I : 16
+10. — J : 15
+11. — K : 14
+12. — L : 13
+13. — M : 12
+14. — N : 11
+15. — O : 10
+16. — P : 9
+17. — Q : 8
+18. — R : 7
+19. — S : 6
+20. — T : 5
+21. — U : 4
+22. — V : 3
+23. — W : 2
+24. — X : 1
+
+(b) Fill in the blanks:
+
+(i) apityi
+(ii) kupaka
+(iii) kupaka
+(iv) kadnhini
+(v) kupaka
+(vi) kadnhini
+(vii) apityi
+(viii) kupaka
+(ix) kadnhini
+
+### Problem 5 Solutions
+
+(a) phia¹¹.
+
+(b) Fill in the blanks:
+| Proto-Chamic | Phan Rang Cham | Tsat    | Meaning              |
+| :----------- | :------------- | :------ | :------------------- |
+| \*kulit      | kaliʔ          | naːi³³  | skin                 |
+| \*hitam      | hatam          | saːn¹¹  | black                |
+| \*bubah      | papàh          | paːi¹¹  | mouth                |
+| \*ʔikat      |                | ikat    | to tie               |
+|              | ikaʔ           | kai¹¹   |                      |
+| \*dəpa       |                | təpa    | fathom               |
+|              | pha¹¹          | tia⁴²   |                      |
+| \*matay      |                | matày   | to die               |
+|              | mɨtay          | thaːiʔ⁴² |                      |
+| \*dalam      |                | tàlam   | inside               |
+|              | talàm          | la⁵⁵    |                      |
+| \*labuh      |                | labuh   | to fall down         |
+|              | lipùh          | saːn⁴²  |                      |
+| \*bulaːn     |                | pəlaːn  | moon                 |
+|              | pilàn          | luaːn¹¹ |                      |
+| SHADED       | pala           | phà¹¹   | to plant             |
+| SHADED       | tapùh          | thaːi⁴² | to ransom            |
+| SHADED       | tatà           | tiaː¹¹  | chest                |

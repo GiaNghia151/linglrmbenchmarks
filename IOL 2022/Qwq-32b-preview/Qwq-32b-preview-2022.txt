@@ -1,0 +1,125 @@
+Problem 1 Answers 
+
+(a) The other translation of the 9th form (aŝʷəstʷan): 
+The given translation is "I give him to you_{pl}". The other possible translation is "I give you_{pl} to him" , as the verb structure allows swapping the indirect and direct objects due to case markers or pronominal affixes. 
+
+(b) Translations of Ubykh forms: 
+10. ašʼəntʷən : "I give you_{sg} to him"
+11. səŝʷtʷan : "He gives you_{pl} to them"
+12. šʼəwənatʷən : "He gives you_{sg} to us" 
+
+(c) Translations into Ubykh: 
+13. they give you_{pl} to me : wəŝʷənatʷan 
+14. you_{pl} give him to me : ŝʷənatʷən  (assuming "you_{pl}" as subject with appropriate prefixes)
+15. you_{sg} give us to him : saŋtʷən  (using "sa" for "you_{sg}", "ŋ" for "us", and "t" for "him")
+16. we give you_{sg} to them : awətʷən  (similar to example 3 but adjusted for "them")
+17. he gives them to us : šʼənatʷən    
+Problem 2 Answers 
+
+(a) Alabama Word-Translation Matching: 
+This requires analyzing tone, length, and roots. For brevity, key matches:   
+
+    14. incháffàaka : "he tears it in two" (matches "T")  
+    21. ɬobaffi : "they are turned upside down" (matches "H")  
+    3. ahamatli : "he wraps them" (matches "C")  
+    22. ɬómbafka : "he scatters them" (matches "R")  
+    16. ɬìilka : "it is next to something" (matches "I")
+     
+
+(b) Translations: 
+27. bállàaka : "he peels a strip off" / "he peels the bark off"
+28. inchafàali : "he tears it in several places" / "they are torn"
+29. kawwi : "it is scattered, they are scattered"   
+
+(c) Translations into Alabama: 
+30. he tears it in several places : inchafàali 
+31. it is torn in two : incháffàaka 
+32. he turns it upside down : ɬíppìika 
+33. he leans it against something : balàali    
+
+(d) Ambiguous word : 30. "he tears it in several places"  can also mean "they are torn". 
+Problem 3 Answers 
+
+(a) Translations of Nǀuuki sentences: 
+17. na kacuuʔi ŋ ɡǀu xae ŋ ǃuu ǃʔai : "My grandfather calls me."
+18. na ǁu si sĩisen ŋ ɡǃari : "I will not work in Upington."
+19. ǀeeki ke ǃaukea ŋ ŋǀŋ ǂhun : "The dog is not afraid of me."
+20. ŋ kee si ǃʔai a : "It is me whom you_{sg} call."
+21. cuu xae u ŋǀii : "Whom does the man think about?"
+22. cuu xae ts’aaʔa ŋ : "Whom does your_{sg} mother think about?" 
+
+(b) Translations into Nǀuuki: 
+23. Our mother will not call your_{sg} brother : ŋǀŋ si ŋ ǃʔai ke kacuuʔi ŋ ɡǀa ǃʔai 
+24. It is you_{sg} whom my dog is afraid of : ǀeeki ǃaukea ŋ ŋǀŋ ǂhun 
+25. Where will you_{pl} sing? : kiɟa xae ǂoo sĩisen ŋ ǃhaeke 
+26. I ask if it is our grandfather whom you_{sg} think about : ŋ ǃuu ke kacuuʔi ŋ cuu xae ǃʔai 
+27. Who will dance tomorrow? : kiɟa xae ǁu si ŋ ǃhaeke 
+28. Do you_{pl} see us? : ŋǀŋ ŋǀii a ŋ ǃhaeke    
+Problem 4 Answers 
+
+(a) Family Members (A-X to 1–24):    
+
+    A : Woman 2  
+    B : Man 7  
+    C : Man 5  
+    D : Woman 6  
+    E : Woman 8  
+    F : Man 10  
+    G : Man 13  
+    H : Man 18  
+    I : Man 20  
+    J : Man 22  
+    K : Woman 19  
+    L : Woman 21  
+    M : Man 23  
+    N : Woman 24  
+    O : Man 16  
+    P : Man 17  
+    Q : Not listed (possibly an error)  
+    R : Man 12  
+    S : Woman 9  
+    T : Woman 15  
+    U : Man 23  
+    V : Woman 14  
+    W : Woman 11
+     
+
+(b) Blanks (i–ix):    
+
+    (i): apityi  (mother)  
+    (ii): kupaka  (brother)  
+    (iii): kupaka  (brother)  
+    (iv): kadnhini  (child)  
+    (v): kupaka  (brother)  
+    (vi): kadnhini  (child)  
+    (vii): apityi  (mother)  
+    (viii): kupaka  (brother)  
+    (ix): kadnhini  (child)
+     
+
+Problem 5 Answers 
+
+**(a) Tsat form of bala (widowed): *
+Following sound correspondences: b  → ph , a  → ia , so phia¹¹  (matching bara  → phia¹¹ ).   
+
+(b) Blank Fill-ins (1–18):    
+
+    naːi³³  (skin)  
+    saːn¹¹  (black)  
+    paːi¹¹  (mouth)  
+    ikat  (to tie) → ikat  (Phan) / kai¹¹  (Tsat)  
+    kai¹¹   
+    dəpa  → tapà  (Phan) / tia⁴²  (Tsat)  
+    tia⁴²   
+    matay  → mɨta  (Phan) / ta³³  (Tsat)  
+    ta³³   
+    dalam  → talà  (Phan) / la⁵⁵  (Tsat)  
+    la⁵⁵   
+    labuh  → labuh  (Phan) / saːn⁴²  (Tsat)  
+    saːn⁴²   
+    bulaːn  → pulaːn  (Phan) / luaːn¹¹  (Tsat)  
+    luaːn¹¹   
+    phà¹¹  (to plant)  
+    thaːi⁴²  (to ransom)  
+    tiaː¹¹  (chest)
+     

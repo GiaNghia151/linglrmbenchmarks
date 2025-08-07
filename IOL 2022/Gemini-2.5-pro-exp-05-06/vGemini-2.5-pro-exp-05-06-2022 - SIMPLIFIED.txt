@@ -1,0 +1,140 @@
+### Problem 1 Solutions
+
+(a) Other translation: I give them to you_{pl}.
+
+(b) Translations into English:
+10. — we give them to him.
+11. — he gives me to you_{pl}.
+12. — he gives us to you_{sg}.
+
+(c) Translations into Ubykh:
+13. — ŝʷəsənatʷən.
+14. — asəŝʷtʷən.
+15. — šʼəwtʷən.
+16. — wəantʷən.
+17. — ašʼtʷan.
+
+### Problem 2 Solutions
+
+(a) Correspondences:
+1. — 1-C
+2. — 2-Z
+3. — 3-I
+4. — 4-S
+5. — 5-M
+6. — 6-Q
+7. — 7-H
+8. — 8-G
+9. — 9-N
+10. — 10-T
+11. — 11-L
+12. — 12-D
+13. — 13-V
+14. — 14-R
+15. — 15-K
+16. — 16-J
+17. — 17-B
+18. — 18-A
+19. — 19-E
+20. — 20-F
+21. — 21-X
+22. — 22-O
+23. — 23-P
+24. — 24-W
+25. — 25-Y
+26. — 26-U
+
+(b) Translations into English:
+27. — he lays them down / they are laid down (plural stative) (This one has two possible translations).
+28. — it is scattered.
+29. — he wraps it.
+
+(c) Translations into Alabama:
+30. — atánnàaka.
+31. — atàali.
+32. — apoti.
+33. — atanayi.
+
+(d) atánnàaka ("he tears it in several places") can also mean "he tears them (in several places)".
+
+### Problem 3 Solutions
+
+(a) Translations into English:
+17. — I ask if it is your_{sg} grandfather whom you_{sg} call.
+18. — I will not work in Upington.
+19. — The woman is afraid of my dog.
+20. — It is me whom you_{sg} will call.
+21. — Whom do you_{pl} see?
+22. — Whom does he/she like?
+
+(b) Translations into Nǀuuki:
+23. — ɡǀi xaŋki ǁu si ǃʔai ŋ ɡǀa ǁãu.
+24. — ɡǀa kee ŋǀŋ ǂhun ǃaukea ŋ.
+25. — kiɟa xae u si ǂqheeke ŋǁa.
+26. — na kacuuʔi ŋ ɡǀi ǃuu xae a ǂʔii ŋ ŋ.
+27. — cuu xae si ǀqhõʕo ŋ ǃhaeke ŋǁa.
+28. — u ŋǀii ɡǀi ŋ.
+
+### Problem 4 Solutions
+
+(a) Mapping:
+
+A = 13
+B = 11
+C = 9
+D = 12
+E = 7
+F = 14
+G = 8
+H = 22
+I = 17
+J = 16
+K = 24
+L = 20
+M = 21
+O = 23
+P = 15
+R = 19
+S = 4
+T = 2
+U = 18
+V = 6
+W = 5
+X = 1
+(Non-speakers: Man 3, Man 10 (N))
+
+(b) Fill in the blanks:
+
+(i) nhuka (wife)
+(ii) ngangki (father)
+(iii) apityi (younger brother of male)
+(iv) kaku (classificatory 'grandfather' type term)
+(v) kadnhini (cross-cousin type term)
+(vi) kadnhini (cross-cousin type term)
+(vii) lhuka (parallel cousin same sex, 'sibling' type term)
+(viii) nhuka (wife)
+(ix) nhuthi (father's brother / 'uncle')
+
+### Problem 5 Solutions
+
+(a) *phila¹¹.
+
+(b) Fill in the blanks:
+1. — kiʔ⁴².
+2. — than³³.
+3. — pha⁵⁵.
+4. — ikaʔ.
+5. — kaʔ²⁴.
+6. — tàpa.
+7. — pha¹¹.
+8. — mɨtay.
+9. — taiʔ⁴².
+10. — talàm.
+11. — laːn¹¹.
+12. — lipùh.
+13. — phu⁵⁵.
+14. — pilàn.
+15. — phlaːn¹¹.
+16. — la³³.
+17. — phu⁵⁵.
+18. — ta¹¹.

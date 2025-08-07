@@ -1,0 +1,141 @@
+Great. Good job on the FIFTH one! Please FORGET the last LLM answer and FULLY FOCUS on the next one. Here is the next LLM answers for you to grade. Once again, do not change the LLM answers, simply grade them according to model answers and our rubric.
+
+### Problem 1 Solutions
+
+(a) Other translation: I give her to you_{sg}.
+
+(b) Translations into English:
+10. — I give you_{sg} to us.
+11. — You_{sg} give me to you_{pl}.
+12. — You_{sg} give them to me.
+
+(c) Translations into Ubykh:
+13. — ŝʷəstʷnatʷən.
+14. — wəstʷnatʷən.
+15. — šʼanstʷtʷən.
+16. — wəšʼstʷtʷən (written simply wəšʼtʷən).
+17. — wəstʷnatʷən.
+
+### Problem 2 Solutions
+
+(a) Correspondences:
+1. achánnàaka — R. he scatters it, he scatters them
+2. achanni — T. he tears it in two
+3. ahamatli — B. he lays them down
+4. ahámmatka — V. he lays it down
+5. apòotka — U. he has one
+6. apotòoli — Z. he wraps it
+7. apóttòoka — D. he puts it next to something
+8. atanayli — G. it leans against something
+9. atánnayka — N. he leans them against something
+10. atanni — L. they lie, are lying down
+11. bàalka — X. he peels the bark off
+12. balàali — Y. he peels a strip off
+13. balli — L. they lie, are lying down
+14. incháffàaka — M. it is scattered, they are scattered
+15. kawaɬɬi — O. he makes holes
+16. ɬìilka — W. it has a hole
+17. ɬìipka — P. he makes a hole
+18. ɬilaffi — J. it has holes, they have holes
+19. ɬipli — W. it has a hole
+20. ɬíppìika — Q. it is turned upside down
+21. ɬobaffi — E. he turns them upside down
+22. ɬómbafka — C. he wraps them
+23. ɬombi — K. it is wrapped
+24. ɬòomka — F. it is torn in several places, they are torn
+25. sibapli — S. they are next to something
+26. simbi — I. it is next to something
+
+(b) Translations into English:
+27. — He scatters them.
+28. — They (or it collectively) are scattered.
+29. — He leans it against something. / They lean it against something.
+
+(c) Translations into Alabama:
+30. — ɬòomka.
+31. — achanni.
+32. — ɬobaffi.
+33. — atanayka.
+
+(d) ɬìipka — He digs a hole.
+
+### Problem 3 Solutions
+
+(a) Translations into English:
+17. — I ask if it is my grandfather who calls me.
+18. — I will work in Upington tomorrow.
+19. — Is it you_{pl} whose dog is afraid of me?
+20. — Will you_{sg} call me?
+21. — Whom do you_{pl} see?
+22. — Whom do you_{sg} like?
+
+(b) Translations into Nǀuuki:
+23. — ɡǁu kee si ǃʔai a ǁãu.
+24. — a ke ŋǂhun ke ǃaukea a.
+25. — kiɟa si ǂqheeke ǀeeki.
+26. — na kacuuʔi ŋ ɡǃuu cuu xae a ǂʔii ŋ.
+
+### Problem 4 Solutions
+
+(a) Mapping:
+
+1 = F
+2 = G
+3 = Q
+4 = W
+5 = C
+6 = A
+7 = B
+8 = E
+9 = O
+10 = D
+11 = M
+12 = H
+13 = S
+14 = V
+15 = R
+16 = N
+17 = U
+18 = J
+19 = P
+20 =
+21 = T
+22 = I
+23 = K
+24 = L
+
+(b) Fill in the blanks:
+
+(i) nhupa
+(ii) apityi
+(iii) kupaka
+(iv) kadnhini
+(v) amanyi
+(vi) kadnhini
+(vii) lhuka
+(viii) apityi
+(ix) thanti
+
+### Problem 5 Solutions
+
+(a) *phia¹¹*.
+
+(b) Fill in the blanks:
+1.  khúi⁵⁵
+2.  hàtá⁴²
+3.  pàbá⁵⁵
+4.  ʔi͂a⁵⁵
+5.  ʔi͂a⁵⁵
+6.  ta͂pá⁵⁵
+7.  ta͂pá⁵⁵
+8.  mátái⁴²
+9.  mátái⁴²
+10. tálam¹¹
+11. tálam¹¹
+12. tàpà²⁴
+13. tàpà²⁴
+14. pàlai³³
+15. pàlai³³
+16. pàiá⁴²
+17. tàpʰà⁴²
+18. táta⁵⁵
